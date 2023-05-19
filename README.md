@@ -8,4 +8,5 @@
 |      91       |    [解码方法](https://leetcode.cn/problems/decode-ways/)     | 动态规划 |   C++    |   Medium   |
 |      62       |    [不同路径](https://leetcode.cn/problems/unique-paths/)    | 动态规划 |   C++    |   Medium   |
 |      63       | [不同路径 ll](https://leetcode.cn/problems/unique-paths-ii/) | 动态规划 |   C++    |   Medium   |
+| 剑指Offer 47  | [礼物的最大价值](https://leetcode.cn/problems/li-wu-de-zui-da-jie-zhi-lcof/) | 动态规划 |   C++    |   Medium   |
 
