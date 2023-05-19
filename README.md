@@ -6,4 +6,6 @@
 | 面试题 08. 01 | [三步问题](https://leetcode.cn/problems/three-steps-problem-lcci/) | 动态规划 |   C++    |    Easy    |
 |      746      | [使用最小花费爬楼梯](https://leetcode.cn/problems/min-cost-climbing-stairs/) | 动态规划 |   C++    |    Easy    |
 |      91       |    [解码方法](https://leetcode.cn/problems/decode-ways/)     | 动态规划 |   C++    |   Medium   |
+|      62       |    [不同路径](https://leetcode.cn/problems/unique-paths/)    | 动态规划 |   C++    |   Medium   |
+|      63       | [不同路径 ll](https://leetcode.cn/problems/unique-paths-ii/) | 动态规划 |   C++    |   Medium   |
 
