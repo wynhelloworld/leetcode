@@ -12,4 +12,5 @@
 |      931      |                      [下降路径最小和]()                      | 动态规划 |   C++    |   Medium   |
 |      64       | [最小路径和](https://leetcode.cn/problems/minimum-path-sum/) | 动态规划 |   C++    |   Medium   |
 |      174      |   [地下城游戏](https://leetcode.cn/problems/dungeon-game/)   | 动态规划 |   C++    |    Hard    |
+| 面试题 17.16  |  [按摩师](https://leetcode.cn/problems/the-masseuse-lcci/)   | 动态规划 |   C++    |    Easy    |
 
