@@ -15,4 +15,5 @@
 | 面试题 17.16  |  [按摩师](https://leetcode.cn/problems/the-masseuse-lcci/)   | 动态规划 |   C++    |    Easy    |
 |      198      |    [打家劫舍](https://leetcode.cn/problems/house-robber/)    | 动态规划 |   C++    |   Medium   |
 |      213      | [打家劫舍 II](https://leetcode.cn/problems/house-robber-ii/) | 动态规划 |   C++    |   Medium   |
+|      740      | [删除并获得点数](https://leetcode.cn/problems/delete-and-earn/) | 动态规划 |   C++    |   Medium   |
 
