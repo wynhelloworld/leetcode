@@ -23,4 +23,6 @@
 |       188        | [买卖股票的最佳时机 IV](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-iv/) | 动态规划 |   C++    |    Hard    |
 |       714        | [买卖股票的最佳时机含手续费](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) | 动态规划 |   C++    |   Medium   |
 |       309        | [最佳买卖股票时机含冷冻期](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | 动态规划 |   C++    |   Medium   |
+|        53        | [最大子数组和](https://leetcode.cn/problems/maximum-subarray/) | 动态规划 |   C++    |   Medium   |
+|       918        | [环形子数组的最大和](https://leetcode.cn/problems/maximum-sum-circular-subarray/) | 动态规划 |   C++    |   Medium   |
 
