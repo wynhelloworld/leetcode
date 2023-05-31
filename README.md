@@ -25,4 +25,6 @@
 |       309        | [最佳买卖股票时机含冷冻期](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | 动态规划 |   C++    |   Medium   |
 |        53        | [最大子数组和](https://leetcode.cn/problems/maximum-subarray/) | 动态规划 |   C++    |   Medium   |
 |       918        | [环形子数组的最大和](https://leetcode.cn/problems/maximum-sum-circular-subarray/) | 动态规划 |   C++    |   Medium   |
+|       152        | [乘积最大子数组](https://leetcode.cn/problems/maximum-product-subarray/) | 动态规划 |   C++    |   Medium   |
+|       1567       | [乘积为正数的最长子数组长度](https://leetcode.cn/problems/maximum-length-of-subarray-with-positive-product/) | 动态规划 |   C++    |   Medium   |
 
