@@ -27,4 +27,5 @@
 |       918        | [环形子数组的最大和](https://leetcode.cn/problems/maximum-sum-circular-subarray/) | 动态规划 |   C++    |   Medium   |
 |       152        | [乘积最大子数组](https://leetcode.cn/problems/maximum-product-subarray/) | 动态规划 |   C++    |   Medium   |
 |       1567       | [乘积为正数的最长子数组长度](https://leetcode.cn/problems/maximum-length-of-subarray-with-positive-product/) | 动态规划 |   C++    |   Medium   |
+|       413        | [等差数列划分](https://leetcode.cn/problems/arithmetic-slices/) | 动态规划 |   C++    |   Medium   |
 
