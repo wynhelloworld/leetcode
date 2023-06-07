@@ -1,7 +1,7 @@
 # LeetCode
 
-|        #         |                            Title                             | Type     | Solution | Difficulty |
-| :--------------: | :----------------------------------------------------------: | -------- | :------: | :--------: |
+|        #         |                            Title                             |   Type   | Solution | Difficulty |
+| :--------------: | :----------------------------------------------------------: | :------: | :------: | :--------: |
 |       1137       | [第N个泰波那契数](https://leetcode.cn/problems/n-th-tribonacci-number/) | 动态规划 |   C++    |    Easy    |
 |  面试题 08. 01   | [三步问题](https://leetcode.cn/problems/three-steps-problem-lcci/) | 动态规划 |   C++    |    Easy    |
 |       746        | [使用最小花费爬楼梯](https://leetcode.cn/problems/min-cost-climbing-stairs/) | 动态规划 |   C++    |    Easy    |
@@ -31,4 +31,5 @@
 |       978        | [最长湍流子数组](https://leetcode.cn/problems/longest-turbulent-subarray/) | 动态规划 |   C++    |   Medium   |
 |       139        |     [单词拆分](https://leetcode.cn/problems/word-break/)     | 动态规划 |   C++    |   Medium   |
 |       467        | [环绕字符串中唯一的子字符串](https://leetcode.cn/problems/unique-substrings-in-wraparound-string/) | 动态规划 |   C++    |   Medium   |
+|       300        | [最长递增子序列](https://leetcode.cn/problems/longest-increasing-subsequence/) | 动态规划 |   C++    |   Medium   |
 
