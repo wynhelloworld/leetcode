@@ -8,7 +8,7 @@
 |        91        |    [解码方法](https://leetcode.cn/problems/decode-ways/)     | 动态规划 | C++, Java |   Medium   |
 |        62        |    [不同路径](https://leetcode.cn/problems/unique-paths/)    | 动态规划 | C++, Java |   Medium   |
 |        63        | [不同路径 ll](https://leetcode.cn/problems/unique-paths-ii/) | 动态规划 | C++, java |   Medium   |
-|   剑指Offer 47   | [礼物的最大价值](https://leetcode.cn/problems/li-wu-de-zui-da-jie-zhi-lcof/) | 动态规划 |    C++    |   Medium   |
+|   剑指Offer 47   | [礼物的最大价值](https://leetcode.cn/problems/li-wu-de-zui-da-jie-zhi-lcof/) | 动态规划 | C++, Java |   Medium   |
 |       931        |                      [下降路径最小和]()                      | 动态规划 |    C++    |   Medium   |
 |        64        | [最小路径和](https://leetcode.cn/problems/minimum-path-sum/) | 动态规划 |    C++    |   Medium   |
 |       174        |   [地下城游戏](https://leetcode.cn/problems/dungeon-game/)   | 动态规划 |    C++    |    Hard    |
