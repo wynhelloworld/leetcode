@@ -11,7 +11,7 @@
 |   剑指Offer 47   | [礼物的最大价值](https://leetcode.cn/problems/li-wu-de-zui-da-jie-zhi-lcof/) | 动态规划 | C++, Java |   Medium   |
 |       931        | [下降路径最小和](https://leetcode.cn/problems/minimum-falling-path-sum/) | 动态规划 | C++, Java |   Medium   |
 |        64        | [最小路径和](https://leetcode.cn/problems/minimum-path-sum/) | 动态规划 | C++, Java |   Medium   |
-|       174        |   [地下城游戏](https://leetcode.cn/problems/dungeon-game/)   | 动态规划 |    C++    |    Hard    |
+|       174        |   [地下城游戏](https://leetcode.cn/problems/dungeon-game/)   | 动态规划 | C++, Java |    Hard    |
 |   面试题 17.16   |  [按摩师](https://leetcode.cn/problems/the-masseuse-lcci/)   | 动态规划 |    C++    |    Easy    |
 |       198        |    [打家劫舍](https://leetcode.cn/problems/house-robber/)    | 动态规划 |    C++    |   Medium   |
 |       213        | [打家劫舍 II](https://leetcode.cn/problems/house-robber-ii/) | 动态规划 |    C++    |   Medium   |
