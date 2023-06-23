@@ -18,15 +18,15 @@
 |       740        | [删除并获得点数](https://leetcode.cn/problems/delete-and-earn/) | 动态规划 | C++, Java |   Medium   |
 | 剑指Offer II 091 |       [粉刷房子](https://leetcode.cn/problems/JEj789/)       | 动态规划 | C++, Java |   Medium   |
 |       121        | [买卖股票的最佳时机](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock/) | 动态规划 | C++, Java |    Easy    |
-|       122        | [买卖股票的最佳时机 II](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-ii/) | 动态规划 | C++, java |   Medium   |
+|       122        | [买卖股票的最佳时机 II](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-ii/) | 动态规划 | C++, Java |   Medium   |
 |       123        | [买卖股票的最佳时机 III](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-iii/) | 动态规划 | C++, Java |    Hard    |
 |       188        | [买卖股票的最佳时机 IV](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-iv/) | 动态规划 | C++, Java |    Hard    |
-|       714        | [买卖股票的最佳时机含手续费](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) | 动态规划 |    C++    |   Medium   |
-|       309        | [最佳买卖股票时机含冷冻期](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | 动态规划 |    C++    |   Medium   |
-|        53        | [最大子数组和](https://leetcode.cn/problems/maximum-subarray/) | 动态规划 |    C++    |   Medium   |
-|       918        | [环形子数组的最大和](https://leetcode.cn/problems/maximum-sum-circular-subarray/) | 动态规划 |    C++    |   Medium   |
-|       152        | [乘积最大子数组](https://leetcode.cn/problems/maximum-product-subarray/) | 动态规划 |    C++    |   Medium   |
-|       1567       | [乘积为正数的最长子数组长度](https://leetcode.cn/problems/maximum-length-of-subarray-with-positive-product/) | 动态规划 |    C++    |   Medium   |
+|       714        | [买卖股票的最佳时机含手续费](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) | 动态规划 | C++, Java |   Medium   |
+|       309        | [最佳买卖股票时机含冷冻期](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | 动态规划 | C++, Java |   Medium   |
+|        53        | [最大子数组和](https://leetcode.cn/problems/maximum-subarray/) | 动态规划 | C++, Java |   Medium   |
+|       918        | [环形子数组的最大和](https://leetcode.cn/problems/maximum-sum-circular-subarray/) | 动态规划 | C++, Java |   Medium   |
+|       152        | [乘积最大子数组](https://leetcode.cn/problems/maximum-product-subarray/) | 动态规划 | C++, Java |   Medium   |
+|       1567       | [乘积为正数的最长子数组长度](https://leetcode.cn/problems/maximum-length-of-subarray-with-positive-product/) | 动态规划 | C++, Java |   Medium   |
 |       413        | [等差数列划分](https://leetcode.cn/problems/arithmetic-slices/) | 动态规划 |    C++    |   Medium   |
 |       978        | [最长湍流子数组](https://leetcode.cn/problems/longest-turbulent-subarray/) | 动态规划 |    C++    |   Medium   |
 |       139        |     [单词拆分](https://leetcode.cn/problems/word-break/)     | 动态规划 |    C++    |   Medium   |
