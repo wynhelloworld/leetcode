@@ -29,7 +29,7 @@
 |       1567       | [乘积为正数的最长子数组长度](https://leetcode.cn/problems/maximum-length-of-subarray-with-positive-product/) | 动态规划 | C++, Java |   Medium   |
 |       413        | [等差数列划分](https://leetcode.cn/problems/arithmetic-slices/) | 动态规划 | C++, Java |   Medium   |
 |       978        | [最长湍流子数组](https://leetcode.cn/problems/longest-turbulent-subarray/) | 动态规划 | C++, Java |   Medium   |
-|       139        |     [单词拆分](https://leetcode.cn/problems/word-break/)     | 动态规划 |    C++    |   Medium   |
+|       139        |     [单词拆分](https://leetcode.cn/problems/word-break/)     | 动态规划 | C++, Java |   Medium   |
 |       467        | [环绕字符串中唯一的子字符串](https://leetcode.cn/problems/unique-substrings-in-wraparound-string/) | 动态规划 |    C++    |   Medium   |
 |       300        | [最长递增子序列](https://leetcode.cn/problems/longest-increasing-subsequence/) | 动态规划 |    C++    |   Medium   |
 
