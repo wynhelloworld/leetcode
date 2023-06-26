@@ -32,4 +32,5 @@
 |       139        |     [单词拆分](https://leetcode.cn/problems/word-break/)     | 动态规划 | C++, Java |   Medium   |
 |       467        | [环绕字符串中唯一的子字符串](https://leetcode.cn/problems/unique-substrings-in-wraparound-string/) | 动态规划 | C++, Java |   Medium   |
 |       300        | [最长递增子序列](https://leetcode.cn/problems/longest-increasing-subsequence/) | 动态规划 | C++, Java |   Medium   |
+|       376        | [摆动序列](https://leetcode.cn/problems/wiggle-subsequence/) | 动态规划 |    C++    |   Medium   |
 
