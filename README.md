@@ -37,4 +37,5 @@
 |       646        | [最长数对链](https://leetcode.cn/problems/maximum-length-of-pair-chain/) | 动态规划 |    C++    |   Medium   |
 |       1218       | [最长定差子序列](https://leetcode.cn/problems/longest-arithmetic-subsequence-of-given-difference/) | 动态规划 |    C++    |   Medium   |
 |       873        | [最长的斐波那契子序列的长度](https://leetcode.cn/problems/length-of-longest-fibonacci-subsequence/) | 动态规划 |    C++    |   Medium   |
+|       1027       | [最长等差数列](https://leetcode.cn/problems/longest-arithmetic-subsequence/) | 动态规划 |    C++    |   Medium   |
 
