@@ -40,4 +40,5 @@
 |       1027       | [最长等差数列](https://leetcode.cn/problems/longest-arithmetic-subsequence/) | 动态规划 |    C++    |   Medium   |
 |       446        | [等差数列划分 II - 子序列](https://leetcode.cn/problems/arithmetic-slices-ii-subsequence/) | 动态规划 |    C++    |    Hard    |
 |       647        | [回文子串](https://leetcode.cn/problems/palindromic-substrings/) | 动态规划 |    C++    |   Medium   |
+|        5         | [最长回文子串](https://leetcode.cn/problems/longest-palindromic-substring/) | 动态规划 |    C++    |   Medium   |
 
