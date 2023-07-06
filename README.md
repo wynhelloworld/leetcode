@@ -42,4 +42,5 @@
 |       647        | [回文子串](https://leetcode.cn/problems/palindromic-substrings/) | 动态规划 |    C++    |   Medium   |
 |        5         | [最长回文子串](https://leetcode.cn/problems/longest-palindromic-substring/) | 动态规划 |    C++    |   Medium   |
 |       1745       | [回文串分割 IV](https://leetcode.cn/problems/palindrome-partitioning-iv/) | 动态规划 |    C++    |    Hard    |
+|       132        | [分割回文串 II](https://leetcode.cn/problems/palindrome-partitioning-ii/) | 动态规划 |    C++    |    Hard    |
 
