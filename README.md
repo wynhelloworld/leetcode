@@ -43,4 +43,6 @@
 |        5         | [最长回文子串](https://leetcode.cn/problems/longest-palindromic-substring/) | 动态规划 |    C++    |   Medium   |
 |       1745       | [回文串分割 IV](https://leetcode.cn/problems/palindrome-partitioning-iv/) | 动态规划 |    C++    |    Hard    |
 |       132        | [分割回文串 II](https://leetcode.cn/problems/palindrome-partitioning-ii/) | 动态规划 |    C++    |    Hard    |
+|       516        | [最长回文子序列](https://leetcode.cn/problems/longest-palindromic-subsequence/) | 动态规划 |    C++    |   Medium   |
+|       1312       | [让字符串成为回文串的最少插入次数](https://leetcode.cn/problems/minimum-insertion-steps-to-make-a-string-palindrome/) | 动态规划 |    C++    |    Hard    |
 
