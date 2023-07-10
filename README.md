@@ -49,4 +49,5 @@
 |       1035       | [不相交的线](https://leetcode.cn/problems/uncrossed-lines/)  | 动态规划 |    C++    |   Medium   |
 |       115        | [不同的子序列](https://leetcode.cn/problems/distinct-subsequences/) | 动态规划 |    C++    |    Hard    |
 |        44        | [通配符匹配](https://leetcode.cn/problems/wildcard-matching/) | 动态规划 |    C++    |    Hard    |
+|        10        | [正则表达式匹配](https://leetcode.cn/problems/regular-expression-matching/) | 动态规划 |    C++    |    Hard    |
 
