@@ -50,4 +50,7 @@
 |       115        | [不同的子序列](https://leetcode.cn/problems/distinct-subsequences/) | 动态规划 |    C++    |    Hard    |
 |        44        | [通配符匹配](https://leetcode.cn/problems/wildcard-matching/) | 动态规划 |    C++    |    Hard    |
 |        10        | [正则表达式匹配](https://leetcode.cn/problems/regular-expression-matching/) | 动态规划 |    C++    |    Hard    |
+|        97        | [交错字符串](https://leetcode.cn/problems/interleaving-string/) | 动态规划 |    C++    |   Medium   |
+|       712        | [两个字符串的最小ASCII删除和](https://leetcode.cn/problems/minimum-ascii-delete-sum-for-two-strings/) | 动态规划 |    C++    |   Medium   |
+|       718        | [最长重复子数组](https://leetcode.cn/problems/maximum-length-of-repeated-subarray/) | 动态规划 |    C++    |   Medium   |
 
