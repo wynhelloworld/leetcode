@@ -53,4 +53,5 @@
 |        97        | [交错字符串](https://leetcode.cn/problems/interleaving-string/) | 动态规划 |    C++    |   Medium   |
 |       712        | [两个字符串的最小ASCII删除和](https://leetcode.cn/problems/minimum-ascii-delete-sum-for-two-strings/) | 动态规划 |    C++    |   Medium   |
 |       718        | [最长重复子数组](https://leetcode.cn/problems/maximum-length-of-repeated-subarray/) | 动态规划 |    C++    |   Medium   |
+|    牛客网DP41    | [【模版】01背包](https://www.nowcoder.com/practice/fd55637d3f24484e96dad9e992d3f62e?tpId=230&tqId=2032484&ru=/exam/oj&qru=/ta/dynamic-programming/question-ranking&sourceUrl=%2Fexam%2Foj%3Fpage%3D1%26tab%3D%25E7%25AE%2597%25E6%25B3%2595%25E7%25AF%2587%26topicId%3D196) | 动态规划 |    C++    |   Medium   |
 
