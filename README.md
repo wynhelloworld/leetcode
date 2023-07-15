@@ -55,4 +55,6 @@
 |       718        | [最长重复子数组](https://leetcode.cn/problems/maximum-length-of-repeated-subarray/) | 动态规划 |    C++    |   Medium   |
 |    牛客网DP41    | [【模版】01背包](https://www.nowcoder.com/practice/fd55637d3f24484e96dad9e992d3f62e?tpId=230&tqId=2032484&ru=/exam/oj&qru=/ta/dynamic-programming/question-ranking&sourceUrl=%2Fexam%2Foj%3Fpage%3D1%26tab%3D%25E7%25AE%2597%25E6%25B3%2595%25E7%25AF%2587%26topicId%3D196) | 动态规划 |    C++    |   Medium   |
 |       416        | [分割等和子集](https://leetcode.cn/problems/partition-equal-subset-sum/) | 动态规划 |    C++    |   Medium   |
+|       494        |      [目标和](https://leetcode.cn/problems/target-sum/)      | 动态规划 |    C++    |   Medium   |
+|       1049       | [最后一块石头的重量 II](https://leetcode.cn/problems/last-stone-weight-ii/) | 动态规划 |    C++    |   Medium   |
 
