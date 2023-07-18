@@ -59,4 +59,5 @@
 |       1049       | [最后一块石头的重量 II](https://leetcode.cn/problems/last-stone-weight-ii/) | 动态规划 |    C++    |   Medium   |
 |    牛客网DP42    | [【模版】完全背包](https://www.nowcoder.com/practice/237ae40ea1e84d8980c1d5666d1c53bc?tpId=230&tqId=2032575&ru=/exam/oj&qru=/ta/dynamic-programming/question-ranking&sourceUrl=%2Fexam%2Foj%3Fpage%3D1%26tab%3D%25E7%25AE%2597%25E6%25B3%2595%25E7%25AF%2587%26topicId%3D196) | 动态规划 |    C++    |   Medium   |
 |       322        |    [零钱兑换](https://leetcode.cn/problems/coin-change/)     | 动态规划 |    C++    |   Medium   |
+|       518        | [零钱兑换 II](https://leetcode.cn/problems/coin-change-ii/)  | 动态规划 |    C++    |   Medium   |
 
