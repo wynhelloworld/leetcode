@@ -62,4 +62,5 @@
 |       518        | [零钱兑换 II](https://leetcode.cn/problems/coin-change-ii/)  | 动态规划 |    C++    |   Medium   |
 |       279        | [完全平方数](https://leetcode.cn/problems/perfect-squares/)  | 动态规划 |    C++    |   Medium   |
 |       474        |   [一和零](https://leetcode.cn/problems/ones-and-zeroes/)    | 动态规划 |    C++    |   Medium   |
+|       879        | [盈利计划](https://leetcode.cn/problems/profitable-schemes/) | 动态规划 |    C++    |    Hard    |
 
