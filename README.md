@@ -63,4 +63,6 @@
 |       279        | [完全平方数](https://leetcode.cn/problems/perfect-squares/)  | 动态规划 |    C++    |   Medium   |
 |       474        |   [一和零](https://leetcode.cn/problems/ones-and-zeroes/)    | 动态规划 |    C++    |   Medium   |
 |       879        | [盈利计划](https://leetcode.cn/problems/profitable-schemes/) | 动态规划 |    C++    |    Hard    |
+|       377        | [组合总和 Ⅳ](https://leetcode.cn/problems/combination-sum-iv/) | 动态规划 |    C++    |   Medium   |
+|        96        | [不同的二叉搜索树](https://leetcode.cn/problems/unique-binary-search-trees/) | 动态规划 |    C++    |   Medium   |
 
