@@ -67,4 +67,5 @@
 |        96        | [不同的二叉搜索树](https://leetcode.cn/problems/unique-binary-search-trees/) | 动态规划 |    C++    |   Medium   |
 |       283        |     [移动零](https://leetcode.cn/problems/move-zeroes/)      |  双指针  |    C++    |    Easy    |
 |       1089       |   [复写零](https://leetcode.cn/problems/duplicate-zeros/)    |  双指针  |    C++    |    Easy    |
+|       202        |     [快乐数](https://leetcode.cn/problems/happy-number/)     |  双指针  |    C++    |    Easy    |
 
