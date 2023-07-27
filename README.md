@@ -69,4 +69,5 @@
 |       1089       |   [复写零](https://leetcode.cn/problems/duplicate-zeros/)    |  双指针  |    C++    |    Easy    |
 |       202        |     [快乐数](https://leetcode.cn/problems/happy-number/)     |  双指针  |    C++    |    Easy    |
 |        11        | [盛最多水的容器](https://leetcode.cn/problems/container-with-most-water/) |  双指针  |    C++    |   Medium   |
+|       611        | [有效三角形的个数](https://leetcode.cn/problems/valid-triangle-number/) |  双指针  |    C++    |   Medium   |
 
