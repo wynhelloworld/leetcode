@@ -5,7 +5,7 @@
 /**
  * 本题跟三数之和一样，只是多了一个固定值进而多了一重循环而已，本题跟三数之和有一个区别就是：
  *     三数之和能根据if(nums[i] > 0) 直接return result;
- *     但四数之和不能这样，因为本题是要求target，而target是有可能为负数的，一旦为负数，if(nums[i] > target) 就return result;的思路就错了。 
+ *     但四数之和不能这样，因为本题是要求target，而target是有可能为负数的，一旦为负数，if(nums[i] > target) 就return result的思路就错了。 
  */
 
 class Solution {
