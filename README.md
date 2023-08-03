@@ -76,4 +76,6 @@
 |       209        | [长度最小的子数组](https://leetcode.cn/problems/minimum-size-subarray-sum/) | 滑动窗口 |    C++    |   Medium   |
 |        3         | [ 无重复字符的最长子串](https://leetcode.cn/problems/longest-substring-without-repeating-characters/) | 滑动窗口 |    C++    |   Medium   |
 |       1004       | [最大连续1的个数 III](https://leetcode.cn/problems/max-consecutive-ones-iii/) | 滑动窗口 |    C++    |   Medium   |
+|       1658       | [将 x 减到 0 的最小操作数](https://leetcode.cn/problems/minimum-operations-to-reduce-x-to-zero/) | 滑动窗口 |    C++    |   Medium   |
+|       904        | [水果成篮](https://leetcode.cn/problems/fruit-into-baskets/) | 滑动窗口 |    C++    |   Medium   |
 
