@@ -78,4 +78,5 @@
 |       1004       | [最大连续1的个数 III](https://leetcode.cn/problems/max-consecutive-ones-iii/) | 滑动窗口 |    C++    |   Medium   |
 |       1658       | [将 x 减到 0 的最小操作数](https://leetcode.cn/problems/minimum-operations-to-reduce-x-to-zero/) | 滑动窗口 |    C++    |   Medium   |
 |       904        | [水果成篮](https://leetcode.cn/problems/fruit-into-baskets/) | 滑动窗口 |    C++    |   Medium   |
+|       438        | [找到字符串中所有字母异位词](https://leetcode.cn/problems/find-all-anagrams-in-a-string/) | 滑动窗口 |    C++    |   Medium   |
 
