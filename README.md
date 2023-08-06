@@ -80,4 +80,5 @@
 |       904        | [水果成篮](https://leetcode.cn/problems/fruit-into-baskets/) | 滑动窗口 |    C++    |   Medium   |
 |       438        | [找到字符串中所有字母异位词](https://leetcode.cn/problems/find-all-anagrams-in-a-string/) | 滑动窗口 |    C++    |   Medium   |
 |        30        | [串联所有单词的子串](https://leetcode.cn/problems/substring-with-concatenation-of-all-words/) | 滑动窗口 |    C++    |    Hard    |
+|        76        | [ 最小覆盖子串](https://leetcode.cn/problems/minimum-window-substring/) | 滑动窗口 |    C++    |    Hard    |
 
