@@ -86,4 +86,5 @@
 |        35        | [搜索插入位置](https://leetcode.cn/problems/search-insert-position/) | 二分查找 |    C++    |    Easy    |
 |        69        |      [x 的平方根](https://leetcode.cn/problems/sqrtx/)       | 二分查找 |    C++    |    Easy    |
 |       852        | [山脉数组的峰顶索引](https://leetcode.cn/problems/peak-index-in-a-mountain-array/) | 二分查找 |    C++    |   Medium   |
+|       162        | [寻找峰值](https://leetcode.cn/problems/find-peak-element/)  | 二分查找 |    C++    |   Medium   |
 
