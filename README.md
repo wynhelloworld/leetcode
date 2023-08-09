@@ -82,4 +82,5 @@
 |        30        | [串联所有单词的子串](https://leetcode.cn/problems/substring-with-concatenation-of-all-words/) | 滑动窗口 |    C++    |    Hard    |
 |        76        | [ 最小覆盖子串](https://leetcode.cn/problems/minimum-window-substring/) | 滑动窗口 |    C++    |    Hard    |
 |       704        |   [二分查找](https://leetcode.cn/problems/binary-search/)    | 二分查找 |    C++    |    Easy    |
+|        34        | [在排序数组中查找元素的第一个和最后一个位置](https://leetcode.cn/problems/find-first-and-last-position-of-element-in-sorted-array/) | 二分查找 |    C++    |   Medium   |
 
