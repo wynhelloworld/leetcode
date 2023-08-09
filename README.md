@@ -83,4 +83,7 @@
 |        76        | [ 最小覆盖子串](https://leetcode.cn/problems/minimum-window-substring/) | 滑动窗口 |    C++    |    Hard    |
 |       704        |   [二分查找](https://leetcode.cn/problems/binary-search/)    | 二分查找 |    C++    |    Easy    |
 |        34        | [在排序数组中查找元素的第一个和最后一个位置](https://leetcode.cn/problems/find-first-and-last-position-of-element-in-sorted-array/) | 二分查找 |    C++    |   Medium   |
+|        35        | [搜索插入位置](https://leetcode.cn/problems/search-insert-position/) | 二分查找 |    C++    |    Easy    |
+|        69        |      [x 的平方根](https://leetcode.cn/problems/sqrtx/)       | 二分查找 |    C++    |    Easy    |
+|       852        | [山脉数组的峰顶索引](https://leetcode.cn/problems/peak-index-in-a-mountain-array/) | 二分查找 |    C++    |   Medium   |
 
