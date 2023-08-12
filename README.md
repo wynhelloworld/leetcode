@@ -89,4 +89,8 @@
 |        162         | [寻找峰值](https://leetcode.cn/problems/find-peak-element/)  | 二分查找 |    C++    |   Medium   |
 |        153         | [寻找旋转排序数组中的最小值](https://leetcode.cn/problems/find-minimum-in-rotated-sorted-array/) | 二分查找 |    C++    |   Medium   |
 | 剑指 Offer 53 - II | [0～n-1中缺失的数字](https://leetcode.cn/problems/que-shi-de-shu-zi-lcof/) | 二分查找 |    C++    |    Easy    |
+|     牛客网DP34     | [【模版】前缀和](https://www.nowcoder.com/practice/acead2f4c28c401889915da98ecdc6bf?tpId=230&tqId=2021480&ru=%2Fpractice%2F99eb8040d116414ea3296467ce81cbbc&qru=%2Fta%2Fdynamic-programming%2Fquestion-ranking&sourceUrl=) |  前缀和  |    C++    |    Easy    |
+|     牛客网DP35     | [【模版】二维前缀和](https://www.nowcoder.com/practice/99eb8040d116414ea3296467ce81cbbc?tpId=230&tqId=38962&ru=/exam/oj) |  前缀和  |    C++    |   Medium   |
+|        724         | [寻找数组的中心下标](https://leetcode.cn/problems/find-pivot-index/) |  前缀和  |    C++    |    Easy    |
+|        238         | [除自身以外数组的乘积](https://leetcode.cn/problems/product-of-array-except-self/) |  前缀和  |    C++    |   Medium   |
 
