@@ -93,4 +93,5 @@
 |     牛客网DP35     | [【模版】二维前缀和](https://www.nowcoder.com/practice/99eb8040d116414ea3296467ce81cbbc?tpId=230&tqId=38962&ru=/exam/oj) |  前缀和  |    C++    |   Medium   |
 |        724         | [寻找数组的中心下标](https://leetcode.cn/problems/find-pivot-index/) |  前缀和  |    C++    |    Easy    |
 |        238         | [除自身以外数组的乘积](https://leetcode.cn/problems/product-of-array-except-self/) |  前缀和  |    C++    |   Medium   |
+|        560         | [和为 K 的子数组](https://leetcode.cn/problems/subarray-sum-equals-k/) |  前缀和  |    C++    |   Medium   |
 
