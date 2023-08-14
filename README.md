@@ -94,4 +94,5 @@
 |        724         | [寻找数组的中心下标](https://leetcode.cn/problems/find-pivot-index/) |  前缀和  |    C++    |    Easy    |
 |        238         | [除自身以外数组的乘积](https://leetcode.cn/problems/product-of-array-except-self/) |  前缀和  |    C++    |   Medium   |
 |        560         | [和为 K 的子数组](https://leetcode.cn/problems/subarray-sum-equals-k/) |  前缀和  |    C++    |   Medium   |
+|        974         | [和可被 K 整除的子数组](https://leetcode.cn/problems/subarray-sums-divisible-by-k/) |  前缀和  |    C++    |   Medium   |
 
