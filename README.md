@@ -96,4 +96,5 @@
 |        560         | [和为 K 的子数组](https://leetcode.cn/problems/subarray-sum-equals-k/) |  前缀和  |    C++    |   Medium   |
 |        974         | [和可被 K 整除的子数组](https://leetcode.cn/problems/subarray-sums-divisible-by-k/) |  前缀和  |    C++    |   Medium   |
 |        525         |  [连续数组](https://leetcode.cn/problems/contiguous-array/)  |  前缀和  |    C++    |   Medium   |
+|        1314        | [矩阵区域和](https://leetcode.cn/problems/matrix-block-sum/) |  前缀和  |    C++    |   Medium   |
 
