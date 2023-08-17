@@ -97,4 +97,14 @@
 |        974         | [和可被 K 整除的子数组](https://leetcode.cn/problems/subarray-sums-divisible-by-k/) |  前缀和  |    C++    |   Medium   |
 |        525         |  [连续数组](https://leetcode.cn/problems/contiguous-array/)  |  前缀和  |    C++    |   Medium   |
 |        1314        | [矩阵区域和](https://leetcode.cn/problems/matrix-block-sum/) |  前缀和  |    C++    |   Medium   |
+|        191         | [位1的个数](https://leetcode.cn/problems/number-of-1-bits/)  |  位运算  |    C++    |    Easy    |
+|        338         |  [比特位计数](https://leetcode.cn/problems/counting-bits/)   |  位运算  |    C++    |    Easy    |
+|        461         |  [汉明距离](https://leetcode.cn/problems/hamming-distance/)  |  位运算  |    C++    |    Easy    |
+|    面试题 01.01    | [判定字符是否唯一](https://leetcode.cn/problems/is-unique-lcci/) |  位运算  |    C++    |    Easy    |
+|        136         | [只出现一次的数字](https://leetcode.cn/problems/single-number/) |  位运算  |    C++    |    Easy    |
+|        137         | [只出现一次的数字 II](https://leetcode.cn/problems/single-number-ii/) |  位运算  |    C++    |   Medium   |
+|        260         | [只出现一次的数字 III](https://leetcode.cn/problems/single-number-iii/) |  位运算  |    C++    |   Medium   |
+|        268         |  [丢失的数字](https://leetcode.cn/problems/missing-number/)  |  位运算  |    C++    |    Easy    |
+|        371         | [两整数之和](https://leetcode.cn/problems/sum-of-two-integers/) |  位运算  |    C++    |   Medium   |
+|    面试题 17.19    | [消失的两个数字](https://leetcode.cn/problems/missing-two-lcci/) |  位运算  |    C++    |    Hard    |
 
