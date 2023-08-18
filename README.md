@@ -107,4 +107,7 @@
 |        268         |  [丢失的数字](https://leetcode.cn/problems/missing-number/)  |  位运算  |    C++    |    Easy    |
 |        371         | [两整数之和](https://leetcode.cn/problems/sum-of-two-integers/) |  位运算  |    C++    |   Medium   |
 |    面试题 17.19    | [消失的两个数字](https://leetcode.cn/problems/missing-two-lcci/) |  位运算  |    C++    |    Hard    |
+|        1576        | [替换所有的问号](https://leetcode.cn/problems/replace-all-s-to-avoid-consecutive-repeating-characters/) |   模拟   |    C++    |    Easy    |
+|        495         |  [提莫攻击](https://leetcode.cn/problems/teemo-attacking/)   |   模拟   |    C++    |    Easy    |
+|         6          | [N 字形变换](https://leetcode.cn/problems/zigzag-conversion/) |   模拟   |    C++    |   Medium   |
 
