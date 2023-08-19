@@ -110,4 +110,6 @@
 |        1576        | [替换所有的问号](https://leetcode.cn/problems/replace-all-s-to-avoid-consecutive-repeating-characters/) |   模拟   |    C++    |    Easy    |
 |        495         |  [提莫攻击](https://leetcode.cn/problems/teemo-attacking/)   |   模拟   |    C++    |    Easy    |
 |         6          | [N 字形变换](https://leetcode.cn/problems/zigzag-conversion/) |   模拟   |    C++    |   Medium   |
+|         38         |   [外观数列](https://leetcode.cn/problems/count-and-say/)    |   模拟   |    C++    |   Medium   |
+|        1419        | [数青蛙](https://leetcode.cn/problems/minimum-number-of-frogs-croaking/) |   模拟   |    C++    |   Medium   |
 
