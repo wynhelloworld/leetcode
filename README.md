@@ -113,4 +113,5 @@
 |         6          | [N 字形变换](https://leetcode.cn/problems/zigzag-conversion/) |   模拟   |    C++    |   Medium   |
 |         38         |   [外观数列](https://leetcode.cn/problems/count-and-say/)    |   模拟   |    C++    |   Medium   |
 |        1419        | [数青蛙](https://leetcode.cn/problems/minimum-number-of-frogs-croaking/) |   模拟   |    C++    |   Medium   |
+|        912         |   [排序数组](https://leetcode.cn/problems/sort-an-array/)    |   分治   |  Python   |   Medium   |
 
