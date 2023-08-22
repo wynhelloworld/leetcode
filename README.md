@@ -114,4 +114,5 @@
 |         38         |   [外观数列](https://leetcode.cn/problems/count-and-say/)    |   模拟   |    C++    |   Medium   |
 |        1419        | [数青蛙](https://leetcode.cn/problems/minimum-number-of-frogs-croaking/) |   模拟   |    C++    |   Medium   |
 |        912         |   [排序数组](https://leetcode.cn/problems/sort-an-array/)    |   分治   |  Python   |   Medium   |
+|        215         | [数组中的第K个最大元素](https://leetcode.cn/problems/kth-largest-element-in-an-array/) |   分治   |  Python   |   Medium   |
 
