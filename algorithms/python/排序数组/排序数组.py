@@ -1,6 +1,6 @@
-# Source : https://leetcode.cn/problems/sort-colors/description/
+# Source : https://leetcode.cn/problems/sort-an-array/description/
 # Author : Yanan Wang
-# Date   : 2023-08-20
+# Date   : 2023-08-21
 
 # 自从leetcode加了特殊测试用例之后，经典的快速排序（分区分两块）解法已经会超时了
 # 原因是：当所有元素均相同时，O(nlgn)会退化成O(n^2)
