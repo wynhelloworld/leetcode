@@ -118,4 +118,5 @@
 |   剑指 Offer 40    | [最小的k个数](https://leetcode.cn/problems/zui-xiao-de-kge-shu-lcof/) |   分治   |   Python    |   Medium   |
 |   剑指 Offer 51    | [数组中的逆序对](https://leetcode.cn/problems/shu-zu-zhong-de-ni-xu-dui-lcof/) |   分治   |   Python    |    Hard    |
 |        315         | [计算右侧小于当前元素的个数](https://leetcode.cn/problems/count-of-smaller-numbers-after-self/) |   分治   |   Python    |    Hard    |
+|        493         |    [翻转对](https://leetcode.cn/problems/reverse-pairs/)     |   分治   |   Python    |    Hard    |
 
