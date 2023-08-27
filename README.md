@@ -121,4 +121,6 @@
 |        493         |    [翻转对](https://leetcode.cn/problems/reverse-pairs/)     |   分治   |   Python    |    Hard    |
 |    面试题 08.06    |   [汉诺塔问题](https://leetcode.cn/problems/hanota-lcci/)    | 递归回溯 |   Python    |    Easy    |
 |         21         | [合并两个有序链表](https://leetcode.cn/problems/merge-two-sorted-lists/) | 递归回溯 |   Python    |    Easy    |
+|        206         | [反转链表](https://leetcode.cn/problems/reverse-linked-list/) | 递归回溯 |   Python    |    Easy    |
+|         24         | [两两交换链表中的节点](https://leetcode.cn/problems/swap-nodes-in-pairs/) | 递归回溯 |   Python    |   Medium   |
 
