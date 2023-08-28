@@ -123,4 +123,6 @@
 |         21         | [合并两个有序链表](https://leetcode.cn/problems/merge-two-sorted-lists/) | 递归回溯 |   Python    |    Easy    |
 |        206         | [反转链表](https://leetcode.cn/problems/reverse-linked-list/) | 递归回溯 |   Python    |    Easy    |
 |         24         | [两两交换链表中的节点](https://leetcode.cn/problems/swap-nodes-in-pairs/) | 递归回溯 |   Python    |   Medium   |
+|         50         |      [Pow(x, n)](https://leetcode.cn/problems/powx-n/)       | 递归回溯 |   Python    |   Medium   |
+|        2331        | [计算布尔二叉树的值](https://leetcode.cn/problems/evaluate-boolean-binary-tree/) | 递归回溯 |   Python    |    Easy    |
 
