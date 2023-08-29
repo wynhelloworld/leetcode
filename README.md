@@ -125,4 +125,6 @@
 |         24         | [两两交换链表中的节点](https://leetcode.cn/problems/swap-nodes-in-pairs/) | 递归回溯 |   Python    |   Medium   |
 |         50         |      [Pow(x, n)](https://leetcode.cn/problems/powx-n/)       | 递归回溯 |   Python    |   Medium   |
 |        2331        | [计算布尔二叉树的值](https://leetcode.cn/problems/evaluate-boolean-binary-tree/) | 递归回溯 |   Python    |    Easy    |
+|        129         | [求根节点到叶节点数字之和](https://leetcode.cn/problems/sum-root-to-leaf-numbers/) | 递归回溯 |   Python    |   Medium   |
+|        814         | [二叉树剪枝](https://leetcode.cn/problems/binary-tree-pruning/) | 递归回溯 |   Python    |   Medium   |
 
