@@ -127,4 +127,6 @@
 |        2331        | [计算布尔二叉树的值](https://leetcode.cn/problems/evaluate-boolean-binary-tree/) | 递归回溯 |   Python    |    Easy    |
 |        129         | [求根节点到叶节点数字之和](https://leetcode.cn/problems/sum-root-to-leaf-numbers/) | 递归回溯 |   Python    |   Medium   |
 |        814         | [二叉树剪枝](https://leetcode.cn/problems/binary-tree-pruning/) | 递归回溯 |   Python    |   Medium   |
+|         98         | [验证二叉搜索树](https://leetcode.cn/problems/validate-binary-search-tree/) | 递归回溯 |   Python    |   Medium   |
+|        230         | [二叉搜索树中第K小的元素](https://leetcode.cn/problems/kth-smallest-element-in-a-bst/) | 递归回溯 |   Python    |   Medium   |
 
