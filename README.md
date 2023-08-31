@@ -129,4 +129,6 @@
 |        814         | [二叉树剪枝](https://leetcode.cn/problems/binary-tree-pruning/) | 递归回溯 |   Python    |   Medium   |
 |         98         | [验证二叉搜索树](https://leetcode.cn/problems/validate-binary-search-tree/) | 递归回溯 |   Python    |   Medium   |
 |        230         | [二叉搜索树中第K小的元素](https://leetcode.cn/problems/kth-smallest-element-in-a-bst/) | 递归回溯 |   Python    |   Medium   |
+|        257         | [二叉树的所有路径](https://leetcode.cn/problems/binary-tree-paths/) | 递归回溯 |   Python    |    Easy    |
+|         46         |     [全排列](https://leetcode.cn/problems/permutations/)     | 递归回溯 |   Python    |   Medium   |
 
