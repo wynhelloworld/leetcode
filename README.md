@@ -131,4 +131,6 @@
 |        230         | [二叉搜索树中第K小的元素](https://leetcode.cn/problems/kth-smallest-element-in-a-bst/) | 递归回溯 |   Python    |   Medium   |
 |        257         | [二叉树的所有路径](https://leetcode.cn/problems/binary-tree-paths/) | 递归回溯 |   Python    |    Easy    |
 |         46         |     [全排列](https://leetcode.cn/problems/permutations/)     | 递归回溯 |   Python    |   Medium   |
+|         78         |        [子集](https://leetcode.cn/problems/subsets/)         | 递归回溯 |   Python    |   Medium   |
+|        1863        | [找出所有子集的异或总和再求和](https://leetcode.cn/problems/sum-of-all-subset-xor-totals/) | 递归回溯 |   Python    |    Easy    |
 
