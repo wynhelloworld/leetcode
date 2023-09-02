@@ -133,4 +133,5 @@
 |         46         |     [全排列](https://leetcode.cn/problems/permutations/)     | 递归回溯 |   Python    |   Medium   |
 |         78         |        [子集](https://leetcode.cn/problems/subsets/)         | 递归回溯 |   Python    |   Medium   |
 |        1863        | [找出所有子集的异或总和再求和](https://leetcode.cn/problems/sum-of-all-subset-xor-totals/) | 递归回溯 |   Python    |    Easy    |
+|         47         |  [全排列 II](https://leetcode.cn/problems/permutations-ii/)  | 递归回溯 |   Python    |   Medium   |
 
