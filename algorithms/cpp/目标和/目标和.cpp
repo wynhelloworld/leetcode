@@ -63,24 +63,51 @@
  *   ---------------------
  */
 
- class Solution {
+//  class Solution {
+// public:
+//     int findTargetSumWays(vector<int>& nums, int target) {
+//         int n = nums.size(), sum = 0;
+//         for (auto x : nums) {
+//             sum += x;
+//         }
+//         int aim = (target + sum) / 2;
+//         if (aim < 0 || (target + sum) % 2) {
+//             return 0;
+//         }
+//         vector<int> dp(aim + 1);
+//         dp[0] = 1;
+//         for (int i = 1; i <= n; ++i) {
+//             for (int j = aim; j >= nums[i - 1]; --j) {
+//                 dp[j] += dp[j - nums[i - 1]];
+//             }
+//         }
+//         return dp[aim];
+//     }
+// };
+
+// 增加一种解法: 回溯法
+// 先画一颗决策树
+//                       开始
+//                     |-----|
+//               +nums[0]    -nums[0]
+//           |-----|             |-----|
+//     +nums[1]   -nums[0]   +nums[1]   -nums[0]
+//   . . . . . .
+// 然后按照决策树的规律进行递归回溯即可
+
+   
+class Solution {
 public:
+    int dfs(vector<int> &nums, int ans, int path, int index, int target) {
+        if (nums.size() == index) {
+            if (target == path)
+                ++ans;
+            return ans;
+        }
+        return dfs(nums, ans, path + nums[index], index + 1, target)
+             + dfs(nums, ans, path - nums[index], index + 1, target);
+    }
     int findTargetSumWays(vector<int>& nums, int target) {
-        int n = nums.size(), sum = 0;
-        for (auto x : nums) {
-            sum += x;
-        }
-        int aim = (target + sum) / 2;
-        if (aim < 0 || (target + sum) % 2) {
-            return 0;
-        }
-        vector<int> dp(aim + 1);
-        dp[0] = 1;
-        for (int i = 1; i <= n; ++i) {
-            for (int j = aim; j >= nums[i - 1]; --j) {
-                dp[j] += dp[j - nums[i - 1]];
-            }
-        }
-        return dp[aim];
+        return dfs(nums, 0, 0, 0, target);
     }
 };
