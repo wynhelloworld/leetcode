@@ -139,5 +139,5 @@
 |         77         |      [组合](https://leetcode.cn/problems/combinations/)      | 递归回溯 |   Python    |   Medium   |
 |         39         |  [组合总和](https://leetcode.cn/problems/combination-sum/)   | 递归回溯 |   Python    |   Medium   |
 |        784         | [字母大小写全排列](https://leetcode.cn/problems/letter-case-permutation/) | 递归回溯 |   Python    |   Medium   |
-|        526         | [优美的排列](https://leetcode.cn/problems/beautiful-arrangement/) | 递归回溯 |   Python    |   Medium   |
+|        526         | [优美的排列](https://leetcode.cn/problems/beautiful-arrangement/) | 递归回溯 | C++, Python |   Medium   |
 
