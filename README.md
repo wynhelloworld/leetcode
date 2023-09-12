@@ -142,4 +142,6 @@
 |        526         | [优美的排列](https://leetcode.cn/problems/beautiful-arrangement/) | 递归回溯 | C++, Python |   Medium   |
 |         51         |       [N 皇后](https://leetcode.cn/problems/n-queens/)       | 递归回溯 |     C++     |   Medium   |
 |         36         |   [有效的数独](https://leetcode.cn/problems/valid-sudoku/)   | 递归回溯 |     C++     |   Medium   |
+|         37         |    [解数独](https://leetcode.cn/problems/sudoku-solver/)     | 递归回溯 |     C++     |    Hard    |
+|         79         |    [单词搜索](https://leetcode.cn/problems/word-search/)     | 递归回溯 |     C++     |   Medium   |
 
