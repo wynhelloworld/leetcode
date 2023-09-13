@@ -144,4 +144,6 @@
 |         36         |   [有效的数独](https://leetcode.cn/problems/valid-sudoku/)   | 递归回溯 |     C++     |   Medium   |
 |         37         |    [解数独](https://leetcode.cn/problems/sudoku-solver/)     | 递归回溯 |     C++     |    Hard    |
 |         79         |    [单词搜索](https://leetcode.cn/problems/word-search/)     | 递归回溯 |     C++     |   Medium   |
+|        1219        | [黄金矿工](https://leetcode.cn/problems/path-with-maximum-gold/) | 递归回溯 |     C++     |   Medium   |
+|        980         | [不同路径 III](https://leetcode.cn/problems/unique-paths-iii/) | 递归回溯 |     C++     |    Hard    |
 
