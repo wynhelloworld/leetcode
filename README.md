@@ -146,4 +146,6 @@
 |         79         |    [单词搜索](https://leetcode.cn/problems/word-search/)     | 递归回溯 |     C++     |   Medium   |
 |        1219        | [黄金矿工](https://leetcode.cn/problems/path-with-maximum-gold/) | 递归回溯 |     C++     |   Medium   |
 |        980         | [不同路径 III](https://leetcode.cn/problems/unique-paths-iii/) | 递归回溯 |     C++     |    Hard    |
+|        733         |     [图像渲染](https://leetcode.cn/problems/flood-fill/)     | 递归回溯 |     C++     |    Easy    |
+|        200         | [岛屿数量](https://leetcode.cn/problems/number-of-islands/)  | 递归回溯 |     C++     |   Medium   |
 
