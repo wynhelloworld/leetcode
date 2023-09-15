@@ -148,4 +148,6 @@
 |        980         | [不同路径 III](https://leetcode.cn/problems/unique-paths-iii/) | 递归回溯 |     C++     |    Hard    |
 |        733         |     [图像渲染](https://leetcode.cn/problems/flood-fill/)     | 递归回溯 |     C++     |    Easy    |
 |        200         | [岛屿数量](https://leetcode.cn/problems/number-of-islands/)  | 递归回溯 |     C++     |   Medium   |
+|        695         | [岛屿的最大面积](https://leetcode.cn/problems/max-area-of-island/) | 递归回溯 |     C++     |   Medium   |
+|        130         | [被围绕的区域](https://leetcode.cn/problems/surrounded-regions/) | 递归回溯 |     C++     |   Medium   |
 
