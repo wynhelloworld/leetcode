@@ -32,3 +32,25 @@ public:
         return dp[m][n];
     }
 };
+
+// 新增了一种记忆化搜索的方法
+
+class Solution {
+private:
+    vector<vector<int>> memory;
+public:
+    int memorySearch(int i, int j) {
+        if (memory[i][j] != -1) return memory[i][j];
+        if (i == 0 || j == 0) return 0;
+        if (i == 1 && j == 1) {
+            memory[i][j] = 1;
+            return memory[i][j];
+        }
+        memory[i][j] = memorySearch(i - 1, j) + memorySearch(i, j - 1);
+        return memory[i][j];
+    }
+    int uniquePaths(int m, int n) {
+        memory.resize(m + 1, vector<int>(n + 1, -1));
+        return memorySearch(m, n);
+    }
+};
