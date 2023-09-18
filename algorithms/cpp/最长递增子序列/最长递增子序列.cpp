@@ -43,3 +43,40 @@ public:
         return result;
     }
 };
+
+// 新增了一种记忆化搜索方法和动态规划方法
+
+class Solution {
+public:
+    int memorySearch(vector<int> &nums, int pos, vector<int> &memory) {
+        if (memory[pos] != -1) return memory[pos];
+        int ans = 0;
+        for (int i = pos + 1; i < nums.size(); ++i) 
+            if (nums[i] > nums[pos]) 
+                ans = max(ans, memorySearch(nums, i, memory));
+        memory[pos] = ans + 1;
+        return memory[pos]; 
+    }
+    int lengthOfLIS(vector<int>& nums) {
+        // 记忆化搜索
+        // vector<int> memory(nums.size(), -1);
+        // int ans = 0;
+        // for (int i = 0; i < nums.size(); ++i) {
+        //     ans = max(ans, memorySearch(nums, i, memory));
+        // }
+        // return ans;
+
+        // 记忆化搜索改递归
+        vector<int> dp(nums.size(), 1);
+        int ans = 0;
+        for (int i = nums.size() - 1; i >= 0; --i) {
+            for (int j = i + 1; j < nums.size(); ++j) {
+                if (nums[i] < nums[j]) {
+                    dp[i] = max(dp[i], dp[j] + 1);
+                }
+            }
+            ans = max(ans, dp[i]);
+        }
+        return ans;
+    }
+};
