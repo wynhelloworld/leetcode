@@ -154,4 +154,5 @@
 |        529         |    [扫雷游戏](https://leetcode.cn/problems/minesweeper/)     | 递归回溯 |     C++     |   Medium   |
 |   剑指 Offer 13    | [机器人的运动范围](https://leetcode.cn/problems/ji-qi-ren-de-yun-dong-fan-wei-lcof/) | 递归回溯 |     C++     |   Medium   |
 |        509         | [斐波那契数](https://leetcode.cn/problems/fibonacci-number/) | 递归回溯 |     C++     |    Easy    |
+|        375         | [猜数字大小 II](https://leetcode.cn/problems/guess-number-higher-or-lower-ii/) | 递归回溯 |     C++     |   Medium   |
 
