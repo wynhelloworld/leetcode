@@ -155,4 +155,5 @@
 |   剑指 Offer 13    | [机器人的运动范围](https://leetcode.cn/problems/ji-qi-ren-de-yun-dong-fan-wei-lcof/) | 递归回溯 |     C++     |   Medium   |
 |        509         | [斐波那契数](https://leetcode.cn/problems/fibonacci-number/) | 递归回溯 |     C++     |    Easy    |
 |        375         | [猜数字大小 II](https://leetcode.cn/problems/guess-number-higher-or-lower-ii/) | 递归回溯 |     C++     |   Medium   |
+|        329         | [矩阵中的最长递增路径](https://leetcode.cn/problems/longest-increasing-path-in-a-matrix/) | 递归回溯 |     C++     |    Hard    |
 
