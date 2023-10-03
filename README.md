@@ -157,4 +157,5 @@
 |        375         | [猜数字大小 II](https://leetcode.cn/problems/guess-number-higher-or-lower-ii/) | 递归回溯 |     C++     |   Medium   |
 |        329         | [矩阵中的最长递增路径](https://leetcode.cn/problems/longest-increasing-path-in-a-matrix/) | 递归回溯 |     C++     |    Hard    |
 |         2          |  [两数相加](https://leetcode.cn/problems/add-two-numbers/)   |   链表   |     C++     |   Medium   |
+|        143         |    [重排链表](https://leetcode.cn/problems/reorder-list/)    |   链表   |     C++     |   Medium   |
 
