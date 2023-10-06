@@ -122,7 +122,7 @@
 |    面试题 08.06    |   [汉诺塔问题](https://leetcode.cn/problems/hanota-lcci/)    | 递归回溯 |   Python    |    Easy    |
 |         21         | [合并两个有序链表](https://leetcode.cn/problems/merge-two-sorted-lists/) | 递归回溯 |   Python    |    Easy    |
 |        206         | [反转链表](https://leetcode.cn/problems/reverse-linked-list/) | 递归回溯 |   Python    |    Easy    |
-|         24         | [两两交换链表中的节点](https://leetcode.cn/problems/swap-nodes-in-pairs/) | 递归回溯 |   Python    |   Medium   |
+|         24         | [两两交换链表中的节点](https://leetcode.cn/problems/swap-nodes-in-pairs/) | 递归回溯 | Python, C++ |   Medium   |
 |         50         |      [Pow(x, n)](https://leetcode.cn/problems/powx-n/)       | 递归回溯 |   Python    |   Medium   |
 |        2331        | [计算布尔二叉树的值](https://leetcode.cn/problems/evaluate-boolean-binary-tree/) | 递归回溯 |   Python    |    Easy    |
 |        129         | [求根节点到叶节点数字之和](https://leetcode.cn/problems/sum-root-to-leaf-numbers/) | 递归回溯 |   Python    |   Medium   |
@@ -158,4 +158,6 @@
 |        329         | [矩阵中的最长递增路径](https://leetcode.cn/problems/longest-increasing-path-in-a-matrix/) | 递归回溯 |     C++     |    Hard    |
 |         2          |  [两数相加](https://leetcode.cn/problems/add-two-numbers/)   |   链表   |     C++     |   Medium   |
 |        143         |    [重排链表](https://leetcode.cn/problems/reorder-list/)    |   链表   |     C++     |   Medium   |
+|         23         | [合并 K 个升序链表](https://leetcode.cn/problems/merge-k-sorted-lists/) |   链表   |     C++     |    Hard    |
+|         25         | [K 个一组翻转链表](https://leetcode.cn/problems/reverse-nodes-in-k-group/) |   链表   |     C++     |    Hard    |
 
