@@ -160,4 +160,6 @@
 |        143         |    [重排链表](https://leetcode.cn/problems/reorder-list/)    |   链表   |     C++     |   Medium   |
 |         23         | [合并 K 个升序链表](https://leetcode.cn/problems/merge-k-sorted-lists/) |   链表   |     C++     |    Hard    |
 |         25         | [K 个一组翻转链表](https://leetcode.cn/problems/reverse-nodes-in-k-group/) |   链表   |     C++     |    Hard    |
+|         1          |      [两数之和](https://leetcode.cn/problems/two-sum/)       |  哈希表  |     C++     |    Easy    |
+|    面试题 01.02    | [判定是否互为字符重排](https://leetcode.cn/problems/check-permutation-lcci/) |  哈希表  |     C++     |    Easy    |
 
