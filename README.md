@@ -162,4 +162,7 @@
 |         25         | [K 个一组翻转链表](https://leetcode.cn/problems/reverse-nodes-in-k-group/) |   链表   |     C++     |    Hard    |
 |         1          |      [两数之和](https://leetcode.cn/problems/two-sum/)       |  哈希表  |     C++     |    Easy    |
 |    面试题 01.02    | [判定是否互为字符重排](https://leetcode.cn/problems/check-permutation-lcci/) |  哈希表  |     C++     |    Easy    |
+|        217         | [存在重复元素](https://leetcode.cn/problems/contains-duplicate/) |  哈希表  |     C++     |    Easy    |
+|        219         | [存在重复元素 II](https://leetcode.cn/problems/contains-duplicate-ii/) |  哈希表  |     C++     |    Easy    |
+|         49         | [字母异位词分组](https://leetcode.cn/problems/group-anagrams/) |  哈希表  |     C++     |   Medium   |
 
