@@ -165,4 +165,5 @@
 |        217         | [存在重复元素](https://leetcode.cn/problems/contains-duplicate/) |  哈希表  |     C++     |    Easy    |
 |        219         | [存在重复元素 II](https://leetcode.cn/problems/contains-duplicate-ii/) |  哈希表  |     C++     |    Easy    |
 |         49         | [字母异位词分组](https://leetcode.cn/problems/group-anagrams/) |  哈希表  |     C++     |   Medium   |
+|         14         | [最长公共前缀](https://leetcode.cn/problems/longest-common-prefix/) |  字符串  |     C++     |    Easy    |
 
