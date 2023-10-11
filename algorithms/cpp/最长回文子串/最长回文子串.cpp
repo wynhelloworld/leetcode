@@ -39,3 +39,41 @@ public:
         return s.substr(left, length);
     }
 };
+
+/**
+ * 新增了一种解法
+ * 本解法就是在遍历的过程中，向两边探测，相等就往两边延伸，不相等就结束本次探测。
+ *      "dawdwafawwaddwa"
+ *             i
+ *         left  right
+ *    left和right从i开始向两边延伸，此时所找到的回文子串个数全都是奇数的；
+ *    left和right从i、i+1开始向两边延伸，此时所找到的回文字串个数全都是偶数的。
+ */
+
+class Solution {
+public:
+    int ans_begin;
+    int ans_len;
+public:
+    void handler(string &s, int left, int right) {
+        while ((left >= 0 && right <= s.size()) && (s[left] == s[right])) {
+            --left;
+            ++right;
+        }
+        int begin = left + 1;
+        int len = right - left - 1;
+        if (len >= ans_len) {
+            ans_len = len;
+            ans_begin = begin;         
+        }
+    }
+    string longestPalindrome(string s) {
+        for (int i = 0; i < s.size(); ++i) {
+            // 奇数
+            handler(s, i, i);
+            // 偶数
+            handler(s, i, i + 1);
+        }
+        return s.substr(ans_begin, ans_len);
+    }
+};
