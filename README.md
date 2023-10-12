@@ -168,4 +168,9 @@
 |         14         | [最长公共前缀](https://leetcode.cn/problems/longest-common-prefix/) |  字符串  |     C++     |    Easy    |
 |         67         |    [二进制求和](https://leetcode.cn/problems/add-binary/)    |  字符串  |     C++     |    Easy    |
 |         43         | [字符串相乘](https://leetcode.cn/problems/multiply-strings/) |  字符串  |     C++     |   Medium   |
+|        1047        | [删除字符串中的所有相邻重复项](https://leetcode.cn/problems/remove-all-adjacent-duplicates-in-string/) |    栈    |     C++     |    Easy    |
+|        844         | [比较含退格的字符串](https://leetcode.cn/problems/backspace-string-compare/) |    栈    |     C++     |    Easy    |
+|        227         | [基本计算器 II](https://leetcode.cn/problems/basic-calculator-ii/) |    栈    |     C++     |   Medium   |
+|        394         |  [字符串解码](https://leetcode.cn/problems/decode-string/)   |    栈    |     C++     |   Medium   |
+|        946         | [验证栈序列](https://leetcode.cn/problems/validate-stack-sequences/) |    栈    |     C++     |   Medium   |
 
