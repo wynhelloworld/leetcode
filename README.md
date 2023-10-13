@@ -173,4 +173,8 @@
 |        227         | [基本计算器 II](https://leetcode.cn/problems/basic-calculator-ii/) |    栈    |     C++     |   Medium   |
 |        394         |  [字符串解码](https://leetcode.cn/problems/decode-string/)   |    栈    |     C++     |   Medium   |
 |        946         | [验证栈序列](https://leetcode.cn/problems/validate-stack-sequences/) |    栈    |     C++     |   Medium   |
+|        429         | [N 叉树的层序遍历](https://leetcode.cn/problems/n-ary-tree-level-order-traversal/) |   队列   |     C++     |   Medium   |
+|        103         | [二叉树的锯齿形层序遍历](https://leetcode.cn/problems/binary-tree-zigzag-level-order-traversal/) |   队列   |     C++     |   Medium   |
+|        662         | [二叉树最大宽度](https://leetcode.cn/problems/maximum-width-of-binary-tree/) |   队列   |     C++     |   Medium   |
+|        515         | [在每个树行中找最大值](https://leetcode.cn/problems/find-largest-value-in-each-tree-row/) |   队列   |     C++     |   Medium   |
 
