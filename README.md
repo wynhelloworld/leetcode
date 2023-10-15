@@ -181,4 +181,5 @@
 |        703         | [数据流中的第 K 大元素](https://leetcode.cn/problems/kth-largest-element-in-a-stream/) | 优先级队列 |     C++     |    Easy    |
 |        692         | [前K个高频单词](https://leetcode.cn/problems/top-k-frequent-words/) | 优先级队列 |     C++     |   Medium   |
 |        295         | [数据流的中位数](https://leetcode.cn/problems/find-median-from-data-stream/) | 优先级队列 |     C++     |    Hard    |
+|        860         | [柠檬水找零](https://leetcode.cn/problems/lemonade-change/)  |    贪心    |     C++     |    Easy    |
 
