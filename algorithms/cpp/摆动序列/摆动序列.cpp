@@ -38,3 +38,37 @@ public:
         return result;
     }
 };
+
+/**
+ * 新增了一种贪心解法
+ * 针对nums[a, b]
+ *      若 a < b, 则成上升趋势
+ *      若 a == b, 则成水平趋势
+ *      若 a > b, 则成下降趋势
+ * 根据以上规则，把nums全部画出来，取所有的极值就是本题的贪心解(最优解)
+ * 如何取到所有的极值？
+ *      用一个left记录所有当前点的前一个趋势
+ *      left == 0, 默认趋势
+ *      left > 0, 上升趋势
+ *      left < 0, 下降趋势
+ *      用right来记录当前点的趋势后一个趋势
+ */
+
+class Solution {
+public:
+    int wiggleMaxLength(vector<int>& nums) {
+        int ans = 1;
+        int left = 0;
+        for (int i = 0; i < nums.size() - 1; ++i) {
+            int right = nums[i + 1] - nums[i];
+            if (right == 0) {
+                continue;
+            }
+            if (left * right <= 0) {
+                ++ans;
+                left = right;
+            }
+        }
+        return ans;
+    }
+};
