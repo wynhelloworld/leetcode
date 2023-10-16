@@ -182,4 +182,6 @@
 |        692         | [前K个高频单词](https://leetcode.cn/problems/top-k-frequent-words/) | 优先级队列 |     C++     |   Medium   |
 |        295         | [数据流的中位数](https://leetcode.cn/problems/find-median-from-data-stream/) | 优先级队列 |     C++     |    Hard    |
 |        860         | [柠檬水找零](https://leetcode.cn/problems/lemonade-change/)  |    贪心    |     C++     |    Easy    |
+|        2208        | [将数组和减半的最少操作次数](https://leetcode.cn/problems/minimum-operations-to-halve-array-sum/) |    贪心    |     C++     |   Medium   |
+|        179         |    [最大数](https://leetcode.cn/problems/largest-number/)    |    贪心    |     C++     |   Medium   |
 
