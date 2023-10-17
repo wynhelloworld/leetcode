@@ -80,3 +80,33 @@ public:
         return ans;
     }
 };
+
+/**
+ * 新增了一种贪心策略
+ */
+
+class Solution {
+public:
+    int lengthOfLIS(vector<int>& nums) {
+        vector<int> tails;
+        tails.push_back(nums[0]);
+        for (int i = 1; i < nums.size(); ++i) {
+            if (nums[i] > tails.back()) {
+                tails.push_back(nums[i]);
+            } else {
+                int left = 0;
+                int right = tails.size() - 1;
+                while (left < right) {
+                    int mid = left + (right - left) / 2;
+                    if (nums[i] > tails[mid]) {
+                        left = mid + 1;
+                    } else {
+                        right = mid;
+                    }
+                }
+                tails[left] = nums[i];
+            }
+        }
+        return tails.size();
+    }
+};
