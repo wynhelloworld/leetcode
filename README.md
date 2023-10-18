@@ -184,4 +184,6 @@
 |        860         | [柠檬水找零](https://leetcode.cn/problems/lemonade-change/)  |    贪心    |     C++     |    Easy    |
 |        2208        | [将数组和减半的最少操作次数](https://leetcode.cn/problems/minimum-operations-to-halve-array-sum/) |    贪心    |     C++     |   Medium   |
 |        179         |    [最大数](https://leetcode.cn/problems/largest-number/)    |    贪心    |     C++     |   Medium   |
+|        334         | [递增的三元子序列](https://leetcode.cn/problems/increasing-triplet-subsequence/) |    贪心    |     C++     |   Medium   |
+|        674         | [最长连续递增序列](https://leetcode.cn/problems/longest-continuous-increasing-subsequence/) |    贪心    |     C++     |    Easy    |
 
