@@ -46,3 +46,29 @@ public:
         return dp[n - 1][1];
     }
 }; 
+
+
+/**
+ * 新增一种贪心解法
+ * 本题的贪心解法, 是在暴力解法的基础上进行优化而得出的.
+ * 暴力解法:
+ *      两层for循环, 外层在范围[1, prices,size())遍历卖出价格, 
+ *                  内层在范围[0, i)遍历买入价格,为求一个最低买入价格,
+ *                  然后用卖出价格减去最低买入价格更新最大利润. 
+ * 贪心解法:
+ *      用一层for循环就够了, 没必要内层[0, i)重新遍历买入价格,
+ *      因为遍历到i的时候, i之前的价格都已经清楚了, 用一个变量存储最低价格就好了
+ */
+
+class Solution {
+public:
+    int maxProfit(vector<int>& prices) {
+        int ans = 0;
+        int low_price = prices[0];
+        for (int i = 1; i < prices.size(); ++i) {
+            ans = max(ans, prices[i] - low_price);
+            low_price = min(low_price, prices[i]);
+        }
+        return ans;
+    }
+};
