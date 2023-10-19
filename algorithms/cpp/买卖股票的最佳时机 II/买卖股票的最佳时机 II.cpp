@@ -46,3 +46,37 @@ public:
         return dp[n - 1][1];
     }
 }; 
+
+/**
+ * 新增一种贪心解法
+ * 画出图后, 会有两种实现方式:
+ *      双指针法:
+ *          用slow和fast确定一段价格攀升的区间
+ *      累加法:
+ *          只要后一天的价格比前一天的高, 就拿上 
+ */
+class Solution {
+public:
+    int maxProfit(vector<int>& prices) {
+        // 双指针法
+        // int ans = 0;
+        // int slow = 0, fast = 0;
+        // while (fast < prices.size()) {
+        //     while (fast + 1 < prices.size() && prices[fast] <= prices[fast + 1]) {
+        //         ++fast;
+        //     }
+        //     ans += prices[fast] - prices[slow];
+        //     slow = ++fast; 
+        // }
+        // return ans;
+        
+        // 累加法
+        int ans = 0;
+        for (int i = 0; i < prices.size() - 1; ++i) {
+            if (prices[i] < prices[i + 1]) {
+                ans += prices[i + 1] - prices[i];
+            }
+        }
+        return ans;
+    }
+};
