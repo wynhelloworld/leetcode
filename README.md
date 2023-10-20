@@ -186,4 +186,5 @@
 |        179         |    [最大数](https://leetcode.cn/problems/largest-number/)    |    贪心    |     C++     |   Medium   |
 |        334         | [递增的三元子序列](https://leetcode.cn/problems/increasing-triplet-subsequence/) |    贪心    |     C++     |   Medium   |
 |        674         | [最长连续递增序列](https://leetcode.cn/problems/longest-continuous-increasing-subsequence/) |    贪心    |     C++     |    Easy    |
+|        1005        | [K 次取反后最大化的数组和](https://leetcode.cn/problems/maximize-sum-of-array-after-k-negations/) |    贪心    |     C++     |    Easy    |
 
