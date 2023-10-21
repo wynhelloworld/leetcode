@@ -189,4 +189,5 @@
 |        1005        | [K 次取反后最大化的数组和](https://leetcode.cn/problems/maximize-sum-of-array-after-k-negations/) |    贪心    |     C++     |    Easy    |
 |        2418        | [按身高排序](https://leetcode.cn/problems/sort-the-people/)  |    贪心    |     C++     |    Easy    |
 |        870         | [优势洗牌](https://leetcode.cn/problems/advantage-shuffle/)  |    贪心    |     C++     |   Medium   |
+|        409         | [最长回文串](https://leetcode.cn/problems/longest-palindrome/) |    贪心    |     C++     |    Easy    |
 
