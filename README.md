@@ -190,4 +190,5 @@
 |        2418        | [按身高排序](https://leetcode.cn/problems/sort-the-people/)  |    贪心    |     C++     |    Easy    |
 |        870         | [优势洗牌](https://leetcode.cn/problems/advantage-shuffle/)  |    贪心    |     C++     |   Medium   |
 |        409         | [最长回文串](https://leetcode.cn/problems/longest-palindrome/) |    贪心    |     C++     |    Easy    |
+|        942         | [增减字符串匹配](https://leetcode.cn/problems/di-string-match/) |    贪心    |     C++     |    Easy    |
 
