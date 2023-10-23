@@ -192,4 +192,7 @@
 |        409         | [最长回文串](https://leetcode.cn/problems/longest-palindrome/) |    贪心    |     C++     |    Easy    |
 |        942         | [增减字符串匹配](https://leetcode.cn/problems/di-string-match/) |    贪心    |     C++     |    Easy    |
 |        455         |   [分发饼干](https://leetcode.cn/problems/assign-cookies/)   |    贪心    |     C++     |    Easy    |
+|        553         |  [最优除法](https://leetcode.cn/problems/optimal-division/)  |    贪心    |     C++     |   Medium   |
+|         45         |  [跳跃游戏 II](https://leetcode.cn/problems/jump-game-ii/)   |    贪心    |     C++     |   Medium   |
+|         55         |     [跳跃游戏](https://leetcode.cn/problems/jump-game/)      |    贪心    |     C++     |   Medium   |
 
