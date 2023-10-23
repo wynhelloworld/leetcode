@@ -191,4 +191,5 @@
 |        870         | [优势洗牌](https://leetcode.cn/problems/advantage-shuffle/)  |    贪心    |     C++     |   Medium   |
 |        409         | [最长回文串](https://leetcode.cn/problems/longest-palindrome/) |    贪心    |     C++     |    Easy    |
 |        942         | [增减字符串匹配](https://leetcode.cn/problems/di-string-match/) |    贪心    |     C++     |    Easy    |
+|        455         |   [分发饼干](https://leetcode.cn/problems/assign-cookies/)   |    贪心    |     C++     |    Easy    |
 
