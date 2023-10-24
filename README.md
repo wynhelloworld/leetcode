@@ -195,4 +195,6 @@
 |        553         |  [最优除法](https://leetcode.cn/problems/optimal-division/)  |    贪心    |     C++     |   Medium   |
 |         45         |  [跳跃游戏 II](https://leetcode.cn/problems/jump-game-ii/)   |    贪心    |     C++     |   Medium   |
 |         55         |     [跳跃游戏](https://leetcode.cn/problems/jump-game/)      |    贪心    |     C++     |   Medium   |
+|        134         |     [加油站](https://leetcode.cn/problems/gas-station/)      |    贪心    |     C++     |   Medium   |
+|        738         | [单调递增的数字](https://leetcode.cn/problems/monotone-increasing-digits/) |    贪心    |     C++     |   Medium   |
 
