@@ -197,4 +197,6 @@
 |         55         |     [跳跃游戏](https://leetcode.cn/problems/jump-game/)      |    贪心    |     C++     |   Medium   |
 |        134         |     [加油站](https://leetcode.cn/problems/gas-station/)      |    贪心    |     C++     |   Medium   |
 |        738         | [单调递增的数字](https://leetcode.cn/problems/monotone-increasing-digits/) |    贪心    |     C++     |   Medium   |
+|        991         | [坏了的计算器](https://leetcode.cn/problems/broken-calculator/) |    贪心    |     C++     |   Medium   |
+|         56         |  [合并区间](https://leetcode.cn/problems/merge-intervals/)   |    贪心    |     C++     |   Medium   |
 
