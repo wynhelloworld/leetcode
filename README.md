@@ -199,4 +199,7 @@
 |        738         | [单调递增的数字](https://leetcode.cn/problems/monotone-increasing-digits/) |    贪心    |     C++     |   Medium   |
 |        991         | [坏了的计算器](https://leetcode.cn/problems/broken-calculator/) |    贪心    |     C++     |   Medium   |
 |         56         |  [合并区间](https://leetcode.cn/problems/merge-intervals/)   |    贪心    |     C++     |   Medium   |
+|        435         | [无重叠区间](https://leetcode.cn/problems/non-overlapping-intervals/) |    贪心    |     C++     |   Medium   |
+|        452         | [用最少数量的箭引爆气球](https://leetcode.cn/problems/minimum-number-of-arrows-to-burst-balloons/) |    贪心    |     C++     |   Medium   |
+|        397         | [整数替换](https://leetcode.cn/problems/integer-replacement/) |    贪心    |     C++     |   Medium   |
 
