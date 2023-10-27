@@ -202,4 +202,6 @@
 |        435         | [无重叠区间](https://leetcode.cn/problems/non-overlapping-intervals/) |    贪心    |     C++     |   Medium   |
 |        452         | [用最少数量的箭引爆气球](https://leetcode.cn/problems/minimum-number-of-arrows-to-burst-balloons/) |    贪心    |     C++     |   Medium   |
 |        397         | [整数替换](https://leetcode.cn/problems/integer-replacement/) |    贪心    |     C++     |   Medium   |
+|        354         | [俄罗斯套娃信封问题](https://leetcode.cn/problems/russian-doll-envelopes/) |    贪心    |     C++     |    Hard    |
+|        1262        | [可被三整除的最大和](https://leetcode.cn/problems/greatest-sum-divisible-by-three/) |    贪心    |     C++     |   Medium   |
 
