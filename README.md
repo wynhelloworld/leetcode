@@ -204,4 +204,6 @@
 |        397         | [整数替换](https://leetcode.cn/problems/integer-replacement/) |    贪心    |     C++     |   Medium   |
 |        354         | [俄罗斯套娃信封问题](https://leetcode.cn/problems/russian-doll-envelopes/) |    贪心    |     C++     |    Hard    |
 |        1262        | [可被三整除的最大和](https://leetcode.cn/problems/greatest-sum-divisible-by-three/) |    贪心    |     C++     |   Medium   |
+|        1054        | [距离相等的条形码](https://leetcode.cn/problems/distant-barcodes/) |    贪心    |     C++     |   Medium   |
+|        767         | [重构字符串](https://leetcode.cn/problems/reorganize-string/) |    贪心    |     C++     |   Medium   |
 
