@@ -150,7 +150,7 @@
 |        733         |     [图像渲染](https://leetcode.cn/problems/flood-fill/)     |  floodfill算法(DFS、BFS)   |    Easy    |
 |        200         | [岛屿数量](https://leetcode.cn/problems/number-of-islands/)  |  floodfill算法(DFS、BFS)   |   Medium   |
 |        695         | [岛屿的最大面积](https://leetcode.cn/problems/max-area-of-island/) |  floodfill算法(DFS、BFS)   |   Medium   |
-|        130         | [被围绕的区域](https://leetcode.cn/problems/surrounded-regions/) |     floodfill算法(DFS)     |   Medium   |
+|        130         | [被围绕的区域](https://leetcode.cn/problems/surrounded-regions/) |  floodfill算法(DFS、BFS)   |   Medium   |
 |        417         | [太平洋大西洋水流问题](https://leetcode.cn/problems/pacific-atlantic-water-flow/) |     floodfill算法(DFS)     |   Medium   |
 |        529         |    [扫雷游戏](https://leetcode.cn/problems/minesweeper/)     |     floodfill算法(DFS)     |   Medium   |
 |   剑指 Offer 13    | [机器人的运动范围](https://leetcode.cn/problems/ji-qi-ren-de-yun-dong-fan-wei-lcof/) |     floodfill算法(DFS)     |   Medium   |
