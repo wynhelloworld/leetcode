@@ -207,4 +207,5 @@
 |        1262        | [可被三整除的最大和](https://leetcode.cn/problems/greatest-sum-divisible-by-three/) |            贪心            |   Medium   |
 |        1054        | [距离相等的条形码](https://leetcode.cn/problems/distant-barcodes/) |            贪心            |   Medium   |
 |        767         | [重构字符串](https://leetcode.cn/problems/reorganize-string/) |            贪心            |   Medium   |
+|        1926        | [迷宫中离入口最近的出口](https://leetcode.cn/problems/nearest-exit-from-entrance-in-maze/) |      最短路问题(BFS)       |   Medium   |
 
