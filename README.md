@@ -207,8 +207,9 @@
 |        1262        | [可被三整除的最大和](https://leetcode.cn/problems/greatest-sum-divisible-by-three/) |            贪心            |   Medium   |
 |        1054        | [距离相等的条形码](https://leetcode.cn/problems/distant-barcodes/) |            贪心            |   Medium   |
 |        767         | [重构字符串](https://leetcode.cn/problems/reorganize-string/) |            贪心            |   Medium   |
-|        1926        | [迷宫中离入口最近的出口](https://leetcode.cn/problems/nearest-exit-from-entrance-in-maze/) |      最短路问题(BFS)       |   Medium   |
-|        433         | [最小基因变化](https://leetcode.cn/problems/minimum-genetic-mutation/) |      最短路问题(BFS)       |   Medium   |
-|        127         |    [单词接龙](https://leetcode.cn/problems/word-ladder/)     |      最短路问题(BFS)       |    Hard    |
-|        675         | [为高尔夫比赛砍树](https://leetcode.cn/problems/cut-off-trees-for-golf-event/) |      最短路问题(BFS)       |    Hard    |
+|        1926        | [迷宫中离入口最近的出口](https://leetcode.cn/problems/nearest-exit-from-entrance-in-maze/) |    单源最短路问题(BFS)     |   Medium   |
+|        433         | [最小基因变化](https://leetcode.cn/problems/minimum-genetic-mutation/) |    单源最短路问题(BFS)     |   Medium   |
+|        127         |    [单词接龙](https://leetcode.cn/problems/word-ladder/)     |    单源最短路问题(BFS)     |    Hard    |
+|        675         | [为高尔夫比赛砍树](https://leetcode.cn/problems/cut-off-trees-for-golf-event/) |    单源最短路问题(BFS)     |    Hard    |
+|        542         |      [01 矩阵](https://leetcode.cn/problems/01-matrix/)      |    多源最短路问题(BFS)     |   Medium   |
 
