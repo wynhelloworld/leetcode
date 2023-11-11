@@ -213,4 +213,5 @@
 |        675         | [为高尔夫比赛砍树](https://leetcode.cn/problems/cut-off-trees-for-golf-event/) |    单源最短路问题(BFS)     |    Hard    |
 |        542         |      [01 矩阵](https://leetcode.cn/problems/01-matrix/)      |    多源最短路问题(BFS)     |   Medium   |
 |        1020        | [飞地的数量](https://leetcode.cn/problems/number-of-enclaves/) |    多源最短路问题(BFS)     |   Medium   |
+|        1765        | [地图中的最高点](https://leetcode.cn/problems/map-of-highest-peak/) |    多源最短路问题(BFS)     |   Medium   |
 
