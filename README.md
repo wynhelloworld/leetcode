@@ -214,4 +214,5 @@
 |        542         |      [01 矩阵](https://leetcode.cn/problems/01-matrix/)      |    多源最短路问题(BFS)     |   Medium   |
 |        1020        | [飞地的数量](https://leetcode.cn/problems/number-of-enclaves/) |    多源最短路问题(BFS)     |   Medium   |
 |        1765        | [地图中的最高点](https://leetcode.cn/problems/map-of-highest-peak/) |    多源最短路问题(BFS)     |   Medium   |
+|        1162        | [地图分析](https://leetcode.cn/problems/as-far-from-land-as-possible/) |    多源最短路问题(BFS)     |   Medium   |
 
