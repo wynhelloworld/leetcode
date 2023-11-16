@@ -217,4 +217,5 @@
 |        1162        | [地图分析](https://leetcode.cn/problems/as-far-from-land-as-possible/) |    多源最短路问题(BFS)     |   Medium   |
 |        207         |   [课程表](https://leetcode.cn/problems/course-schedule/)    |     拓扑排序问题(BFS)      |   Medium   |
 |        210         | [课程表 II](https://leetcode.cn/problems/course-schedule-ii/) |     拓扑排序问题(BFS)      |   Medium   |
+|      LCR 114       |       [火星词典](https://leetcode.cn/problems/Jf1JuT/)       |     拓扑排序问题(BFS)      |    Hard    |
 
