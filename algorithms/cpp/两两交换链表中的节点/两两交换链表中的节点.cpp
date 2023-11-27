@@ -55,3 +55,20 @@ public:
         return dummyHead->next;
     }
 };
+
+/**
+ * 新增一种解法：递归法
+*/
+class Solution {
+public:
+    ListNode* swapPairs(ListNode* head) {
+        if (head == nullptr || head->next == nullptr) {
+            return head;
+        }
+        ListNode *node = swapPairs(head->next->next);
+        ListNode *next = head->next;
+        next->next = head;
+        head->next = node;
+        return next; 
+    }
+};
