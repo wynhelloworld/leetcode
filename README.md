@@ -223,3 +223,9 @@
 |        160         | [相交链表](https://leetcode.cn/problems/intersection-of-two-linked-lists/) |    Easy    |  Python   |
 |         19         | [删除链表的倒数第 N 个结点](https://leetcode.cn/problems/remove-nth-node-from-end-of-list/) |   Medium   |  Python   |
 |         86         |   [分隔链表](https://leetcode.cn/problems/partition-list/)   |   Medium   |  Python   |
+|        876         | [链表的中间结点](https://leetcode.cn/problems/middle-of-the-linked-list/) |    Easy    |  Python   |
+|      LCR 140       | [训练计划 II](https://leetcode.cn/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/) |    Easy    |  Python   |
+|      LCR 124       | [训练计划 IV](https://leetcode.cn/problems/he-bing-liang-ge-pai-xu-de-lian-biao-lcof/) |    Easy    |  Python   |
+|      LCR 171       | [训练计划 V](https://leetcode.cn/problems/liang-ge-lian-biao-de-di-yi-ge-gong-gong-jie-dian-lcof/) |    Easy    |  Python   |
+|         92         | [反转链表 II](https://leetcode.cn/problems/reverse-linked-list-ii/) |   Medium   |  Python   |
+|        234         | [回文链表](https://leetcode.cn/problems/palindrome-linked-list/) |    Easy    |  Python   |
