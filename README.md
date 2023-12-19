@@ -232,3 +232,9 @@
 |        167         | [两数之和 II - 输入有序数组](https://leetcode.cn/problems/two-sum-ii-input-array-is-sorted/) | Python    | Medium     |
 |         26         | [删除有序数组中的重复项](https://leetcode.cn/problems/remove-duplicates-from-sorted-array/) | Python    | Easy       |
 |         27         | [移除元素](https://leetcode.cn/problems/remove-element/)     | Python    | Easy       |
+|        344         | [反转字符串](https://leetcode.cn/problems/reverse-string/)   | Python    | Easy       |
+|         83         | [删除排序链表中的重复元素](https://leetcode.cn/problems/remove-duplicates-from-sorted-list/) | Python    | Easy       |
+|        303         | [区域和检索 - 数组不可变](https://leetcode.cn/problems/range-sum-query-immutable/) | Python    | Easy       |
+|        304         | [二维区域和检索 - 矩阵不可变](https://leetcode.cn/problems/range-sum-query-2d-immutable/) | Python    | Medium     |
+|        1094        | [拼车](https://leetcode.cn/problems/car-pooling/)            | Python    | Medium     |
+|        1109        | [航班预订统计](https://leetcode.cn/problems/corporate-flight-bookings/) | Python    | Medium     |
