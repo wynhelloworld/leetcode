@@ -238,3 +238,7 @@
 |        304         | [二维区域和检索 - 矩阵不可变](https://leetcode.cn/problems/range-sum-query-2d-immutable/) | Python    | Medium     |
 |        1094        | [拼车](https://leetcode.cn/problems/car-pooling/)            | Python    | Medium     |
 |        1109        | [航班预订统计](https://leetcode.cn/problems/corporate-flight-bookings/) | Python    | Medium     |
+|        151         | [反转字符串中的单词](https://leetcode.cn/problems/reverse-words-in-a-string/) | Python    | Medium     |
+|         48         | [旋转图像](https://leetcode.cn/problems/rotate-image/)       | Python    | Medium     |
+|         54         | [螺旋矩阵](https://leetcode.cn/problems/spiral-matrix/)      | Python    | Medium     |
+|         59         | [螺旋矩阵 II](https://leetcode.cn/problems/spiral-matrix-ii/) | Python    | Medium     |
