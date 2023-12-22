@@ -242,3 +242,5 @@
 |         48         | [旋转图像](https://leetcode.cn/problems/rotate-image/)       | Python    | Medium     |
 |         54         | [螺旋矩阵](https://leetcode.cn/problems/spiral-matrix/)      | Python    | Medium     |
 |         59         | [螺旋矩阵 II](https://leetcode.cn/problems/spiral-matrix-ii/) | Python    | Medium     |
+|        567         | [字符串的排列](https://leetcode.cn/problems/permutation-in-string/) | Python    | Medium     |
+|      LCR 167       | [招式拆解 I](https://leetcode.cn/problems/zui-chang-bu-han-zhong-fu-zi-fu-de-zi-zi-fu-chuan-lcof/) | Python    | Medium     |
