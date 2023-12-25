@@ -225,7 +225,8 @@
 |         86         | [分隔链表](https://leetcode.cn/problems/partition-list/)     | Python    | Medium     |
 |        876         | [链表的中间结点](https://leetcode.cn/problems/middle-of-the-linked-list/) | Python    | Easy       |
 |      LCR 140       | [训练计划 II](https://leetcode.cn/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/) | Python    | Easy       |
-|      LCR 124       | [训练计划 IV](https://leetcode.cn/problems/he-bing-liang-ge-pai-xu-de-lian-biao-lcof/) | Python    | Easy       |
+|      LCR 141       | [训练计划 III](https://leetcode.cn/problems/fan-zhuan-lian-biao-lcof/) | Python    | Easy       |
+|      LCR 142       | [训练计划 IV](https://leetcode.cn/problems/he-bing-liang-ge-pai-xu-de-lian-biao-lcof/) | Python    | Easy       |
 |      LCR 171       | [训练计划 V](https://leetcode.cn/problems/liang-ge-lian-biao-de-di-yi-ge-gong-gong-jie-dian-lcof/) | Python    | Easy       |
 |         92         | [反转链表 II](https://leetcode.cn/problems/reverse-linked-list-ii/) | Python    | Medium     |
 |        234         | [回文链表](https://leetcode.cn/problems/palindrome-linked-list/) | Python    | Easy       |
@@ -244,3 +245,11 @@
 |         59         | [螺旋矩阵 II](https://leetcode.cn/problems/spiral-matrix-ii/) | Python    | Medium     |
 |        567         | [字符串的排列](https://leetcode.cn/problems/permutation-in-string/) | Python    | Medium     |
 |      LCR 167       | [招式拆解 I](https://leetcode.cn/problems/zui-chang-bu-han-zhong-fu-zi-fu-de-zi-zi-fu-chuan-lcof/) | Python    | Medium     |
+|      LCR 014       | [字符串的排列](https://leetcode.cn/problems/MPnaiL/)         | Python    | Medium     |
+|      LCR 015       | [找到字符串中所有字母异位词](https://leetcode.cn/problems/VabMRr/) | Python    | Medium     |
+|      LCR 016       | [无重复字符的最长子串](https://leetcode.cn/problems/wtcaE1/) | Python    | Medium     |
+|      LCR 017       | [最小覆盖子串](https://leetcode.cn/problems/M1oyTv/)         | Python    | Hard       |
+|      LCR 021       | [删除链表的倒数第 N 个结点](https://leetcode.cn/problems/SLwz0R/) | Python    | Medium     |
+|      LCR 022       | [环形链表 II](https://leetcode.cn/problems/c32eOV/)          | Python    | Medium     |
+|      LCR 023       | [相交链表](https://leetcode.cn/problems/3u1WK4/)             | Python    | Easy       |
+|      LCR 024       | [反转链表](https://leetcode.cn/problems/UHnkqh/)             | Python    | Easy       |
