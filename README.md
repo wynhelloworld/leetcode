@@ -244,6 +244,8 @@
 |         54         | [螺旋矩阵](https://leetcode.cn/problems/spiral-matrix/)      | Python    | Medium     |
 |         59         | [螺旋矩阵 II](https://leetcode.cn/problems/spiral-matrix-ii/) | Python    | Medium     |
 |        567         | [字符串的排列](https://leetcode.cn/problems/permutation-in-string/) | Python    | Medium     |
+|        380         | [O(1) 时间插入、删除和获取随机元素](https://leetcode.cn/problems/insert-delete-getrandom-o1/) | Python    | Medium     |
+|        710         | [黑名单中的随机数](https://leetcode.cn/problems/random-pick-with-blacklist/) | Python    | Hard       |
 |      LCR 167       | [招式拆解 I](https://leetcode.cn/problems/zui-chang-bu-han-zhong-fu-zi-fu-de-zi-zi-fu-chuan-lcof/) | Python    | Medium     |
 |      LCR 006       | [两数之和 II - 输入有序数组](https://leetcode.cn/problems/kLl5u1/) | Python    | Easy       |
 |      LCR 013       | [二维区域和检索 - 矩阵不可变](https://leetcode.cn/problems/O4NDxx/) | Python    | Hard       |
@@ -256,7 +258,9 @@
 |      LCR 023       | [相交链表](https://leetcode.cn/problems/3u1WK4/)             | Python    | Easy       |
 |      LCR 024       | [反转链表](https://leetcode.cn/problems/UHnkqh/)             | Python    | Easy       |
 |      LCR 027       | [回文链表](https://leetcode.cn/problems/aMhZSa/)             | Python    | Easy       |
+|      LCR 030       | [O(1) 时间插入、删除和获取随机元素](https://leetcode.cn/problems/FortPu/) | Python    | Medium     |
 |      LCR 078       | [合并 K 个升序链表](https://leetcode.cn/problems/vvXgSW/)    | Python    | Hard       |
 |      LCR 146       | [螺旋遍历二维数组](https://leetcode.cn/problems/shun-shi-zhen-da-yin-ju-zhen-lcof/) | Python    | Easy       |
+|      LCR 172       | [统计目标成绩的出现次数](https://leetcode.cn/problems/zai-pai-xu-shu-zu-zhong-cha-zhao-shu-zi-lcof/) | Python    | Easy       |
 |      LCR 179       | [查找总价格为目标值的两个商品](https://leetcode.cn/problems/he-wei-sde-liang-ge-shu-zi-lcof/) | Python    | Easy       |
 |      LCR 181       | [字符串中的单词反转](https://leetcode.cn/problems/fan-zhuan-dan-ci-shun-xu-lcof/) | Python    | Easy       |
