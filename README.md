@@ -17,7 +17,6 @@
 |        213         | [打家劫舍 II](https://leetcode.cn/problems/house-robber-ii/) | C++       | Medium     |
 |        740         | [删除并获得点数](https://leetcode.cn/problems/delete-and-earn/) | C++       | Medium     |
 |  剑指Offer II 091  | [粉刷房子](https://leetcode.cn/problems/JEj789/)             | C++       | Medium     |
-|      LCR 188       | [买卖芯片的最佳时机](https://leetcode.cn/problems/gu-piao-de-zui-da-li-run-lcof/) | C++       | Easy       |
 |        121         | [买卖股票的最佳时机](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock/) | C++       | Easy       |
 |        122         | [买卖股票的最佳时机 II](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-ii/) | C++       | Medium     |
 |        123         | [买卖股票的最佳时机 III](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-iii/) | C++       | Hard       |
@@ -217,17 +216,12 @@
 |        1162        | [地图分析](https://leetcode.cn/problems/as-far-from-land-as-possible/) | C++       | Medium     |
 |        207         | [课程表](https://leetcode.cn/problems/course-schedule/)      | C++       | Medium     |
 |        210         | [课程表 II](https://leetcode.cn/problems/course-schedule-ii/) | C++       | Medium     |
-|      LCR 114       | [火星词典](https://leetcode.cn/problems/Jf1JuT/)             | C++       | Hard       |
 |        141         | [环形链表](https://leetcode.cn/problems/linked-list-cycle/)  | Python    | Easy       |
 |        142         | [环形链表 II](https://leetcode.cn/problems/linked-list-cycle-ii/) | Python    | Medium     |
 |        160         | [相交链表](https://leetcode.cn/problems/intersection-of-two-linked-lists/) | Python    | Easy       |
 |         19         | [删除链表的倒数第 N 个结点](https://leetcode.cn/problems/remove-nth-node-from-end-of-list/) | Python    | Medium     |
 |         86         | [分隔链表](https://leetcode.cn/problems/partition-list/)     | Python    | Medium     |
 |        876         | [链表的中间结点](https://leetcode.cn/problems/middle-of-the-linked-list/) | Python    | Easy       |
-|      LCR 140       | [训练计划 II](https://leetcode.cn/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/) | Python    | Easy       |
-|      LCR 141       | [训练计划 III](https://leetcode.cn/problems/fan-zhuan-lian-biao-lcof/) | Python    | Easy       |
-|      LCR 142       | [训练计划 IV](https://leetcode.cn/problems/he-bing-liang-ge-pai-xu-de-lian-biao-lcof/) | Python    | Easy       |
-|      LCR 171       | [训练计划 V](https://leetcode.cn/problems/liang-ge-lian-biao-de-di-yi-ge-gong-gong-jie-dian-lcof/) | Python    | Easy       |
 |         92         | [反转链表 II](https://leetcode.cn/problems/reverse-linked-list-ii/) | Python    | Medium     |
 |        234         | [回文链表](https://leetcode.cn/problems/palindrome-linked-list/) | Python    | Easy       |
 |        167         | [两数之和 II - 输入有序数组](https://leetcode.cn/problems/two-sum-ii-input-array-is-sorted/) | Python    | Medium     |
@@ -246,7 +240,12 @@
 |        567         | [字符串的排列](https://leetcode.cn/problems/permutation-in-string/) | Python    | Medium     |
 |        380         | [O(1) 时间插入、删除和获取随机元素](https://leetcode.cn/problems/insert-delete-getrandom-o1/) | Python    | Medium     |
 |        710         | [黑名单中的随机数](https://leetcode.cn/problems/random-pick-with-blacklist/) | Python    | Hard       |
-|      LCR 167       | [招式拆解 I](https://leetcode.cn/problems/zui-chang-bu-han-zhong-fu-zi-fu-de-zi-zi-fu-chuan-lcof/) | Python    | Medium     |
+|        104         | [二叉树的最大深度](https://leetcode.cn/problems/maximum-depth-of-binary-tree/) | Python    | Easy       |
+|        144         | [二叉树的前序遍历](https://leetcode.cn/problems/binary-tree-preorder-traversal/) | Python    | Easy       |
+|        543         | [二叉树的直径](https://leetcode.cn/problems/diameter-of-binary-tree/) | Python    | Easy       |
+|        114         | [二叉树展开为链表](https://leetcode.cn/problems/flatten-binary-tree-to-linked-list/) | Python    | Medium     |
+|        116         | [填充每个节点的下一个右侧节点指针](https://leetcode.cn/problems/populating-next-right-pointers-in-each-node/) | Python    | Medium     |
+|        226         | [翻转二叉树](https://leetcode.cn/problems/invert-binary-tree/) | Python    | Easy       |
 |      LCR 006       | [两数之和 II - 输入有序数组](https://leetcode.cn/problems/kLl5u1/) | Python    | Easy       |
 |      LCR 013       | [二维区域和检索 - 矩阵不可变](https://leetcode.cn/problems/O4NDxx/) | Python    | Hard       |
 |      LCR 014       | [字符串的排列](https://leetcode.cn/problems/MPnaiL/)         | Python    | Medium     |
@@ -260,7 +259,19 @@
 |      LCR 027       | [回文链表](https://leetcode.cn/problems/aMhZSa/)             | Python    | Easy       |
 |      LCR 030       | [O(1) 时间插入、删除和获取随机元素](https://leetcode.cn/problems/FortPu/) | Python    | Medium     |
 |      LCR 078       | [合并 K 个升序链表](https://leetcode.cn/problems/vvXgSW/)    | Python    | Hard       |
+|      LCR 114       | [火星词典](https://leetcode.cn/problems/Jf1JuT/)             | C++       | Hard       |
+|      LCR 140       | [训练计划 II](https://leetcode.cn/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/) | Python    | Easy       |
+|      LCR 141       | [训练计划 III](https://leetcode.cn/problems/fan-zhuan-lian-biao-lcof/) | Python    | Easy       |
+|      LCR 142       | [训练计划 IV](https://leetcode.cn/problems/he-bing-liang-ge-pai-xu-de-lian-biao-lcof/) | Python    | Easy       |
+|      LCR 144       | [翻转二叉树](https://leetcode.cn/problems/er-cha-shu-de-jing-xiang-lcof/) | Python    | Easy       |
 |      LCR 146       | [螺旋遍历二维数组](https://leetcode.cn/problems/shun-shi-zhen-da-yin-ju-zhen-lcof/) | Python    | Easy       |
+|      LCR 167       | [招式拆解 I](https://leetcode.cn/problems/zui-chang-bu-han-zhong-fu-zi-fu-de-zi-zi-fu-chuan-lcof/) | Python    | Medium     |
+|      LCR 171       | [训练计划 V](https://leetcode.cn/problems/liang-ge-lian-biao-de-di-yi-ge-gong-gong-jie-dian-lcof/) | Python    | Easy       |
 |      LCR 172       | [统计目标成绩的出现次数](https://leetcode.cn/problems/zai-pai-xu-shu-zu-zhong-cha-zhao-shu-zi-lcof/) | Python    | Easy       |
+|      CLR 175       | [计算二叉树的深度](https://leetcode.cn/problems/er-cha-shu-de-shen-du-lcof/) | Python    | Easy       |
 |      LCR 179       | [查找总价格为目标值的两个商品](https://leetcode.cn/problems/he-wei-sde-liang-ge-shu-zi-lcof/) | Python    | Easy       |
 |      LCR 181       | [字符串中的单词反转](https://leetcode.cn/problems/fan-zhuan-dan-ci-shun-xu-lcof/) | Python    | Easy       |
+|      LCR 188       | [买卖芯片的最佳时机](https://leetcode.cn/problems/gu-piao-de-zui-da-li-run-lcof/) | C++       | Easy       |
+
+
+
