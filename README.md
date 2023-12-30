@@ -246,6 +246,10 @@
 |        114         | [二叉树展开为链表](https://leetcode.cn/problems/flatten-binary-tree-to-linked-list/) | Python    | Medium     |
 |        116         | [填充每个节点的下一个右侧节点指针](https://leetcode.cn/problems/populating-next-right-pointers-in-each-node/) | Python    | Medium     |
 |        226         | [翻转二叉树](https://leetcode.cn/problems/invert-binary-tree/) | Python    | Easy       |
+|        105         | [从前序与中序遍历序列构造二叉树](https://leetcode.cn/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | Python    | Medium     |
+|        106         | [从中序与后序遍历序列构造二叉树](https://leetcode.cn/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) | Python    | Medium     |
+|        654         | [最大二叉树](https://leetcode.cn/problems/maximum-binary-tree/) | Python    | Medium     |
+|        889         | [根据前序和后序遍历构造二叉树](https://leetcode.cn/problems/construct-binary-tree-from-preorder-and-postorder-traversal/) | Python    | Medium     |
 |      LCR 006       | [两数之和 II - 输入有序数组](https://leetcode.cn/problems/kLl5u1/) | Python    | Easy       |
 |      LCR 013       | [二维区域和检索 - 矩阵不可变](https://leetcode.cn/problems/O4NDxx/) | Python    | Hard       |
 |      LCR 014       | [字符串的排列](https://leetcode.cn/problems/MPnaiL/)         | Python    | Medium     |
@@ -260,6 +264,7 @@
 |      LCR 030       | [O(1) 时间插入、删除和获取随机元素](https://leetcode.cn/problems/FortPu/) | Python    | Medium     |
 |      LCR 078       | [合并 K 个升序链表](https://leetcode.cn/problems/vvXgSW/)    | Python    | Hard       |
 |      LCR 114       | [火星词典](https://leetcode.cn/problems/Jf1JuT/)             | C++       | Hard       |
+|      LCR 124       | [推理二叉树](https://leetcode.cn/problems/zhong-jian-er-cha-shu-lcof/) | Python    | Medium     |
 |      LCR 140       | [训练计划 II](https://leetcode.cn/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/) | Python    | Easy       |
 |      LCR 141       | [训练计划 III](https://leetcode.cn/problems/fan-zhuan-lian-biao-lcof/) | Python    | Easy       |
 |      LCR 142       | [训练计划 IV](https://leetcode.cn/problems/he-bing-liang-ge-pai-xu-de-lian-biao-lcof/) | Python    | Easy       |
