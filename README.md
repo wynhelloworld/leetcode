@@ -4,13 +4,12 @@
 | :----------------: | :----------------------------------------------------------- | :---------- | :--------- |
 |         62         | [不同路径](https://leetcode.cn/problems/unique-paths/)       | C++, Python | Medium     |
 |         63         | [不同路径 ll](https://leetcode.cn/problems/unique-paths-ii/) | C++, Python | Medium     |
+|         64         | [最小路径和](https://leetcode.cn/problems/minimum-path-sum/) | C++, Python | Medium     |
 |         91         | [解码方法](https://leetcode.cn/problems/decode-ways/)        | C++, Python | Medium     |
+|        174         | [地下城游戏](https://leetcode.cn/problems/dungeon-game/)     | C++, Python | Hard       |
 |        746         | [使用最小花费爬楼梯](https://leetcode.cn/problems/min-cost-climbing-stairs/) | C++, Python | Easy       |
+|        931         | [下降路径最小和](https://leetcode.cn/problems/minimum-falling-path-sum/) | C++, Python | Medium     |
 |        1137        | [第N个泰波那契数](https://leetcode.cn/problems/n-th-tribonacci-number/) | C++, Python | Easy       |
-|    剑指Offer 47    | [礼物的最大价值](https://leetcode.cn/problems/li-wu-de-zui-da-jie-zhi-lcof/) | C++         | Medium     |
-|        931         | [下降路径最小和](https://leetcode.cn/problems/minimum-falling-path-sum/) | C++         | Medium     |
-|         64         | [最小路径和](https://leetcode.cn/problems/minimum-path-sum/) | C++         | Medium     |
-|        174         | [地下城游戏](https://leetcode.cn/problems/dungeon-game/)     | C++         | Hard       |
 |    面试题 17.16    | [按摩师](https://leetcode.cn/problems/the-masseuse-lcci/)    | C++         | Easy       |
 |        198         | [打家劫舍](https://leetcode.cn/problems/house-robber/)       | C++         | Medium     |
 |        213         | [打家劫舍 II](https://leetcode.cn/problems/house-robber-ii/) | C++         | Medium     |
@@ -269,6 +268,7 @@
 |      LCR 142       | [训练计划 IV](https://leetcode.cn/problems/he-bing-liang-ge-pai-xu-de-lian-biao-lcof/) | Python      | Easy       |
 |      LCR 144       | [翻转二叉树](https://leetcode.cn/problems/er-cha-shu-de-jing-xiang-lcof/) | Python      | Easy       |
 |      LCR 146       | [螺旋遍历二维数组](https://leetcode.cn/problems/shun-shi-zhen-da-yin-ju-zhen-lcof/) | Python      | Easy       |
+|      LCR 166       | [珠宝的最高价值](https://leetcode.cn/problems/li-wu-de-zui-da-jie-zhi-lcof/) | C++, Python | Medium     |
 |      LCR 167       | [招式拆解 I](https://leetcode.cn/problems/zui-chang-bu-han-zhong-fu-zi-fu-de-zi-zi-fu-chuan-lcof/) | Python      | Medium     |
 |      LCR 171       | [训练计划 V](https://leetcode.cn/problems/liang-ge-lian-biao-de-di-yi-ge-gong-gong-jie-dian-lcof/) | Python      | Easy       |
 |      LCR 172       | [统计目标成绩的出现次数](https://leetcode.cn/problems/zai-pai-xu-shu-zu-zhong-cha-zhao-shu-zi-lcof/) | Python      | Easy       |
