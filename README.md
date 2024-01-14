@@ -7,14 +7,12 @@
 |         64         | [最小路径和](https://leetcode.cn/problems/minimum-path-sum/) | C++, Python | Medium     |
 |         91         | [解码方法](https://leetcode.cn/problems/decode-ways/)        | C++, Python | Medium     |
 |        174         | [地下城游戏](https://leetcode.cn/problems/dungeon-game/)     | C++, Python | Hard       |
+|        198         | [打家劫舍](https://leetcode.cn/problems/house-robber/)       | C++, Python | Medium     |
+|        213         | [打家劫舍 II](https://leetcode.cn/problems/house-robber-ii/) | C++, Python | Medium     |
+|        740         | [删除并获得点数](https://leetcode.cn/problems/delete-and-earn/) | C++, Python | Medium     |
 |        746         | [使用最小花费爬楼梯](https://leetcode.cn/problems/min-cost-climbing-stairs/) | C++, Python | Easy       |
 |        931         | [下降路径最小和](https://leetcode.cn/problems/minimum-falling-path-sum/) | C++, Python | Medium     |
 |        1137        | [第N个泰波那契数](https://leetcode.cn/problems/n-th-tribonacci-number/) | C++, Python | Easy       |
-|    面试题 17.16    | [按摩师](https://leetcode.cn/problems/the-masseuse-lcci/)    | C++         | Easy       |
-|        198         | [打家劫舍](https://leetcode.cn/problems/house-robber/)       | C++         | Medium     |
-|        213         | [打家劫舍 II](https://leetcode.cn/problems/house-robber-ii/) | C++         | Medium     |
-|        740         | [删除并获得点数](https://leetcode.cn/problems/delete-and-earn/) | C++         | Medium     |
-|  剑指Offer II 091  | [粉刷房子](https://leetcode.cn/problems/JEj789/)             | C++         | Medium     |
 |        121         | [买卖股票的最佳时机](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock/) | C++         | Easy       |
 |        122         | [买卖股票的最佳时机 II](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-ii/) | C++         | Medium     |
 |        123         | [买卖股票的最佳时机 III](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-iii/) | C++         | Hard       |
@@ -261,6 +259,7 @@
 |      LCR 027       | [回文链表](https://leetcode.cn/problems/aMhZSa/)             | Python      | Easy       |
 |      LCR 030       | [O(1) 时间插入、删除和获取随机元素](https://leetcode.cn/problems/FortPu/) | Python      | Medium     |
 |      LCR 078       | [合并 K 个升序链表](https://leetcode.cn/problems/vvXgSW/)    | Python      | Hard       |
+|      LCR 091       | [粉刷房子](https://leetcode.cn/problems/JEj789/)             | C++, Python | Medium     |
 |      LCR 114       | [火星词典](https://leetcode.cn/problems/Jf1JuT/)             | C++         | Hard       |
 |      LCR 124       | [推理二叉树](https://leetcode.cn/problems/zhong-jian-er-cha-shu-lcof/) | Python      | Medium     |
 |      LCR 140       | [训练计划 II](https://leetcode.cn/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/) | Python      | Easy       |
@@ -277,6 +276,7 @@
 |      LCR 181       | [字符串中的单词反转](https://leetcode.cn/problems/fan-zhuan-dan-ci-shun-xu-lcof/) | Python      | Easy       |
 |      LCR 188       | [买卖芯片的最佳时机](https://leetcode.cn/problems/gu-piao-de-zui-da-li-run-lcof/) | C++         | Easy       |
 |   面试题 08. 01    | [三步问题](https://leetcode.cn/problems/three-steps-problem-lcci/) | C++, Python | Easy       |
+|    面试题 17.16    | [按摩师](https://leetcode.cn/problems/the-masseuse-lcci/)    | C++, Python | Easy       |
 
 
 
