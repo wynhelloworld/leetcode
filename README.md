@@ -10,6 +10,7 @@
 |        121         | [买卖股票的最佳时机](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock/) | C++, Python | Easy       |
 |        122         | [买卖股票的最佳时机 II](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-ii/) | C++, Python | Medium     |
 |        123         | [买卖股票的最佳时机 III](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-iii/) | C++, Python | Hard       |
+|        139         | [单词拆分](https://leetcode.cn/problems/word-break/)         | C++, Python | Medium     |
 |        152         | [乘积最大子数组](https://leetcode.cn/problems/maximum-product-subarray/) | C++, Python | Medium     |
 |        174         | [地下城游戏](https://leetcode.cn/problems/dungeon-game/)     | C++, Python | Hard       |
 |        188         | [买卖股票的最佳时机 IV](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-iv/) | C++, Python | Hard       |
@@ -25,7 +26,6 @@
 |        978         | [最长湍流子数组](https://leetcode.cn/problems/longest-turbulent-subarray/) | C++, Python | Medium     |
 |        1137        | [第N个泰波那契数](https://leetcode.cn/problems/n-th-tribonacci-number/) | C++, Python | Easy       |
 |        1567        | [乘积为正数的最长子数组长度](https://leetcode.cn/problems/maximum-length-of-subarray-with-positive-product/) | C++, Python | Medium     |
-|        139         | [单词拆分](https://leetcode.cn/problems/word-break/)         | C++         | Medium     |
 |        467         | [环绕字符串中唯一的子字符串](https://leetcode.cn/problems/unique-substrings-in-wraparound-string/) | C++         | Medium     |
 |        300         | [最长递增子序列](https://leetcode.cn/problems/longest-increasing-subsequence/) | C++         | Medium     |
 |        376         | [摆动序列](https://leetcode.cn/problems/wiggle-subsequence/) | C++         | Medium     |
