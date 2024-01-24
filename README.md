@@ -16,7 +16,9 @@
 |        188         | [买卖股票的最佳时机 IV](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-iv/) | C++, Python | Hard       |
 |        198         | [打家劫舍](https://leetcode.cn/problems/house-robber/)       | C++, Python | Medium     |
 |        213         | [打家劫舍 II](https://leetcode.cn/problems/house-robber-ii/) | C++, Python | Medium     |
+|        300         | [最长递增子序列](https://leetcode.cn/problems/longest-increasing-subsequence/) | C++, Python | Medium     |
 |        309         | [最佳买卖股票时机含冷冻期](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | C++, Python | Medium     |
+|        376         | [摆动序列](https://leetcode.cn/problems/wiggle-subsequence/) | C++, Python | Medium     |
 |        413         | [等差数列划分](https://leetcode.cn/problems/arithmetic-slices/) | C++, Python | Medium     |
 |        467         | [环绕字符串中唯一的子字符串](https://leetcode.cn/problems/unique-substrings-in-wraparound-string/) | C++, Python | Medium     |
 |        714         | [买卖股票的最佳时机含手续费](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) | C++, Python | Medium     |
@@ -27,8 +29,6 @@
 |        978         | [最长湍流子数组](https://leetcode.cn/problems/longest-turbulent-subarray/) | C++, Python | Medium     |
 |        1137        | [第N个泰波那契数](https://leetcode.cn/problems/n-th-tribonacci-number/) | C++, Python | Easy       |
 |        1567        | [乘积为正数的最长子数组长度](https://leetcode.cn/problems/maximum-length-of-subarray-with-positive-product/) | C++, Python | Medium     |
-|        300         | [最长递增子序列](https://leetcode.cn/problems/longest-increasing-subsequence/) | C++         | Medium     |
-|        376         | [摆动序列](https://leetcode.cn/problems/wiggle-subsequence/) | C++         | Medium     |
 |        673         | [最长递增子序列的个数](https://leetcode.cn/problems/number-of-longest-increasing-subsequence/) | C++         | Medium     |
 |        646         | [最长数对链](https://leetcode.cn/problems/maximum-length-of-pair-chain/) | C++         | Medium     |
 |        1218        | [最长定差子序列](https://leetcode.cn/problems/longest-arithmetic-subsequence-of-given-difference/) | C++         | Medium     |
