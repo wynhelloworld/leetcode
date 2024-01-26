@@ -2,6 +2,7 @@
 
 |         #          | Title                                                        | Solutions   | Difficulty |
 | :----------------: | :----------------------------------------------------------- | :---------- | :--------- |
+|         5          | [最长回文子串](https://leetcode.cn/problems/longest-palindromic-substring/) | C++, Python | Medium     |
 |         53         | [最大子数组和](https://leetcode.cn/problems/maximum-subarray/) | C++, Python | Medium     |
 |         62         | [不同路径](https://leetcode.cn/problems/unique-paths/)       | C++, Python | Medium     |
 |         63         | [不同路径 ll](https://leetcode.cn/problems/unique-paths-ii/) | C++, Python | Medium     |
@@ -10,6 +11,7 @@
 |        121         | [买卖股票的最佳时机](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock/) | C++, Python | Easy       |
 |        122         | [买卖股票的最佳时机 II](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-ii/) | C++, Python | Medium     |
 |        123         | [买卖股票的最佳时机 III](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-iii/) | C++, Python | Hard       |
+|        132         | [分割回文串 II](https://leetcode.cn/problems/palindrome-partitioning-ii/) | C++, Python | Hard       |
 |        139         | [单词拆分](https://leetcode.cn/problems/word-break/)         | C++, Python | Medium     |
 |        152         | [乘积最大子数组](https://leetcode.cn/problems/maximum-product-subarray/) | C++, Python | Medium     |
 |        174         | [地下城游戏](https://leetcode.cn/problems/dungeon-game/)     | C++, Python | Hard       |
@@ -22,7 +24,9 @@
 |        413         | [等差数列划分](https://leetcode.cn/problems/arithmetic-slices/) | C++, Python | Medium     |
 |        446         | [等差数列划分 II - 子序列](https://leetcode.cn/problems/arithmetic-slices-ii-subsequence/) | C++, Python | Hard       |
 |        467         | [环绕字符串中唯一的子字符串](https://leetcode.cn/problems/unique-substrings-in-wraparound-string/) | C++, Python | Medium     |
+|        516         | [最长回文子序列](https://leetcode.cn/problems/longest-palindromic-subsequence/) | C++, Python | Medium     |
 |        646         | [最长数对链](https://leetcode.cn/problems/maximum-length-of-pair-chain/) | C++, Python | Medium     |
+|        647         | [回文子串](https://leetcode.cn/problems/palindromic-substrings/) | C++, Python | Medium     |
 |        673         | [最长递增子序列的个数](https://leetcode.cn/problems/number-of-longest-increasing-subsequence/) | C++, Python | Medium     |
 |        714         | [买卖股票的最佳时机含手续费](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) | C++, Python | Medium     |
 |        740         | [删除并获得点数](https://leetcode.cn/problems/delete-and-earn/) | C++, Python | Medium     |
@@ -32,17 +36,13 @@
 |        931         | [下降路径最小和](https://leetcode.cn/problems/minimum-falling-path-sum/) | C++, Python | Medium     |
 |        978         | [最长湍流子数组](https://leetcode.cn/problems/longest-turbulent-subarray/) | C++, Python | Medium     |
 |        1027        | [最长等差数列](https://leetcode.cn/problems/longest-arithmetic-subsequence/) | C++, Python | Medium     |
+|        1035        | [不相交的线](https://leetcode.cn/problems/uncrossed-lines/)  | C++, Python | Medium     |
 |        1137        | [第N个泰波那契数](https://leetcode.cn/problems/n-th-tribonacci-number/) | C++, Python | Easy       |
+|        1143        | [最长公共子序列](https://leetcode.cn/problems/longest-common-subsequence/) | C++, Python | Medium     |
 |        1218        | [最长定差子序列](https://leetcode.cn/problems/longest-arithmetic-subsequence-of-given-difference/) | C++, Python | Medium     |
+|        1312        | [让字符串成为回文串的最少插入次数](https://leetcode.cn/problems/minimum-insertion-steps-to-make-a-string-palindrome/) | C++, Python | Hard       |
 |        1567        | [乘积为正数的最长子数组长度](https://leetcode.cn/problems/maximum-length-of-subarray-with-positive-product/) | C++, Python | Medium     |
-|        647         | [回文子串](https://leetcode.cn/problems/palindromic-substrings/) | C++         | Medium     |
-|         5          | [最长回文子串](https://leetcode.cn/problems/longest-palindromic-substring/) | C++         | Medium     |
-|        1745        | [回文串分割 IV](https://leetcode.cn/problems/palindrome-partitioning-iv/) | C++         | Hard       |
-|        132         | [分割回文串 II](https://leetcode.cn/problems/palindrome-partitioning-ii/) | C++         | Hard       |
-|        516         | [最长回文子序列](https://leetcode.cn/problems/longest-palindromic-subsequence/) | C++         | Medium     |
-|        1312        | [让字符串成为回文串的最少插入次数](https://leetcode.cn/problems/minimum-insertion-steps-to-make-a-string-palindrome/) | C++         | Hard       |
-|        1143        | [最长公共子序列](https://leetcode.cn/problems/longest-common-subsequence/) | C++         | Medium     |
-|        1035        | [不相交的线](https://leetcode.cn/problems/uncrossed-lines/)  | C++         | Medium     |
+|        1745        | [回文串分割 IV](https://leetcode.cn/problems/palindrome-partitioning-iv/) | C++, Python | Hard       |
 |        115         | [不同的子序列](https://leetcode.cn/problems/distinct-subsequences/) | C++         | Hard       |
 |         44         | [通配符匹配](https://leetcode.cn/problems/wildcard-matching/) | C++         | Hard       |
 |         10         | [正则表达式匹配](https://leetcode.cn/problems/regular-expression-matching/) | C++         | Hard       |
