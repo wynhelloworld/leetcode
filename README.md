@@ -3,11 +3,15 @@
 |         #          | Title                                                        | Solutions   | Difficulty |
 | :----------------: | :----------------------------------------------------------- | :---------- | :--------- |
 |         5          | [最长回文子串](https://leetcode.cn/problems/longest-palindromic-substring/) | C++, Python | Medium     |
+|         10         | [正则表达式匹配](https://leetcode.cn/problems/regular-expression-matching/) | C++, Python | Hard       |
+|         44         | [通配符匹配](https://leetcode.cn/problems/wildcard-matching/) | C++, Python | Hard       |
 |         53         | [最大子数组和](https://leetcode.cn/problems/maximum-subarray/) | C++, Python | Medium     |
 |         62         | [不同路径](https://leetcode.cn/problems/unique-paths/)       | C++, Python | Medium     |
 |         63         | [不同路径 ll](https://leetcode.cn/problems/unique-paths-ii/) | C++, Python | Medium     |
 |         64         | [最小路径和](https://leetcode.cn/problems/minimum-path-sum/) | C++, Python | Medium     |
 |         91         | [解码方法](https://leetcode.cn/problems/decode-ways/)        | C++, Python | Medium     |
+|         97         | [交错字符串](https://leetcode.cn/problems/interleaving-string/) | C++, Python | Medium     |
+|        115         | [不同的子序列](https://leetcode.cn/problems/distinct-subsequences/) | C++, Python | Hard       |
 |        121         | [买卖股票的最佳时机](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock/) | C++, Python | Easy       |
 |        122         | [买卖股票的最佳时机 II](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-ii/) | C++, Python | Medium     |
 |        123         | [买卖股票的最佳时机 III](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-iii/) | C++, Python | Hard       |
@@ -28,7 +32,9 @@
 |        646         | [最长数对链](https://leetcode.cn/problems/maximum-length-of-pair-chain/) | C++, Python | Medium     |
 |        647         | [回文子串](https://leetcode.cn/problems/palindromic-substrings/) | C++, Python | Medium     |
 |        673         | [最长递增子序列的个数](https://leetcode.cn/problems/number-of-longest-increasing-subsequence/) | C++, Python | Medium     |
+|        712         | [两个字符串的最小ASCII删除和](https://leetcode.cn/problems/minimum-ascii-delete-sum-for-two-strings/) | C++, Python | Medium     |
 |        714         | [买卖股票的最佳时机含手续费](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) | C++, Python | Medium     |
+|        718         | [最长重复子数组](https://leetcode.cn/problems/maximum-length-of-repeated-subarray/) | C++, Python | Medium     |
 |        740         | [删除并获得点数](https://leetcode.cn/problems/delete-and-earn/) | C++, Python | Medium     |
 |        746         | [使用最小花费爬楼梯](https://leetcode.cn/problems/min-cost-climbing-stairs/) | C++, Python | Easy       |
 |        873         | [最长的斐波那契子序列的长度](https://leetcode.cn/problems/length-of-longest-fibonacci-subsequence/) | C++, Python | Medium     |
@@ -43,12 +49,6 @@
 |        1312        | [让字符串成为回文串的最少插入次数](https://leetcode.cn/problems/minimum-insertion-steps-to-make-a-string-palindrome/) | C++, Python | Hard       |
 |        1567        | [乘积为正数的最长子数组长度](https://leetcode.cn/problems/maximum-length-of-subarray-with-positive-product/) | C++, Python | Medium     |
 |        1745        | [回文串分割 IV](https://leetcode.cn/problems/palindrome-partitioning-iv/) | C++, Python | Hard       |
-|        115         | [不同的子序列](https://leetcode.cn/problems/distinct-subsequences/) | C++         | Hard       |
-|         44         | [通配符匹配](https://leetcode.cn/problems/wildcard-matching/) | C++         | Hard       |
-|         10         | [正则表达式匹配](https://leetcode.cn/problems/regular-expression-matching/) | C++         | Hard       |
-|         97         | [交错字符串](https://leetcode.cn/problems/interleaving-string/) | C++         | Medium     |
-|        712         | [两个字符串的最小ASCII删除和](https://leetcode.cn/problems/minimum-ascii-delete-sum-for-two-strings/) | C++         | Medium     |
-|        718         | [最长重复子数组](https://leetcode.cn/problems/maximum-length-of-repeated-subarray/) | C++         | Medium     |
 |     牛客网DP41     | [【模版】01背包](https://www.nowcoder.com/practice/fd55637d3f24484e96dad9e992d3f62e?tpId=230&tqId=2032484&ru=/exam/oj&qru=/ta/dynamic-programming/question-ranking&sourceUrl=%2Fexam%2Foj%3Fpage%3D1%26tab%3D%25E7%25AE%2597%25E6%25B3%2595%25E7%25AF%2587%26topicId%3D196) | C++         | Medium     |
 |        416         | [分割等和子集](https://leetcode.cn/problems/partition-equal-subset-sum/) | C++         | Medium     |
 |        494         | [目标和](https://leetcode.cn/problems/target-sum/)           | C++         | Medium     |
