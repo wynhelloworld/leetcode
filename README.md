@@ -10,6 +10,7 @@
 |         63         | [不同路径 ll](https://leetcode.cn/problems/unique-paths-ii/) | C++, Python | Medium     |
 |         64         | [最小路径和](https://leetcode.cn/problems/minimum-path-sum/) | C++, Python | Medium     |
 |         91         | [解码方法](https://leetcode.cn/problems/decode-ways/)        | C++, Python | Medium     |
+|         96         | [不同的二叉搜索树](https://leetcode.cn/problems/unique-binary-search-trees/) | C++         | Medium     |
 |         97         | [交错字符串](https://leetcode.cn/problems/interleaving-string/) | C++, Python | Medium     |
 |        115         | [不同的子序列](https://leetcode.cn/problems/distinct-subsequences/) | C++, Python | Hard       |
 |        121         | [买卖股票的最佳时机](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock/) | C++, Python | Easy       |
@@ -27,10 +28,12 @@
 |        309         | [最佳买卖股票时机含冷冻期](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | C++, Python | Medium     |
 |        322         | [零钱兑换](https://leetcode.cn/problems/coin-change/)        | C++, Python | Medium     |
 |        376         | [摆动序列](https://leetcode.cn/problems/wiggle-subsequence/) | C++, Python | Medium     |
+|        377         | [组合总和 Ⅳ](https://leetcode.cn/problems/combination-sum-iv/) | C++         | Medium     |
 |        413         | [等差数列划分](https://leetcode.cn/problems/arithmetic-slices/) | C++, Python | Medium     |
 |        416         | [分割等和子集](https://leetcode.cn/problems/partition-equal-subset-sum/) | C++, Python | Medium     |
 |        446         | [等差数列划分 II - 子序列](https://leetcode.cn/problems/arithmetic-slices-ii-subsequence/) | C++, Python | Hard       |
 |        467         | [环绕字符串中唯一的子字符串](https://leetcode.cn/problems/unique-substrings-in-wraparound-string/) | C++, Python | Medium     |
+|        474         | [一和零](https://leetcode.cn/problems/ones-and-zeroes/)      | C++         | Medium     |
 |        494         | [目标和](https://leetcode.cn/problems/target-sum/)           | C++, Python | Medium     |
 |        516         | [最长回文子序列](https://leetcode.cn/problems/longest-palindromic-subsequence/) | C++, Python | Medium     |
 |        518         | [零钱兑换 II](https://leetcode.cn/problems/coin-change-ii/)  | C++, Python | Medium     |
@@ -43,6 +46,7 @@
 |        740         | [删除并获得点数](https://leetcode.cn/problems/delete-and-earn/) | C++, Python | Medium     |
 |        746         | [使用最小花费爬楼梯](https://leetcode.cn/problems/min-cost-climbing-stairs/) | C++, Python | Easy       |
 |        873         | [最长的斐波那契子序列的长度](https://leetcode.cn/problems/length-of-longest-fibonacci-subsequence/) | C++, Python | Medium     |
+|        879         | [盈利计划](https://leetcode.cn/problems/profitable-schemes/) | C++         | Hard       |
 |        918         | [环形子数组的最大和](https://leetcode.cn/problems/maximum-sum-circular-subarray/) | C++, Python | Medium     |
 |        931         | [下降路径最小和](https://leetcode.cn/problems/minimum-falling-path-sum/) | C++, Python | Medium     |
 |        978         | [最长湍流子数组](https://leetcode.cn/problems/longest-turbulent-subarray/) | C++, Python | Medium     |
@@ -55,10 +59,6 @@
 |        1312        | [让字符串成为回文串的最少插入次数](https://leetcode.cn/problems/minimum-insertion-steps-to-make-a-string-palindrome/) | C++, Python | Hard       |
 |        1567        | [乘积为正数的最长子数组长度](https://leetcode.cn/problems/maximum-length-of-subarray-with-positive-product/) | C++, Python | Medium     |
 |        1745        | [回文串分割 IV](https://leetcode.cn/problems/palindrome-partitioning-iv/) | C++, Python | Hard       |
-|        474         | [一和零](https://leetcode.cn/problems/ones-and-zeroes/)      | C++         | Medium     |
-|        879         | [盈利计划](https://leetcode.cn/problems/profitable-schemes/) | C++         | Hard       |
-|        377         | [组合总和 Ⅳ](https://leetcode.cn/problems/combination-sum-iv/) | C++         | Medium     |
-|         96         | [不同的二叉搜索树](https://leetcode.cn/problems/unique-binary-search-trees/) | C++         | Medium     |
 |        283         | [移动零](https://leetcode.cn/problems/move-zeroes/)          | C++         | Easy       |
 |        1089        | [复写零](https://leetcode.cn/problems/duplicate-zeros/)      | C++         | Easy       |
 |        202         | [快乐数](https://leetcode.cn/problems/happy-number/)         | C++         | Easy       |
