@@ -24,6 +24,7 @@
 |        198         | [打家劫舍](https://leetcode.cn/problems/house-robber/)       | C++, Python | Medium     |
 |        213         | [打家劫舍 II](https://leetcode.cn/problems/house-robber-ii/) | C++, Python | Medium     |
 |        279         | [完全平方数](https://leetcode.cn/problems/perfect-squares/)  | C++, Python | Medium     |
+|        283         | [移动零](https://leetcode.cn/problems/move-zeroes/)          | C++         | Easy       |
 |        300         | [最长递增子序列](https://leetcode.cn/problems/longest-increasing-subsequence/) | C++, Python | Medium     |
 |        309         | [最佳买卖股票时机含冷冻期](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | C++, Python | Medium     |
 |        322         | [零钱兑换](https://leetcode.cn/problems/coin-change/)        | C++, Python | Medium     |
@@ -53,14 +54,13 @@
 |        1027        | [最长等差数列](https://leetcode.cn/problems/longest-arithmetic-subsequence/) | C++, Python | Medium     |
 |        1035        | [不相交的线](https://leetcode.cn/problems/uncrossed-lines/)  | C++, Python | Medium     |
 |        1049        | [最后一块石头的重量 II](https://leetcode.cn/problems/last-stone-weight-ii/) | C++, Python | Medium     |
+|        1089        | [复写零](https://leetcode.cn/problems/duplicate-zeros/)      | C++         | Easy       |
 |        1137        | [第N个泰波那契数](https://leetcode.cn/problems/n-th-tribonacci-number/) | C++, Python | Easy       |
 |        1143        | [最长公共子序列](https://leetcode.cn/problems/longest-common-subsequence/) | C++, Python | Medium     |
 |        1218        | [最长定差子序列](https://leetcode.cn/problems/longest-arithmetic-subsequence-of-given-difference/) | C++, Python | Medium     |
 |        1312        | [让字符串成为回文串的最少插入次数](https://leetcode.cn/problems/minimum-insertion-steps-to-make-a-string-palindrome/) | C++, Python | Hard       |
 |        1567        | [乘积为正数的最长子数组长度](https://leetcode.cn/problems/maximum-length-of-subarray-with-positive-product/) | C++, Python | Medium     |
 |        1745        | [回文串分割 IV](https://leetcode.cn/problems/palindrome-partitioning-iv/) | C++, Python | Hard       |
-|        283         | [移动零](https://leetcode.cn/problems/move-zeroes/)          | C++         | Easy       |
-|        1089        | [复写零](https://leetcode.cn/problems/duplicate-zeros/)      | C++         | Easy       |
 |        202         | [快乐数](https://leetcode.cn/problems/happy-number/)         | C++         | Easy       |
 |         11         | [盛最多水的容器](https://leetcode.cn/problems/container-with-most-water/) | C++         | Medium     |
 |        611         | [有效三角形的个数](https://leetcode.cn/problems/valid-triangle-number/) | C++         | Medium     |
