@@ -5,11 +5,14 @@
 |         5          | [最长回文子串](https://leetcode.cn/problems/longest-palindromic-substring/) | C++, Python | Medium     |
 |         10         | [正则表达式匹配](https://leetcode.cn/problems/regular-expression-matching/) | C++, Python | Hard       |
 |         11         | [盛最多水的容器](https://leetcode.cn/problems/container-with-most-water/) | C++         | Medium     |
+|         15         | [三数之和](https://leetcode.cn/problems/3sum/)               | C++         | Medium     |
+|         18         | [四数之和](https://leetcode.cn/problems/4sum/)               | C++         | Medium     |
 |         44         | [通配符匹配](https://leetcode.cn/problems/wildcard-matching/) | C++, Python | Hard       |
 |         53         | [最大子数组和](https://leetcode.cn/problems/maximum-subarray/) | C++, Python | Medium     |
 |         62         | [不同路径](https://leetcode.cn/problems/unique-paths/)       | C++, Python | Medium     |
 |         63         | [不同路径 ll](https://leetcode.cn/problems/unique-paths-ii/) | C++, Python | Medium     |
 |         64         | [最小路径和](https://leetcode.cn/problems/minimum-path-sum/) | C++, Python | Medium     |
+|         75         | [颜色分类](https://leetcode.cn/problems/sort-colors/)        | C++         | Medium     |
 |         91         | [解码方法](https://leetcode.cn/problems/decode-ways/)        | C++, Python | Medium     |
 |         96         | [不同的二叉搜索树](https://leetcode.cn/problems/unique-binary-search-trees/) | C++         | Medium     |
 |         97         | [交错字符串](https://leetcode.cn/problems/interleaving-string/) | C++, Python | Medium     |
@@ -64,10 +67,6 @@
 |        1312        | [让字符串成为回文串的最少插入次数](https://leetcode.cn/problems/minimum-insertion-steps-to-make-a-string-palindrome/) | C++, Python | Hard       |
 |        1567        | [乘积为正数的最长子数组长度](https://leetcode.cn/problems/maximum-length-of-subarray-with-positive-product/) | C++, Python | Medium     |
 |        1745        | [回文串分割 IV](https://leetcode.cn/problems/palindrome-partitioning-iv/) | C++, Python | Hard       |
-|   剑指 Offer 57    | [和为s的两个数字](https://leetcode.cn/problems/he-wei-sde-liang-ge-shu-zi-lcof/) | C++         | Easy       |
-|         15         | [三数之和](https://leetcode.cn/problems/3sum/)               | C++         | Medium     |
-|         18         | [四数之和](https://leetcode.cn/problems/4sum/)               | C++         | Medium     |
-|         75         | [颜色分类](https://leetcode.cn/problems/sort-colors/)        | C++         | Medium     |
 |        209         | [长度最小的子数组](https://leetcode.cn/problems/minimum-size-subarray-sum/) | C++         | Medium     |
 |         3          | [ 无重复字符的最长子串](https://leetcode.cn/problems/longest-substring-without-repeating-characters/) | C++         | Medium     |
 |        1004        | [最大连续1的个数 III](https://leetcode.cn/problems/max-consecutive-ones-iii/) | C++         | Medium     |
@@ -270,7 +269,7 @@
 |      LCR 171       | [训练计划 V](https://leetcode.cn/problems/liang-ge-lian-biao-de-di-yi-ge-gong-gong-jie-dian-lcof/) | Python      | Easy       |
 |      LCR 172       | [统计目标成绩的出现次数](https://leetcode.cn/problems/zai-pai-xu-shu-zu-zhong-cha-zhao-shu-zi-lcof/) | Python      | Easy       |
 |      CLR 175       | [计算二叉树的深度](https://leetcode.cn/problems/er-cha-shu-de-shen-du-lcof/) | Python      | Easy       |
-|      LCR 179       | [查找总价格为目标值的两个商品](https://leetcode.cn/problems/he-wei-sde-liang-ge-shu-zi-lcof/) | Python      | Easy       |
+|      LCR 179       | [查找总价格为目标值的两个商品](https://leetcode.cn/problems/he-wei-sde-liang-ge-shu-zi-lcof/) | C++, Python | Easy       |
 |      LCR 181       | [字符串中的单词反转](https://leetcode.cn/problems/fan-zhuan-dan-ci-shun-xu-lcof/) | Python      | Easy       |
 |      LCR 188       | [买卖芯片的最佳时机](https://leetcode.cn/problems/gu-piao-de-zui-da-li-run-lcof/) | C++         | Easy       |
 |   面试题 08. 01    | [三步问题](https://leetcode.cn/problems/three-steps-problem-lcci/) | C++, Python | Easy       |
