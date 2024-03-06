@@ -2,6 +2,7 @@
 
 |         #          | Title                                                        | Solutions   | Difficulty |
 | :----------------: | :----------------------------------------------------------- | :---------- | :--------- |
+|         3          | [ 无重复字符的最长子串](https://leetcode.cn/problems/longest-substring-without-repeating-characters/) | C++         | Medium     |
 |         5          | [最长回文子串](https://leetcode.cn/problems/longest-palindromic-substring/) | C++, Python | Medium     |
 |         10         | [正则表达式匹配](https://leetcode.cn/problems/regular-expression-matching/) | C++, Python | Hard       |
 |         11         | [盛最多水的容器](https://leetcode.cn/problems/container-with-most-water/) | C++         | Medium     |
@@ -27,6 +28,7 @@
 |        188         | [买卖股票的最佳时机 IV](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-iv/) | C++, Python | Hard       |
 |        198         | [打家劫舍](https://leetcode.cn/problems/house-robber/)       | C++, Python | Medium     |
 |        202         | [快乐数](https://leetcode.cn/problems/happy-number/)         | C++         | Easy       |
+|        209         | [长度最小的子数组](https://leetcode.cn/problems/minimum-size-subarray-sum/) | C++         | Medium     |
 |        213         | [打家劫舍 II](https://leetcode.cn/problems/house-robber-ii/) | C++, Python | Medium     |
 |        279         | [完全平方数](https://leetcode.cn/problems/perfect-squares/)  | C++, Python | Medium     |
 |        283         | [移动零](https://leetcode.cn/problems/move-zeroes/)          | C++         | Easy       |
@@ -57,6 +59,7 @@
 |        918         | [环形子数组的最大和](https://leetcode.cn/problems/maximum-sum-circular-subarray/) | C++, Python | Medium     |
 |        931         | [下降路径最小和](https://leetcode.cn/problems/minimum-falling-path-sum/) | C++, Python | Medium     |
 |        978         | [最长湍流子数组](https://leetcode.cn/problems/longest-turbulent-subarray/) | C++, Python | Medium     |
+|        1004        | [最大连续1的个数 III](https://leetcode.cn/problems/max-consecutive-ones-iii/) | C++         | Medium     |
 |        1027        | [最长等差数列](https://leetcode.cn/problems/longest-arithmetic-subsequence/) | C++, Python | Medium     |
 |        1035        | [不相交的线](https://leetcode.cn/problems/uncrossed-lines/)  | C++, Python | Medium     |
 |        1049        | [最后一块石头的重量 II](https://leetcode.cn/problems/last-stone-weight-ii/) | C++, Python | Medium     |
@@ -66,11 +69,8 @@
 |        1218        | [最长定差子序列](https://leetcode.cn/problems/longest-arithmetic-subsequence-of-given-difference/) | C++, Python | Medium     |
 |        1312        | [让字符串成为回文串的最少插入次数](https://leetcode.cn/problems/minimum-insertion-steps-to-make-a-string-palindrome/) | C++, Python | Hard       |
 |        1567        | [乘积为正数的最长子数组长度](https://leetcode.cn/problems/maximum-length-of-subarray-with-positive-product/) | C++, Python | Medium     |
-|        1745        | [回文串分割 IV](https://leetcode.cn/problems/palindrome-partitioning-iv/) | C++, Python | Hard       |
-|        209         | [长度最小的子数组](https://leetcode.cn/problems/minimum-size-subarray-sum/) | C++         | Medium     |
-|         3          | [ 无重复字符的最长子串](https://leetcode.cn/problems/longest-substring-without-repeating-characters/) | C++         | Medium     |
-|        1004        | [最大连续1的个数 III](https://leetcode.cn/problems/max-consecutive-ones-iii/) | C++         | Medium     |
 |        1658        | [将 x 减到 0 的最小操作数](https://leetcode.cn/problems/minimum-operations-to-reduce-x-to-zero/) | C++         | Medium     |
+|        1745        | [回文串分割 IV](https://leetcode.cn/problems/palindrome-partitioning-iv/) | C++, Python | Hard       |
 |        904         | [水果成篮](https://leetcode.cn/problems/fruit-into-baskets/) | C++         | Medium     |
 |        438         | [找到字符串中所有字母异位词](https://leetcode.cn/problems/find-all-anagrams-in-a-string/) | C++         | Medium     |
 |         30         | [串联所有单词的子串](https://leetcode.cn/problems/substring-with-concatenation-of-all-words/) | C++         | Hard       |
