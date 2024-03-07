@@ -8,12 +8,14 @@
 |         11         | [盛最多水的容器](https://leetcode.cn/problems/container-with-most-water/) | C++         | Medium     |
 |         15         | [三数之和](https://leetcode.cn/problems/3sum/)               | C++         | Medium     |
 |         18         | [四数之和](https://leetcode.cn/problems/4sum/)               | C++         | Medium     |
+|         30         | [串联所有单词的子串](https://leetcode.cn/problems/substring-with-concatenation-of-all-words/) | C++         | Hard       |
 |         44         | [通配符匹配](https://leetcode.cn/problems/wildcard-matching/) | C++, Python | Hard       |
 |         53         | [最大子数组和](https://leetcode.cn/problems/maximum-subarray/) | C++, Python | Medium     |
 |         62         | [不同路径](https://leetcode.cn/problems/unique-paths/)       | C++, Python | Medium     |
 |         63         | [不同路径 ll](https://leetcode.cn/problems/unique-paths-ii/) | C++, Python | Medium     |
 |         64         | [最小路径和](https://leetcode.cn/problems/minimum-path-sum/) | C++, Python | Medium     |
 |         75         | [颜色分类](https://leetcode.cn/problems/sort-colors/)        | C++         | Medium     |
+|         76         | [ 最小覆盖子串](https://leetcode.cn/problems/minimum-window-substring/) | C++         | Hard       |
 |         91         | [解码方法](https://leetcode.cn/problems/decode-ways/)        | C++, Python | Medium     |
 |         96         | [不同的二叉搜索树](https://leetcode.cn/problems/unique-binary-search-trees/) | C++         | Medium     |
 |         97         | [交错字符串](https://leetcode.cn/problems/interleaving-string/) | C++, Python | Medium     |
@@ -39,6 +41,7 @@
 |        377         | [组合总和 Ⅳ](https://leetcode.cn/problems/combination-sum-iv/) | C++         | Medium     |
 |        413         | [等差数列划分](https://leetcode.cn/problems/arithmetic-slices/) | C++, Python | Medium     |
 |        416         | [分割等和子集](https://leetcode.cn/problems/partition-equal-subset-sum/) | C++, Python | Medium     |
+|        438         | [找到字符串中所有字母异位词](https://leetcode.cn/problems/find-all-anagrams-in-a-string/) | C++         | Medium     |
 |        446         | [等差数列划分 II - 子序列](https://leetcode.cn/problems/arithmetic-slices-ii-subsequence/) | C++, Python | Hard       |
 |        467         | [环绕字符串中唯一的子字符串](https://leetcode.cn/problems/unique-substrings-in-wraparound-string/) | C++, Python | Medium     |
 |        474         | [一和零](https://leetcode.cn/problems/ones-and-zeroes/)      | C++         | Medium     |
@@ -56,6 +59,7 @@
 |        746         | [使用最小花费爬楼梯](https://leetcode.cn/problems/min-cost-climbing-stairs/) | C++, Python | Easy       |
 |        873         | [最长的斐波那契子序列的长度](https://leetcode.cn/problems/length-of-longest-fibonacci-subsequence/) | C++, Python | Medium     |
 |        879         | [盈利计划](https://leetcode.cn/problems/profitable-schemes/) | C++         | Hard       |
+|        904         | [水果成篮](https://leetcode.cn/problems/fruit-into-baskets/) | C++         | Medium     |
 |        918         | [环形子数组的最大和](https://leetcode.cn/problems/maximum-sum-circular-subarray/) | C++, Python | Medium     |
 |        931         | [下降路径最小和](https://leetcode.cn/problems/minimum-falling-path-sum/) | C++, Python | Medium     |
 |        978         | [最长湍流子数组](https://leetcode.cn/problems/longest-turbulent-subarray/) | C++, Python | Medium     |
@@ -71,10 +75,6 @@
 |        1567        | [乘积为正数的最长子数组长度](https://leetcode.cn/problems/maximum-length-of-subarray-with-positive-product/) | C++, Python | Medium     |
 |        1658        | [将 x 减到 0 的最小操作数](https://leetcode.cn/problems/minimum-operations-to-reduce-x-to-zero/) | C++         | Medium     |
 |        1745        | [回文串分割 IV](https://leetcode.cn/problems/palindrome-partitioning-iv/) | C++, Python | Hard       |
-|        904         | [水果成篮](https://leetcode.cn/problems/fruit-into-baskets/) | C++         | Medium     |
-|        438         | [找到字符串中所有字母异位词](https://leetcode.cn/problems/find-all-anagrams-in-a-string/) | C++         | Medium     |
-|         30         | [串联所有单词的子串](https://leetcode.cn/problems/substring-with-concatenation-of-all-words/) | C++         | Hard       |
-|         76         | [ 最小覆盖子串](https://leetcode.cn/problems/minimum-window-substring/) | C++         | Hard       |
 |        704         | [二分查找](https://leetcode.cn/problems/binary-search/)      | C++         | Easy       |
 |         34         | [在排序数组中查找元素的第一个和最后一个位置](https://leetcode.cn/problems/find-first-and-last-position-of-element-in-sorted-array/) | C++         | Medium     |
 |         35         | [搜索插入位置](https://leetcode.cn/problems/search-insert-position/) | C++         | Easy       |
