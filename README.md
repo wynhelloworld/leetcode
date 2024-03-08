@@ -9,11 +9,14 @@
 |         15         | [三数之和](https://leetcode.cn/problems/3sum/)               | C++         | Medium     |
 |         18         | [四数之和](https://leetcode.cn/problems/4sum/)               | C++         | Medium     |
 |         30         | [串联所有单词的子串](https://leetcode.cn/problems/substring-with-concatenation-of-all-words/) | C++         | Hard       |
+|         34         | [在排序数组中查找元素的第一个和最后一个位置](https://leetcode.cn/problems/find-first-and-last-position-of-element-in-sorted-array/) | C++         | Medium     |
+|         35         | [搜索插入位置](https://leetcode.cn/problems/search-insert-position/) | C++         | Easy       |
 |         44         | [通配符匹配](https://leetcode.cn/problems/wildcard-matching/) | C++, Python | Hard       |
 |         53         | [最大子数组和](https://leetcode.cn/problems/maximum-subarray/) | C++, Python | Medium     |
 |         62         | [不同路径](https://leetcode.cn/problems/unique-paths/)       | C++, Python | Medium     |
 |         63         | [不同路径 ll](https://leetcode.cn/problems/unique-paths-ii/) | C++, Python | Medium     |
 |         64         | [最小路径和](https://leetcode.cn/problems/minimum-path-sum/) | C++, Python | Medium     |
+|         69         | [x 的平方根](https://leetcode.cn/problems/sqrtx/)            | C++         | Easy       |
 |         75         | [颜色分类](https://leetcode.cn/problems/sort-colors/)        | C++         | Medium     |
 |         76         | [ 最小覆盖子串](https://leetcode.cn/problems/minimum-window-substring/) | C++         | Hard       |
 |         91         | [解码方法](https://leetcode.cn/problems/decode-ways/)        | C++, Python | Medium     |
@@ -52,6 +55,7 @@
 |        646         | [最长数对链](https://leetcode.cn/problems/maximum-length-of-pair-chain/) | C++, Python | Medium     |
 |        647         | [回文子串](https://leetcode.cn/problems/palindromic-substrings/) | C++, Python | Medium     |
 |        673         | [最长递增子序列的个数](https://leetcode.cn/problems/number-of-longest-increasing-subsequence/) | C++, Python | Medium     |
+|        704         | [二分查找](https://leetcode.cn/problems/binary-search/)      | C++         | Easy       |
 |        712         | [两个字符串的最小ASCII删除和](https://leetcode.cn/problems/minimum-ascii-delete-sum-for-two-strings/) | C++, Python | Medium     |
 |        714         | [买卖股票的最佳时机含手续费](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) | C++, Python | Medium     |
 |        718         | [最长重复子数组](https://leetcode.cn/problems/maximum-length-of-repeated-subarray/) | C++, Python | Medium     |
@@ -75,10 +79,6 @@
 |        1567        | [乘积为正数的最长子数组长度](https://leetcode.cn/problems/maximum-length-of-subarray-with-positive-product/) | C++, Python | Medium     |
 |        1658        | [将 x 减到 0 的最小操作数](https://leetcode.cn/problems/minimum-operations-to-reduce-x-to-zero/) | C++         | Medium     |
 |        1745        | [回文串分割 IV](https://leetcode.cn/problems/palindrome-partitioning-iv/) | C++, Python | Hard       |
-|        704         | [二分查找](https://leetcode.cn/problems/binary-search/)      | C++         | Easy       |
-|         34         | [在排序数组中查找元素的第一个和最后一个位置](https://leetcode.cn/problems/find-first-and-last-position-of-element-in-sorted-array/) | C++         | Medium     |
-|         35         | [搜索插入位置](https://leetcode.cn/problems/search-insert-position/) | C++         | Easy       |
-|         69         | [x 的平方根](https://leetcode.cn/problems/sqrtx/)            | C++         | Easy       |
 |        852         | [山脉数组的峰顶索引](https://leetcode.cn/problems/peak-index-in-a-mountain-array/) | C++         | Medium     |
 |        162         | [寻找峰值](https://leetcode.cn/problems/find-peak-element/)  | C++         | Medium     |
 |        153         | [寻找旋转排序数组中的最小值](https://leetcode.cn/problems/find-minimum-in-rotated-sorted-array/) | C++         | Medium     |
