@@ -37,6 +37,7 @@
 |      202      | [快乐数](https://leetcode.cn/problems/happy-number/)         | C++         | Easy       |
 |      209      | [长度最小的子数组](https://leetcode.cn/problems/minimum-size-subarray-sum/) | C++         | Medium     |
 |      213      | [打家劫舍 II](https://leetcode.cn/problems/house-robber-ii/) | C++, Python | Medium     |
+|      238      | [除自身以外数组的乘积](https://leetcode.cn/problems/product-of-array-except-self/) | C++         | Medium     |
 |      279      | [完全平方数](https://leetcode.cn/problems/perfect-squares/)  | C++, Python | Medium     |
 |      283      | [移动零](https://leetcode.cn/problems/move-zeroes/)          | C++         | Easy       |
 |      300      | [最长递增子序列](https://leetcode.cn/problems/longest-increasing-subsequence/) | C++, Python | Medium     |
@@ -61,6 +62,7 @@
 |      712      | [两个字符串的最小ASCII删除和](https://leetcode.cn/problems/minimum-ascii-delete-sum-for-two-strings/) | C++, Python | Medium     |
 |      714      | [买卖股票的最佳时机含手续费](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) | C++, Python | Medium     |
 |      718      | [最长重复子数组](https://leetcode.cn/problems/maximum-length-of-repeated-subarray/) | C++, Python | Medium     |
+|      724      | [寻找数组的中心下标](https://leetcode.cn/problems/find-pivot-index/) | C++         | Easy       |
 |      740      | [删除并获得点数](https://leetcode.cn/problems/delete-and-earn/) | C++, Python | Medium     |
 |      746      | [使用最小花费爬楼梯](https://leetcode.cn/problems/min-cost-climbing-stairs/) | C++, Python | Easy       |
 |      852      | [山脉数组的峰顶索引](https://leetcode.cn/problems/peak-index-in-a-mountain-array/) | C++         | Medium     |
@@ -82,10 +84,6 @@
 |     1567      | [乘积为正数的最长子数组长度](https://leetcode.cn/problems/maximum-length-of-subarray-with-positive-product/) | C++, Python | Medium     |
 |     1658      | [将 x 减到 0 的最小操作数](https://leetcode.cn/problems/minimum-operations-to-reduce-x-to-zero/) | C++         | Medium     |
 |     1745      | [回文串分割 IV](https://leetcode.cn/problems/palindrome-partitioning-iv/) | C++, Python | Hard       |
-|  牛客网DP34   | [【模版】前缀和](https://www.nowcoder.com/practice/acead2f4c28c401889915da98ecdc6bf?tpId=230&tqId=2021480&ru=%2Fpractice%2F99eb8040d116414ea3296467ce81cbbc&qru=%2Fta%2Fdynamic-programming%2Fquestion-ranking&sourceUrl=) | C++         | Easy       |
-|  牛客网DP35   | [【模版】二维前缀和](https://www.nowcoder.com/practice/99eb8040d116414ea3296467ce81cbbc?tpId=230&tqId=38962&ru=/exam/oj) | C++         | Medium     |
-|      724      | [寻找数组的中心下标](https://leetcode.cn/problems/find-pivot-index/) | C++         | Easy       |
-|      238      | [除自身以外数组的乘积](https://leetcode.cn/problems/product-of-array-except-self/) | C++         | Medium     |
 |      560      | [和为 K 的子数组](https://leetcode.cn/problems/subarray-sum-equals-k/) | C++         | Medium     |
 |      974      | [和可被 K 整除的子数组](https://leetcode.cn/problems/subarray-sums-divisible-by-k/) | C++         | Medium     |
 |      525      | [连续数组](https://leetcode.cn/problems/contiguous-array/)   | C++         | Medium     |
@@ -274,6 +272,8 @@
 |    LCR 188    | [买卖芯片的最佳时机](https://leetcode.cn/problems/gu-piao-de-zui-da-li-run-lcof/) | C++         | Easy       |
 | 面试题 08. 01 | [三步问题](https://leetcode.cn/problems/three-steps-problem-lcci/) | C++, Python | Easy       |
 | 面试题 17.16  | [按摩师](https://leetcode.cn/problems/the-masseuse-lcci/)    | C++, Python | Easy       |
+|  牛客网DP34   | [【模版】前缀和](https://www.nowcoder.com/practice/acead2f4c28c401889915da98ecdc6bf?tpId=230&tqId=2021480&ru=%2Fpractice%2F99eb8040d116414ea3296467ce81cbbc&qru=%2Fta%2Fdynamic-programming%2Fquestion-ranking&sourceUrl=) | C++         | Easy       |
+|  牛客网DP35   | [【模版】二维前缀和](https://www.nowcoder.com/practice/99eb8040d116414ea3296467ce81cbbc?tpId=230&tqId=38962&ru=/exam/oj) | C++         | Medium     |
 |  牛客网DP41   | [【模版】01背包](https://www.nowcoder.com/practice/fd55637d3f24484e96dad9e992d3f62e?tpId=230&tqId=2032484&ru=/exam/oj&qru=/ta/dynamic-programming/question-ranking&sourceUrl=%2Fexam%2Foj%3Fpage%3D1%26tab%3D%25E7%25AE%2597%25E6%25B3%2595%25E7%25AF%2587%26topicId%3D196) | C++, Python | Medium     |
 |  牛客网DP42   | [【模版】完全背包](https://www.nowcoder.com/practice/237ae40ea1e84d8980c1d5666d1c53bc?tpId=230&tqId=2032575&ru=/exam/oj&qru=/ta/dynamic-programming/question-ranking&sourceUrl=%2Fexam%2Foj%3Fpage%3D1%26tab%3D%25E7%25AE%2597%25E6%25B3%2595%25E7%25AF%2587%26topicId%3D196) | C++, Python | Medium     |
 
