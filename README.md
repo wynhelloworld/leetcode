@@ -54,6 +54,8 @@
 |      494      | [目标和](https://leetcode.cn/problems/target-sum/)           | C++, Python | Medium     |
 |      516      | [最长回文子序列](https://leetcode.cn/problems/longest-palindromic-subsequence/) | C++, Python | Medium     |
 |      518      | [零钱兑换 II](https://leetcode.cn/problems/coin-change-ii/)  | C++, Python | Medium     |
+|      525      | [连续数组](https://leetcode.cn/problems/contiguous-array/)   | C++         | Medium     |
+|      560      | [和为 K 的子数组](https://leetcode.cn/problems/subarray-sum-equals-k/) | C++         | Medium     |
 |      611      | [有效三角形的个数](https://leetcode.cn/problems/valid-triangle-number/) | C++         | Medium     |
 |      646      | [最长数对链](https://leetcode.cn/problems/maximum-length-of-pair-chain/) | C++, Python | Medium     |
 |      647      | [回文子串](https://leetcode.cn/problems/palindromic-substrings/) | C++, Python | Medium     |
@@ -71,6 +73,7 @@
 |      904      | [水果成篮](https://leetcode.cn/problems/fruit-into-baskets/) | C++         | Medium     |
 |      918      | [环形子数组的最大和](https://leetcode.cn/problems/maximum-sum-circular-subarray/) | C++, Python | Medium     |
 |      931      | [下降路径最小和](https://leetcode.cn/problems/minimum-falling-path-sum/) | C++, Python | Medium     |
+|      974      | [和可被 K 整除的子数组](https://leetcode.cn/problems/subarray-sums-divisible-by-k/) | C++         | Medium     |
 |      978      | [最长湍流子数组](https://leetcode.cn/problems/longest-turbulent-subarray/) | C++, Python | Medium     |
 |     1004      | [最大连续1的个数 III](https://leetcode.cn/problems/max-consecutive-ones-iii/) | C++         | Medium     |
 |     1027      | [最长等差数列](https://leetcode.cn/problems/longest-arithmetic-subsequence/) | C++, Python | Medium     |
@@ -81,13 +84,10 @@
 |     1143      | [最长公共子序列](https://leetcode.cn/problems/longest-common-subsequence/) | C++, Python | Medium     |
 |     1218      | [最长定差子序列](https://leetcode.cn/problems/longest-arithmetic-subsequence-of-given-difference/) | C++, Python | Medium     |
 |     1312      | [让字符串成为回文串的最少插入次数](https://leetcode.cn/problems/minimum-insertion-steps-to-make-a-string-palindrome/) | C++, Python | Hard       |
+|     1314      | [矩阵区域和](https://leetcode.cn/problems/matrix-block-sum/) | C++         | Medium     |
 |     1567      | [乘积为正数的最长子数组长度](https://leetcode.cn/problems/maximum-length-of-subarray-with-positive-product/) | C++, Python | Medium     |
 |     1658      | [将 x 减到 0 的最小操作数](https://leetcode.cn/problems/minimum-operations-to-reduce-x-to-zero/) | C++         | Medium     |
 |     1745      | [回文串分割 IV](https://leetcode.cn/problems/palindrome-partitioning-iv/) | C++, Python | Hard       |
-|      560      | [和为 K 的子数组](https://leetcode.cn/problems/subarray-sum-equals-k/) | C++         | Medium     |
-|      974      | [和可被 K 整除的子数组](https://leetcode.cn/problems/subarray-sums-divisible-by-k/) | C++         | Medium     |
-|      525      | [连续数组](https://leetcode.cn/problems/contiguous-array/)   | C++         | Medium     |
-|     1314      | [矩阵区域和](https://leetcode.cn/problems/matrix-block-sum/) | C++         | Medium     |
 |      191      | [位1的个数](https://leetcode.cn/problems/number-of-1-bits/)  | C++         | Easy       |
 |      338      | [比特位计数](https://leetcode.cn/problems/counting-bits/)    | C++         | Easy       |
 |      461      | [汉明距离](https://leetcode.cn/problems/hamming-distance/)   | C++         | Easy       |
