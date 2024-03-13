@@ -27,28 +27,36 @@
 |      122      | [买卖股票的最佳时机 II](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-ii/) | C++, Python | Medium     |
 |      123      | [买卖股票的最佳时机 III](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-iii/) | C++, Python | Hard       |
 |      132      | [分割回文串 II](https://leetcode.cn/problems/palindrome-partitioning-ii/) | C++, Python | Hard       |
+|      136      | [只出现一次的数字](https://leetcode.cn/problems/single-number/) | C++         | Easy       |
+|      137      | [只出现一次的数字 II](https://leetcode.cn/problems/single-number-ii/) | C++         | Medium     |
 |      139      | [单词拆分](https://leetcode.cn/problems/word-break/)         | C++, Python | Medium     |
 |      152      | [乘积最大子数组](https://leetcode.cn/problems/maximum-product-subarray/) | C++, Python | Medium     |
 |      153      | [寻找旋转排序数组中的最小值](https://leetcode.cn/problems/find-minimum-in-rotated-sorted-array/) | C++         | Medium     |
 |      162      | [寻找峰值](https://leetcode.cn/problems/find-peak-element/)  | C++         | Medium     |
 |      174      | [地下城游戏](https://leetcode.cn/problems/dungeon-game/)     | C++, Python | Hard       |
 |      188      | [买卖股票的最佳时机 IV](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-iv/) | C++, Python | Hard       |
+|      191      | [位1的个数](https://leetcode.cn/problems/number-of-1-bits/)  | C++         | Easy       |
 |      198      | [打家劫舍](https://leetcode.cn/problems/house-robber/)       | C++, Python | Medium     |
 |      202      | [快乐数](https://leetcode.cn/problems/happy-number/)         | C++         | Easy       |
 |      209      | [长度最小的子数组](https://leetcode.cn/problems/minimum-size-subarray-sum/) | C++         | Medium     |
 |      213      | [打家劫舍 II](https://leetcode.cn/problems/house-robber-ii/) | C++, Python | Medium     |
 |      238      | [除自身以外数组的乘积](https://leetcode.cn/problems/product-of-array-except-self/) | C++         | Medium     |
+|      260      | [只出现一次的数字 III](https://leetcode.cn/problems/single-number-iii/) | C++         | Medium     |
+|      268      | [丢失的数字](https://leetcode.cn/problems/missing-number/)   | C++         | Easy       |
 |      279      | [完全平方数](https://leetcode.cn/problems/perfect-squares/)  | C++, Python | Medium     |
 |      283      | [移动零](https://leetcode.cn/problems/move-zeroes/)          | C++         | Easy       |
 |      300      | [最长递增子序列](https://leetcode.cn/problems/longest-increasing-subsequence/) | C++, Python | Medium     |
 |      309      | [最佳买卖股票时机含冷冻期](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | C++, Python | Medium     |
 |      322      | [零钱兑换](https://leetcode.cn/problems/coin-change/)        | C++, Python | Medium     |
+|      338      | [比特位计数](https://leetcode.cn/problems/counting-bits/)    | C++         | Easy       |
+|      371      | [两整数之和](https://leetcode.cn/problems/sum-of-two-integers/) | C++         | Medium     |
 |      376      | [摆动序列](https://leetcode.cn/problems/wiggle-subsequence/) | C++, Python | Medium     |
 |      377      | [组合总和 Ⅳ](https://leetcode.cn/problems/combination-sum-iv/) | C++         | Medium     |
 |      413      | [等差数列划分](https://leetcode.cn/problems/arithmetic-slices/) | C++, Python | Medium     |
 |      416      | [分割等和子集](https://leetcode.cn/problems/partition-equal-subset-sum/) | C++, Python | Medium     |
 |      438      | [找到字符串中所有字母异位词](https://leetcode.cn/problems/find-all-anagrams-in-a-string/) | C++         | Medium     |
 |      446      | [等差数列划分 II - 子序列](https://leetcode.cn/problems/arithmetic-slices-ii-subsequence/) | C++, Python | Hard       |
+|      461      | [汉明距离](https://leetcode.cn/problems/hamming-distance/)   | C++         | Easy       |
 |      467      | [环绕字符串中唯一的子字符串](https://leetcode.cn/problems/unique-substrings-in-wraparound-string/) | C++, Python | Medium     |
 |      474      | [一和零](https://leetcode.cn/problems/ones-and-zeroes/)      | C++         | Medium     |
 |      494      | [目标和](https://leetcode.cn/problems/target-sum/)           | C++, Python | Medium     |
@@ -88,15 +96,6 @@
 |     1567      | [乘积为正数的最长子数组长度](https://leetcode.cn/problems/maximum-length-of-subarray-with-positive-product/) | C++, Python | Medium     |
 |     1658      | [将 x 减到 0 的最小操作数](https://leetcode.cn/problems/minimum-operations-to-reduce-x-to-zero/) | C++         | Medium     |
 |     1745      | [回文串分割 IV](https://leetcode.cn/problems/palindrome-partitioning-iv/) | C++, Python | Hard       |
-|      191      | [位1的个数](https://leetcode.cn/problems/number-of-1-bits/)  | C++         | Easy       |
-|      338      | [比特位计数](https://leetcode.cn/problems/counting-bits/)    | C++         | Easy       |
-|      461      | [汉明距离](https://leetcode.cn/problems/hamming-distance/)   | C++         | Easy       |
-| 面试题 01.01  | [判定字符是否唯一](https://leetcode.cn/problems/is-unique-lcci/) | C++         | Easy       |
-|      136      | [只出现一次的数字](https://leetcode.cn/problems/single-number/) | C++         | Easy       |
-|      137      | [只出现一次的数字 II](https://leetcode.cn/problems/single-number-ii/) | C++         | Medium     |
-|      260      | [只出现一次的数字 III](https://leetcode.cn/problems/single-number-iii/) | C++         | Medium     |
-|      268      | [丢失的数字](https://leetcode.cn/problems/missing-number/)   | C++         | Easy       |
-|      371      | [两整数之和](https://leetcode.cn/problems/sum-of-two-integers/) | C++         | Medium     |
 | 面试题 17.19  | [消失的两个数字](https://leetcode.cn/problems/missing-two-lcci/) | C++         | Hard       |
 |     1576      | [替换所有的问号](https://leetcode.cn/problems/replace-all-s-to-avoid-consecutive-repeating-characters/) | C++         | Easy       |
 |      495      | [提莫攻击](https://leetcode.cn/problems/teemo-attacking/)    | C++         | Easy       |
@@ -270,7 +269,8 @@
 |    LCR 179    | [查找总价格为目标值的两个商品](https://leetcode.cn/problems/he-wei-sde-liang-ge-shu-zi-lcof/) | C++, Python | Easy       |
 |    LCR 181    | [字符串中的单词反转](https://leetcode.cn/problems/fan-zhuan-dan-ci-shun-xu-lcof/) | Python      | Easy       |
 |    LCR 188    | [买卖芯片的最佳时机](https://leetcode.cn/problems/gu-piao-de-zui-da-li-run-lcof/) | C++         | Easy       |
-| 面试题 08. 01 | [三步问题](https://leetcode.cn/problems/three-steps-problem-lcci/) | C++, Python | Easy       |
+| 面试题 01.01  | [判定字符是否唯一](https://leetcode.cn/problems/is-unique-lcci/) | C++         | Easy       |
+| 面试题 08.01  | [三步问题](https://leetcode.cn/problems/three-steps-problem-lcci/) | C++, Python | Easy       |
 | 面试题 17.16  | [按摩师](https://leetcode.cn/problems/the-masseuse-lcci/)    | C++, Python | Easy       |
 |  牛客网DP34   | [【模版】前缀和](https://www.nowcoder.com/practice/acead2f4c28c401889915da98ecdc6bf?tpId=230&tqId=2021480&ru=%2Fpractice%2F99eb8040d116414ea3296467ce81cbbc&qru=%2Fta%2Fdynamic-programming%2Fquestion-ranking&sourceUrl=) | C++         | Easy       |
 |  牛客网DP35   | [【模版】二维前缀和](https://www.nowcoder.com/practice/99eb8040d116414ea3296467ce81cbbc?tpId=230&tqId=38962&ru=/exam/oj) | C++         | Medium     |
