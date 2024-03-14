@@ -4,6 +4,7 @@
 | :-----------: | :----------------------------------------------------------- | :---------- | :--------- |
 |       3       | [ 无重复字符的最长子串](https://leetcode.cn/problems/longest-substring-without-repeating-characters/) | C++         | Medium     |
 |       5       | [最长回文子串](https://leetcode.cn/problems/longest-palindromic-substring/) | C++, Python | Medium     |
+|       6       | [N 字形变换](https://leetcode.cn/problems/zigzag-conversion/) | C++         | Medium     |
 |      10       | [正则表达式匹配](https://leetcode.cn/problems/regular-expression-matching/) | C++, Python | Hard       |
 |      11       | [盛最多水的容器](https://leetcode.cn/problems/container-with-most-water/) | C++         | Medium     |
 |      15       | [三数之和](https://leetcode.cn/problems/3sum/)               | C++         | Medium     |
@@ -60,6 +61,7 @@
 |      467      | [环绕字符串中唯一的子字符串](https://leetcode.cn/problems/unique-substrings-in-wraparound-string/) | C++, Python | Medium     |
 |      474      | [一和零](https://leetcode.cn/problems/ones-and-zeroes/)      | C++         | Medium     |
 |      494      | [目标和](https://leetcode.cn/problems/target-sum/)           | C++, Python | Medium     |
+|      495      | [提莫攻击](https://leetcode.cn/problems/teemo-attacking/)    | C++         | Easy       |
 |      516      | [最长回文子序列](https://leetcode.cn/problems/longest-palindromic-subsequence/) | C++, Python | Medium     |
 |      518      | [零钱兑换 II](https://leetcode.cn/problems/coin-change-ii/)  | C++, Python | Medium     |
 |      525      | [连续数组](https://leetcode.cn/problems/contiguous-array/)   | C++         | Medium     |
@@ -94,12 +96,9 @@
 |     1312      | [让字符串成为回文串的最少插入次数](https://leetcode.cn/problems/minimum-insertion-steps-to-make-a-string-palindrome/) | C++, Python | Hard       |
 |     1314      | [矩阵区域和](https://leetcode.cn/problems/matrix-block-sum/) | C++         | Medium     |
 |     1567      | [乘积为正数的最长子数组长度](https://leetcode.cn/problems/maximum-length-of-subarray-with-positive-product/) | C++, Python | Medium     |
+|     1576      | [替换所有的问号](https://leetcode.cn/problems/replace-all-s-to-avoid-consecutive-repeating-characters/) | C++         | Easy       |
 |     1658      | [将 x 减到 0 的最小操作数](https://leetcode.cn/problems/minimum-operations-to-reduce-x-to-zero/) | C++         | Medium     |
 |     1745      | [回文串分割 IV](https://leetcode.cn/problems/palindrome-partitioning-iv/) | C++, Python | Hard       |
-| 面试题 17.19  | [消失的两个数字](https://leetcode.cn/problems/missing-two-lcci/) | C++         | Hard       |
-|     1576      | [替换所有的问号](https://leetcode.cn/problems/replace-all-s-to-avoid-consecutive-repeating-characters/) | C++         | Easy       |
-|      495      | [提莫攻击](https://leetcode.cn/problems/teemo-attacking/)    | C++         | Easy       |
-|       6       | [N 字形变换](https://leetcode.cn/problems/zigzag-conversion/) | C++         | Medium     |
 |      38       | [外观数列](https://leetcode.cn/problems/count-and-say/)      | C++         | Medium     |
 |     1419      | [数青蛙](https://leetcode.cn/problems/minimum-number-of-frogs-croaking/) | C++         | Medium     |
 |      912      | [排序数组](https://leetcode.cn/problems/sort-an-array/)      | C++         | Medium     |
@@ -272,6 +271,7 @@
 | 面试题 01.01  | [判定字符是否唯一](https://leetcode.cn/problems/is-unique-lcci/) | C++         | Easy       |
 | 面试题 08.01  | [三步问题](https://leetcode.cn/problems/three-steps-problem-lcci/) | C++, Python | Easy       |
 | 面试题 17.16  | [按摩师](https://leetcode.cn/problems/the-masseuse-lcci/)    | C++, Python | Easy       |
+| 面试题 17.19  | [消失的两个数字](https://leetcode.cn/problems/missing-two-lcci/) | C++         | Hard       |
 |  牛客网DP34   | [【模版】前缀和](https://www.nowcoder.com/practice/acead2f4c28c401889915da98ecdc6bf?tpId=230&tqId=2021480&ru=%2Fpractice%2F99eb8040d116414ea3296467ce81cbbc&qru=%2Fta%2Fdynamic-programming%2Fquestion-ranking&sourceUrl=) | C++         | Easy       |
 |  牛客网DP35   | [【模版】二维前缀和](https://www.nowcoder.com/practice/99eb8040d116414ea3296467ce81cbbc?tpId=230&tqId=38962&ru=/exam/oj) | C++         | Medium     |
 |  牛客网DP41   | [【模版】01背包](https://www.nowcoder.com/practice/fd55637d3f24484e96dad9e992d3f62e?tpId=230&tqId=2032484&ru=/exam/oj&qru=/ta/dynamic-programming/question-ranking&sourceUrl=%2Fexam%2Foj%3Fpage%3D1%26tab%3D%25E7%25AE%2597%25E6%25B3%2595%25E7%25AF%2587%26topicId%3D196) | C++, Python | Medium     |
