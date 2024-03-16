@@ -12,6 +12,7 @@
 |      30       | [串联所有单词的子串](https://leetcode.cn/problems/substring-with-concatenation-of-all-words/) | C++         | Hard       |
 |      34       | [在排序数组中查找元素的第一个和最后一个位置](https://leetcode.cn/problems/find-first-and-last-position-of-element-in-sorted-array/) | C++         | Medium     |
 |      35       | [搜索插入位置](https://leetcode.cn/problems/search-insert-position/) | C++         | Easy       |
+|      38       | [外观数列](https://leetcode.cn/problems/count-and-say/)      | C++         | Medium     |
 |      44       | [通配符匹配](https://leetcode.cn/problems/wildcard-matching/) | C++, Python | Hard       |
 |      53       | [最大子数组和](https://leetcode.cn/problems/maximum-subarray/) | C++, Python | Medium     |
 |      62       | [不同路径](https://leetcode.cn/problems/unique-paths/)       | C++, Python | Medium     |
@@ -41,6 +42,7 @@
 |      202      | [快乐数](https://leetcode.cn/problems/happy-number/)         | C++         | Easy       |
 |      209      | [长度最小的子数组](https://leetcode.cn/problems/minimum-size-subarray-sum/) | C++         | Medium     |
 |      213      | [打家劫舍 II](https://leetcode.cn/problems/house-robber-ii/) | C++, Python | Medium     |
+|      215      | [数组中的第K个最大元素](https://leetcode.cn/problems/kth-largest-element-in-an-array/) | C++         | Medium     |
 |      238      | [除自身以外数组的乘积](https://leetcode.cn/problems/product-of-array-except-self/) | C++         | Medium     |
 |      260      | [只出现一次的数字 III](https://leetcode.cn/problems/single-number-iii/) | C++         | Medium     |
 |      268      | [丢失的数字](https://leetcode.cn/problems/missing-number/)   | C++         | Easy       |
@@ -81,6 +83,7 @@
 |      873      | [最长的斐波那契子序列的长度](https://leetcode.cn/problems/length-of-longest-fibonacci-subsequence/) | C++, Python | Medium     |
 |      879      | [盈利计划](https://leetcode.cn/problems/profitable-schemes/) | C++         | Hard       |
 |      904      | [水果成篮](https://leetcode.cn/problems/fruit-into-baskets/) | C++         | Medium     |
+|      912      | [排序数组](https://leetcode.cn/problems/sort-an-array/)      | C++         | Medium     |
 |      918      | [环形子数组的最大和](https://leetcode.cn/problems/maximum-sum-circular-subarray/) | C++, Python | Medium     |
 |      931      | [下降路径最小和](https://leetcode.cn/problems/minimum-falling-path-sum/) | C++, Python | Medium     |
 |      974      | [和可被 K 整除的子数组](https://leetcode.cn/problems/subarray-sums-divisible-by-k/) | C++         | Medium     |
@@ -95,14 +98,11 @@
 |     1218      | [最长定差子序列](https://leetcode.cn/problems/longest-arithmetic-subsequence-of-given-difference/) | C++, Python | Medium     |
 |     1312      | [让字符串成为回文串的最少插入次数](https://leetcode.cn/problems/minimum-insertion-steps-to-make-a-string-palindrome/) | C++, Python | Hard       |
 |     1314      | [矩阵区域和](https://leetcode.cn/problems/matrix-block-sum/) | C++         | Medium     |
+|     1419      | [数青蛙](https://leetcode.cn/problems/minimum-number-of-frogs-croaking/) | C++         | Medium     |
 |     1567      | [乘积为正数的最长子数组长度](https://leetcode.cn/problems/maximum-length-of-subarray-with-positive-product/) | C++, Python | Medium     |
 |     1576      | [替换所有的问号](https://leetcode.cn/problems/replace-all-s-to-avoid-consecutive-repeating-characters/) | C++         | Easy       |
 |     1658      | [将 x 减到 0 的最小操作数](https://leetcode.cn/problems/minimum-operations-to-reduce-x-to-zero/) | C++         | Medium     |
 |     1745      | [回文串分割 IV](https://leetcode.cn/problems/palindrome-partitioning-iv/) | C++, Python | Hard       |
-|      38       | [外观数列](https://leetcode.cn/problems/count-and-say/)      | C++         | Medium     |
-|     1419      | [数青蛙](https://leetcode.cn/problems/minimum-number-of-frogs-croaking/) | C++         | Medium     |
-|      912      | [排序数组](https://leetcode.cn/problems/sort-an-array/)      | C++         | Medium     |
-|      215      | [数组中的第K个最大元素](https://leetcode.cn/problems/kth-largest-element-in-an-array/) | C++         | Medium     |
 | 剑指 Offer 40 | [最小的k个数](https://leetcode.cn/problems/zui-xiao-de-kge-shu-lcof/) | C++         | Medium     |
 | 剑指 Offer 51 | [数组中的逆序对](https://leetcode.cn/problems/shu-zu-zhong-de-ni-xu-dui-lcof/) | C++         | Hard       |
 |      315      | [计算右侧小于当前元素的个数](https://leetcode.cn/problems/count-of-smaller-numbers-after-self/) | C++         | Hard       |
