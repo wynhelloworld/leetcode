@@ -103,8 +103,6 @@
 |     1576      | [替换所有的问号](https://leetcode.cn/problems/replace-all-s-to-avoid-consecutive-repeating-characters/) | C++         | Easy       |
 |     1658      | [将 x 减到 0 的最小操作数](https://leetcode.cn/problems/minimum-operations-to-reduce-x-to-zero/) | C++         | Medium     |
 |     1745      | [回文串分割 IV](https://leetcode.cn/problems/palindrome-partitioning-iv/) | C++, Python | Hard       |
-| 剑指 Offer 40 | [最小的k个数](https://leetcode.cn/problems/zui-xiao-de-kge-shu-lcof/) | C++         | Medium     |
-| 剑指 Offer 51 | [数组中的逆序对](https://leetcode.cn/problems/shu-zu-zhong-de-ni-xu-dui-lcof/) | C++         | Hard       |
 |      315      | [计算右侧小于当前元素的个数](https://leetcode.cn/problems/count-of-smaller-numbers-after-self/) | C++         | Hard       |
 |      493      | [翻转对](https://leetcode.cn/problems/reverse-pairs/)        | C++         | Hard       |
 | 面试题 08.06  | [汉诺塔问题](https://leetcode.cn/problems/hanota-lcci/)      | C++         | Easy       |
@@ -259,8 +257,10 @@
 |    LCR 142    | [训练计划 IV](https://leetcode.cn/problems/he-bing-liang-ge-pai-xu-de-lian-biao-lcof/) | Python      | Easy       |
 |    LCR 144    | [翻转二叉树](https://leetcode.cn/problems/er-cha-shu-de-jing-xiang-lcof/) | Python      | Easy       |
 |    LCR 146    | [螺旋遍历二维数组](https://leetcode.cn/problems/shun-shi-zhen-da-yin-ju-zhen-lcof/) | Python      | Easy       |
+|    LCR 159    | [库存管理 III](https://leetcode.cn/problems/zui-xiao-de-kge-shu-lcof/) | C++         | Easy       |
 |    LCR 166    | [珠宝的最高价值](https://leetcode.cn/problems/li-wu-de-zui-da-jie-zhi-lcof/) | C++, Python | Medium     |
 |    LCR 167    | [招式拆解 I](https://leetcode.cn/problems/zui-chang-bu-han-zhong-fu-zi-fu-de-zi-zi-fu-chuan-lcof/) | Python      | Medium     |
+|    LCR 170    | [交易逆序对的总数](https://leetcode.cn/problems/shu-zu-zhong-de-ni-xu-dui-lcof/) | C++         | Hard       |
 |    LCR 171    | [训练计划 V](https://leetcode.cn/problems/liang-ge-lian-biao-de-di-yi-ge-gong-gong-jie-dian-lcof/) | Python      | Easy       |
 |    LCR 172    | [统计目标成绩的出现次数](https://leetcode.cn/problems/zai-pai-xu-shu-zu-zhong-cha-zhao-shu-zi-lcof/) | Python      | Easy       |
 |    LCR 173    | [点名](https://leetcode.cn/problems/que-shi-de-shu-zi-lcof/) | C++         | Easy       |
