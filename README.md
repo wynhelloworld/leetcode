@@ -9,6 +9,8 @@
 |      11       | [盛最多水的容器](https://leetcode.cn/problems/container-with-most-water/) | C++         | Medium     |
 |      15       | [三数之和](https://leetcode.cn/problems/3sum/)               | C++         | Medium     |
 |      18       | [四数之和](https://leetcode.cn/problems/4sum/)               | C++         | Medium     |
+|      21       | [合并两个有序链表](https://leetcode.cn/problems/merge-two-sorted-lists/) | C++         | Easy       |
+|      24       | [两两交换链表中的节点](https://leetcode.cn/problems/swap-nodes-in-pairs/) | C++         | Medium     |
 |      30       | [串联所有单词的子串](https://leetcode.cn/problems/substring-with-concatenation-of-all-words/) | C++         | Hard       |
 |      34       | [在排序数组中查找元素的第一个和最后一个位置](https://leetcode.cn/problems/find-first-and-last-position-of-element-in-sorted-array/) | C++         | Medium     |
 |      35       | [搜索插入位置](https://leetcode.cn/problems/search-insert-position/) | C++         | Easy       |
@@ -40,6 +42,7 @@
 |      191      | [位1的个数](https://leetcode.cn/problems/number-of-1-bits/)  | C++         | Easy       |
 |      198      | [打家劫舍](https://leetcode.cn/problems/house-robber/)       | C++, Python | Medium     |
 |      202      | [快乐数](https://leetcode.cn/problems/happy-number/)         | C++         | Easy       |
+|      206      | [反转链表](https://leetcode.cn/problems/reverse-linked-list/) | C++         | Easy       |
 |      209      | [长度最小的子数组](https://leetcode.cn/problems/minimum-size-subarray-sum/) | C++         | Medium     |
 |      213      | [打家劫舍 II](https://leetcode.cn/problems/house-robber-ii/) | C++, Python | Medium     |
 |      215      | [数组中的第K个最大元素](https://leetcode.cn/problems/kth-largest-element-in-an-array/) | C++         | Medium     |
@@ -50,6 +53,7 @@
 |      283      | [移动零](https://leetcode.cn/problems/move-zeroes/)          | C++         | Easy       |
 |      300      | [最长递增子序列](https://leetcode.cn/problems/longest-increasing-subsequence/) | C++, Python | Medium     |
 |      309      | [最佳买卖股票时机含冷冻期](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | C++, Python | Medium     |
+|      315      | [计算右侧小于当前元素的个数](https://leetcode.cn/problems/count-of-smaller-numbers-after-self/) | C++         | Hard       |
 |      322      | [零钱兑换](https://leetcode.cn/problems/coin-change/)        | C++, Python | Medium     |
 |      338      | [比特位计数](https://leetcode.cn/problems/counting-bits/)    | C++         | Easy       |
 |      371      | [两整数之和](https://leetcode.cn/problems/sum-of-two-integers/) | C++         | Medium     |
@@ -62,6 +66,7 @@
 |      461      | [汉明距离](https://leetcode.cn/problems/hamming-distance/)   | C++         | Easy       |
 |      467      | [环绕字符串中唯一的子字符串](https://leetcode.cn/problems/unique-substrings-in-wraparound-string/) | C++, Python | Medium     |
 |      474      | [一和零](https://leetcode.cn/problems/ones-and-zeroes/)      | C++         | Medium     |
+|      493      | [翻转对](https://leetcode.cn/problems/reverse-pairs/)        | C++         | Hard       |
 |      494      | [目标和](https://leetcode.cn/problems/target-sum/)           | C++, Python | Medium     |
 |      495      | [提莫攻击](https://leetcode.cn/problems/teemo-attacking/)    | C++         | Easy       |
 |      516      | [最长回文子序列](https://leetcode.cn/problems/longest-palindromic-subsequence/) | C++, Python | Medium     |
@@ -103,12 +108,6 @@
 |     1576      | [替换所有的问号](https://leetcode.cn/problems/replace-all-s-to-avoid-consecutive-repeating-characters/) | C++         | Easy       |
 |     1658      | [将 x 减到 0 的最小操作数](https://leetcode.cn/problems/minimum-operations-to-reduce-x-to-zero/) | C++         | Medium     |
 |     1745      | [回文串分割 IV](https://leetcode.cn/problems/palindrome-partitioning-iv/) | C++, Python | Hard       |
-|      315      | [计算右侧小于当前元素的个数](https://leetcode.cn/problems/count-of-smaller-numbers-after-self/) | C++         | Hard       |
-|      493      | [翻转对](https://leetcode.cn/problems/reverse-pairs/)        | C++         | Hard       |
-| 面试题 08.06  | [汉诺塔问题](https://leetcode.cn/problems/hanota-lcci/)      | C++         | Easy       |
-|      21       | [合并两个有序链表](https://leetcode.cn/problems/merge-two-sorted-lists/) | C++         | Easy       |
-|      206      | [反转链表](https://leetcode.cn/problems/reverse-linked-list/) | C++         | Easy       |
-|      24       | [两两交换链表中的节点](https://leetcode.cn/problems/swap-nodes-in-pairs/) | C++         | Medium     |
 |      50       | [Pow(x, n)](https://leetcode.cn/problems/powx-n/)            | C++         | Medium     |
 |     2331      | [计算布尔二叉树的值](https://leetcode.cn/problems/evaluate-boolean-binary-tree/) | C++         | Easy       |
 |      129      | [求根节点到叶节点数字之和](https://leetcode.cn/problems/sum-root-to-leaf-numbers/) | C++         | Medium     |
@@ -270,6 +269,7 @@
 |    LCR 188    | [买卖芯片的最佳时机](https://leetcode.cn/problems/gu-piao-de-zui-da-li-run-lcof/) | C++         | Easy       |
 | 面试题 01.01  | [判定字符是否唯一](https://leetcode.cn/problems/is-unique-lcci/) | C++         | Easy       |
 | 面试题 08.01  | [三步问题](https://leetcode.cn/problems/three-steps-problem-lcci/) | C++, Python | Easy       |
+| 面试题 08.06  | [汉诺塔问题](https://leetcode.cn/problems/hanota-lcci/)      | C++         | Easy       |
 | 面试题 17.16  | [按摩师](https://leetcode.cn/problems/the-masseuse-lcci/)    | C++, Python | Easy       |
 | 面试题 17.19  | [消失的两个数字](https://leetcode.cn/problems/missing-two-lcci/) | C++         | Hard       |
 |  牛客网DP34   | [【模版】前缀和](https://www.nowcoder.com/practice/acead2f4c28c401889915da98ecdc6bf?tpId=230&tqId=2021480&ru=%2Fpractice%2F99eb8040d116414ea3296467ce81cbbc&qru=%2Fta%2Fdynamic-programming%2Fquestion-ranking&sourceUrl=) | C++         | Easy       |
