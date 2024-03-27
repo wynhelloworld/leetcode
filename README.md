@@ -16,6 +16,7 @@
 |      35       | [搜索插入位置](https://leetcode.cn/problems/search-insert-position/) | C++         | Easy       |
 |      38       | [外观数列](https://leetcode.cn/problems/count-and-say/)      | C++         | Medium     |
 |      44       | [通配符匹配](https://leetcode.cn/problems/wildcard-matching/) | C++, Python | Hard       |
+|      50       | [Pow(x, n)](https://leetcode.cn/problems/powx-n/)            | C++         | Medium     |
 |      53       | [最大子数组和](https://leetcode.cn/problems/maximum-subarray/) | C++, Python | Medium     |
 |      62       | [不同路径](https://leetcode.cn/problems/unique-paths/)       | C++, Python | Medium     |
 |      63       | [不同路径 ll](https://leetcode.cn/problems/unique-paths-ii/) | C++, Python | Medium     |
@@ -26,10 +27,12 @@
 |      91       | [解码方法](https://leetcode.cn/problems/decode-ways/)        | C++, Python | Medium     |
 |      96       | [不同的二叉搜索树](https://leetcode.cn/problems/unique-binary-search-trees/) | C++         | Medium     |
 |      97       | [交错字符串](https://leetcode.cn/problems/interleaving-string/) | C++, Python | Medium     |
+|      98       | [验证二叉搜索树](https://leetcode.cn/problems/validate-binary-search-tree/) | C++         | Medium     |
 |      115      | [不同的子序列](https://leetcode.cn/problems/distinct-subsequences/) | C++, Python | Hard       |
 |      121      | [买卖股票的最佳时机](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock/) | C++, Python | Easy       |
 |      122      | [买卖股票的最佳时机 II](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-ii/) | C++, Python | Medium     |
 |      123      | [买卖股票的最佳时机 III](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-iii/) | C++, Python | Hard       |
+|      129      | [求根节点到叶节点数字之和](https://leetcode.cn/problems/sum-root-to-leaf-numbers/) | C++         | Medium     |
 |      132      | [分割回文串 II](https://leetcode.cn/problems/palindrome-partitioning-ii/) | C++, Python | Hard       |
 |      136      | [只出现一次的数字](https://leetcode.cn/problems/single-number/) | C++         | Easy       |
 |      137      | [只出现一次的数字 II](https://leetcode.cn/problems/single-number-ii/) | C++         | Medium     |
@@ -46,6 +49,7 @@
 |      209      | [长度最小的子数组](https://leetcode.cn/problems/minimum-size-subarray-sum/) | C++         | Medium     |
 |      213      | [打家劫舍 II](https://leetcode.cn/problems/house-robber-ii/) | C++, Python | Medium     |
 |      215      | [数组中的第K个最大元素](https://leetcode.cn/problems/kth-largest-element-in-an-array/) | C++         | Medium     |
+|      230      | [二叉搜索树中第K小的元素](https://leetcode.cn/problems/kth-smallest-element-in-a-bst/) | C++         | Medium     |
 |      238      | [除自身以外数组的乘积](https://leetcode.cn/problems/product-of-array-except-self/) | C++         | Medium     |
 |      260      | [只出现一次的数字 III](https://leetcode.cn/problems/single-number-iii/) | C++         | Medium     |
 |      268      | [丢失的数字](https://leetcode.cn/problems/missing-number/)   | C++         | Easy       |
@@ -84,6 +88,7 @@
 |      724      | [寻找数组的中心下标](https://leetcode.cn/problems/find-pivot-index/) | C++         | Easy       |
 |      740      | [删除并获得点数](https://leetcode.cn/problems/delete-and-earn/) | C++, Python | Medium     |
 |      746      | [使用最小花费爬楼梯](https://leetcode.cn/problems/min-cost-climbing-stairs/) | C++, Python | Easy       |
+|      814      | [二叉树剪枝](https://leetcode.cn/problems/binary-tree-pruning/) | C++         | Medium     |
 |      852      | [山脉数组的峰顶索引](https://leetcode.cn/problems/peak-index-in-a-mountain-array/) | C++         | Medium     |
 |      873      | [最长的斐波那契子序列的长度](https://leetcode.cn/problems/length-of-longest-fibonacci-subsequence/) | C++, Python | Medium     |
 |      879      | [盈利计划](https://leetcode.cn/problems/profitable-schemes/) | C++         | Hard       |
@@ -108,12 +113,7 @@
 |     1576      | [替换所有的问号](https://leetcode.cn/problems/replace-all-s-to-avoid-consecutive-repeating-characters/) | C++         | Easy       |
 |     1658      | [将 x 减到 0 的最小操作数](https://leetcode.cn/problems/minimum-operations-to-reduce-x-to-zero/) | C++         | Medium     |
 |     1745      | [回文串分割 IV](https://leetcode.cn/problems/palindrome-partitioning-iv/) | C++, Python | Hard       |
-|      50       | [Pow(x, n)](https://leetcode.cn/problems/powx-n/)            | C++         | Medium     |
 |     2331      | [计算布尔二叉树的值](https://leetcode.cn/problems/evaluate-boolean-binary-tree/) | C++         | Easy       |
-|      129      | [求根节点到叶节点数字之和](https://leetcode.cn/problems/sum-root-to-leaf-numbers/) | C++         | Medium     |
-|      814      | [二叉树剪枝](https://leetcode.cn/problems/binary-tree-pruning/) | C++         | Medium     |
-|      98       | [验证二叉搜索树](https://leetcode.cn/problems/validate-binary-search-tree/) | C++         | Medium     |
-|      230      | [二叉搜索树中第K小的元素](https://leetcode.cn/problems/kth-smallest-element-in-a-bst/) | C++         | Medium     |
 |      257      | [二叉树的所有路径](https://leetcode.cn/problems/binary-tree-paths/) | C++         | Easy       |
 |      46       | [全排列](https://leetcode.cn/problems/permutations/)         | C++         | Medium     |
 |      78       | [子集](https://leetcode.cn/problems/subsets/)                | C++         | Medium     |
