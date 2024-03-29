@@ -11,15 +11,18 @@
 |      17       | [电话号码的字母组合](https://leetcode.cn/problems/letter-combinations-of-a-phone-number/description/) | C++         | Medium     |
 |      18       | [四数之和](https://leetcode.cn/problems/4sum/)               | C++         | Medium     |
 |      21       | [合并两个有序链表](https://leetcode.cn/problems/merge-two-sorted-lists/) | C++         | Easy       |
+|      22       | [括号生成](https://leetcode.cn/problems/generate-parentheses/) | C++         | Medium     |
 |      24       | [两两交换链表中的节点](https://leetcode.cn/problems/swap-nodes-in-pairs/) | C++         | Medium     |
 |      30       | [串联所有单词的子串](https://leetcode.cn/problems/substring-with-concatenation-of-all-words/) | C++         | Hard       |
 |      34       | [在排序数组中查找元素的第一个和最后一个位置](https://leetcode.cn/problems/find-first-and-last-position-of-element-in-sorted-array/) | C++         | Medium     |
 |      35       | [搜索插入位置](https://leetcode.cn/problems/search-insert-position/) | C++         | Easy       |
 |      38       | [外观数列](https://leetcode.cn/problems/count-and-say/)      | C++         | Medium     |
+|      39       | [组合总和](https://leetcode.cn/problems/combination-sum/)    | C++         | Medium     |
 |      44       | [通配符匹配](https://leetcode.cn/problems/wildcard-matching/) | C++, Python | Hard       |
 |      46       | [全排列](https://leetcode.cn/problems/permutations/)         | C++         | Medium     |
 |      47       | [全排列 II](https://leetcode.cn/problems/permutations-ii/)   | C++         | Medium     |
 |      50       | [Pow(x, n)](https://leetcode.cn/problems/powx-n/)            | C++         | Medium     |
+|      51       | [N 皇后](https://leetcode.cn/problems/n-queens/)             | C++         | Medium     |
 |      53       | [最大子数组和](https://leetcode.cn/problems/maximum-subarray/) | C++, Python | Medium     |
 |      62       | [不同路径](https://leetcode.cn/problems/unique-paths/)       | C++, Python | Medium     |
 |      63       | [不同路径 ll](https://leetcode.cn/problems/unique-paths-ii/) | C++, Python | Medium     |
@@ -27,6 +30,7 @@
 |      69       | [x 的平方根](https://leetcode.cn/problems/sqrtx/)            | C++         | Easy       |
 |      75       | [颜色分类](https://leetcode.cn/problems/sort-colors/)        | C++         | Medium     |
 |      76       | [ 最小覆盖子串](https://leetcode.cn/problems/minimum-window-substring/) | C++         | Hard       |
+|      77       | [组合](https://leetcode.cn/problems/combinations/)           | C++         | Medium     |
 |      78       | [子集](https://leetcode.cn/problems/subsets/)                | C++         | Medium     |
 |      91       | [解码方法](https://leetcode.cn/problems/decode-ways/)        | C++, Python | Medium     |
 |      96       | [不同的二叉搜索树](https://leetcode.cn/problems/unique-binary-search-trees/) | C++         | Medium     |
@@ -81,6 +85,7 @@
 |      516      | [最长回文子序列](https://leetcode.cn/problems/longest-palindromic-subsequence/) | C++, Python | Medium     |
 |      518      | [零钱兑换 II](https://leetcode.cn/problems/coin-change-ii/)  | C++, Python | Medium     |
 |      525      | [连续数组](https://leetcode.cn/problems/contiguous-array/)   | C++         | Medium     |
+|      526      | [优美的排列](https://leetcode.cn/problems/beautiful-arrangement/) | C++         | Medium     |
 |      560      | [和为 K 的子数组](https://leetcode.cn/problems/subarray-sum-equals-k/) | C++         | Medium     |
 |      611      | [有效三角形的个数](https://leetcode.cn/problems/valid-triangle-number/) | C++         | Medium     |
 |      646      | [最长数对链](https://leetcode.cn/problems/maximum-length-of-pair-chain/) | C++, Python | Medium     |
@@ -93,6 +98,7 @@
 |      724      | [寻找数组的中心下标](https://leetcode.cn/problems/find-pivot-index/) | C++         | Easy       |
 |      740      | [删除并获得点数](https://leetcode.cn/problems/delete-and-earn/) | C++, Python | Medium     |
 |      746      | [使用最小花费爬楼梯](https://leetcode.cn/problems/min-cost-climbing-stairs/) | C++, Python | Easy       |
+|      784      | [字母大小写全排列](https://leetcode.cn/problems/letter-case-permutation/) | C++         | Medium     |
 |      814      | [二叉树剪枝](https://leetcode.cn/problems/binary-tree-pruning/) | C++         | Medium     |
 |      852      | [山脉数组的峰顶索引](https://leetcode.cn/problems/peak-index-in-a-mountain-array/) | C++         | Medium     |
 |      873      | [最长的斐波那契子序列的长度](https://leetcode.cn/problems/length-of-longest-fibonacci-subsequence/) | C++, Python | Medium     |
@@ -120,12 +126,6 @@
 |     1745      | [回文串分割 IV](https://leetcode.cn/problems/palindrome-partitioning-iv/) | C++, Python | Hard       |
 |     1863      | [找出所有子集的异或总和再求和](https://leetcode.cn/problems/sum-of-all-subset-xor-totals/) | C++         | Easy       |
 |     2331      | [计算布尔二叉树的值](https://leetcode.cn/problems/evaluate-boolean-binary-tree/) | C++         | Easy       |
-|      22       | [括号生成](https://leetcode.cn/problems/generate-parentheses/) | C++         | Medium     |
-|      77       | [组合](https://leetcode.cn/problems/combinations/)           | C++         | Medium     |
-|      39       | [组合总和](https://leetcode.cn/problems/combination-sum/)    | C++         | Medium     |
-|      784      | [字母大小写全排列](https://leetcode.cn/problems/letter-case-permutation/) | C++         | Medium     |
-|      526      | [优美的排列](https://leetcode.cn/problems/beautiful-arrangement/) | C++         | Medium     |
-|      51       | [N 皇后](https://leetcode.cn/problems/n-queens/)             | C++         | Medium     |
 |      36       | [有效的数独](https://leetcode.cn/problems/valid-sudoku/)     | C++         | Medium     |
 |      37       | [解数独](https://leetcode.cn/problems/sudoku-solver/)        | C++         | Hard       |
 |      79       | [单词搜索](https://leetcode.cn/problems/word-search/)        | C++         | Medium     |
