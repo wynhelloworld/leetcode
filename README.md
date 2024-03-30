@@ -60,6 +60,7 @@
 |      209      | [长度最小的子数组](https://leetcode.cn/problems/minimum-size-subarray-sum/) | C++         | Medium     |
 |      213      | [打家劫舍 II](https://leetcode.cn/problems/house-robber-ii/) | C++, Python | Medium     |
 |      215      | [数组中的第K个最大元素](https://leetcode.cn/problems/kth-largest-element-in-an-array/) | C++         | Medium     |
+|      227      | [基本计算器 II](https://leetcode.cn/problems/basic-calculator-ii/) | C++         | Medium     |
 |      230      | [二叉搜索树中第K小的元素](https://leetcode.cn/problems/kth-smallest-element-in-a-bst/) | C++         | Medium     |
 |      238      | [除自身以外数组的乘积](https://leetcode.cn/problems/product-of-array-except-self/) | C++         | Medium     |
 |      257      | [二叉树的所有路径](https://leetcode.cn/problems/binary-tree-paths/) | C++         | Easy       |
@@ -75,6 +76,7 @@
 |      371      | [两整数之和](https://leetcode.cn/problems/sum-of-two-integers/) | C++         | Medium     |
 |      376      | [摆动序列](https://leetcode.cn/problems/wiggle-subsequence/) | C++, Python | Medium     |
 |      377      | [组合总和 Ⅳ](https://leetcode.cn/problems/combination-sum-iv/) | C++         | Medium     |
+|      394      | [字符串解码](https://leetcode.cn/problems/decode-string/)    | C++         | Medium     |
 |      413      | [等差数列划分](https://leetcode.cn/problems/arithmetic-slices/) | C++, Python | Medium     |
 |      416      | [分割等和子集](https://leetcode.cn/problems/partition-equal-subset-sum/) | C++, Python | Medium     |
 |      438      | [找到字符串中所有字母异位词](https://leetcode.cn/problems/find-all-anagrams-in-a-string/) | C++         | Medium     |
@@ -103,6 +105,7 @@
 |      746      | [使用最小花费爬楼梯](https://leetcode.cn/problems/min-cost-climbing-stairs/) | C++, Python | Easy       |
 |      784      | [字母大小写全排列](https://leetcode.cn/problems/letter-case-permutation/) | C++         | Medium     |
 |      814      | [二叉树剪枝](https://leetcode.cn/problems/binary-tree-pruning/) | C++         | Medium     |
+|      844      | [比较含退格的字符串](https://leetcode.cn/problems/backspace-string-compare/) | C++         | Easy       |
 |      852      | [山脉数组的峰顶索引](https://leetcode.cn/problems/peak-index-in-a-mountain-array/) | C++         | Medium     |
 |      873      | [最长的斐波那契子序列的长度](https://leetcode.cn/problems/length-of-longest-fibonacci-subsequence/) | C++, Python | Medium     |
 |      879      | [盈利计划](https://leetcode.cn/problems/profitable-schemes/) | C++         | Hard       |
@@ -110,12 +113,14 @@
 |      912      | [排序数组](https://leetcode.cn/problems/sort-an-array/)      | C++         | Medium     |
 |      918      | [环形子数组的最大和](https://leetcode.cn/problems/maximum-sum-circular-subarray/) | C++, Python | Medium     |
 |      931      | [下降路径最小和](https://leetcode.cn/problems/minimum-falling-path-sum/) | C++, Python | Medium     |
+|      946      | [验证栈序列](https://leetcode.cn/problems/validate-stack-sequences/) | C++         | Medium     |
 |      974      | [和可被 K 整除的子数组](https://leetcode.cn/problems/subarray-sums-divisible-by-k/) | C++         | Medium     |
 |      978      | [最长湍流子数组](https://leetcode.cn/problems/longest-turbulent-subarray/) | C++, Python | Medium     |
 |      980      | [不同路径 III](https://leetcode.cn/problems/unique-paths-iii/) | C++         | Hard       |
 |     1004      | [最大连续1的个数 III](https://leetcode.cn/problems/max-consecutive-ones-iii/) | C++         | Medium     |
 |     1027      | [最长等差数列](https://leetcode.cn/problems/longest-arithmetic-subsequence/) | C++, Python | Medium     |
 |     1035      | [不相交的线](https://leetcode.cn/problems/uncrossed-lines/)  | C++, Python | Medium     |
+|     1047      | [删除字符串中的所有相邻重复项](https://leetcode.cn/problems/remove-all-adjacent-duplicates-in-string/) | C++         | Easy       |
 |     1049      | [最后一块石头的重量 II](https://leetcode.cn/problems/last-stone-weight-ii/) | C++, Python | Medium     |
 |     1089      | [复写零](https://leetcode.cn/problems/duplicate-zeros/)      | C++         | Easy       |
 |     1137      | [第N个泰波那契数](https://leetcode.cn/problems/n-th-tribonacci-number/) | C++, Python | Easy       |
@@ -153,11 +158,6 @@
 |      14       | [最长公共前缀](https://leetcode.cn/problems/longest-common-prefix/) | C++         | Easy       |
 |      67       | [二进制求和](https://leetcode.cn/problems/add-binary/)       | C++         | Easy       |
 |      43       | [字符串相乘](https://leetcode.cn/problems/multiply-strings/) | C++         | Medium     |
-|     1047      | [删除字符串中的所有相邻重复项](https://leetcode.cn/problems/remove-all-adjacent-duplicates-in-string/) | C++         | Easy       |
-|      844      | [比较含退格的字符串](https://leetcode.cn/problems/backspace-string-compare/) | C++         | Easy       |
-|      227      | [基本计算器 II](https://leetcode.cn/problems/basic-calculator-ii/) | C++         | Medium     |
-|      394      | [字符串解码](https://leetcode.cn/problems/decode-string/)    | C++         | Medium     |
-|      946      | [验证栈序列](https://leetcode.cn/problems/validate-stack-sequences/) | C++         | Medium     |
 |      429      | [N 叉树的层序遍历](https://leetcode.cn/problems/n-ary-tree-level-order-traversal/) | C++         | Medium     |
 |      103      | [二叉树的锯齿形层序遍历](https://leetcode.cn/problems/binary-tree-zigzag-level-order-traversal/) | C++         | Medium     |
 |      662      | [二叉树最大宽度](https://leetcode.cn/problems/maximum-width-of-binary-tree/) | C++         | Medium     |
