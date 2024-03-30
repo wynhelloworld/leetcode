@@ -16,6 +16,8 @@
 |      30       | [串联所有单词的子串](https://leetcode.cn/problems/substring-with-concatenation-of-all-words/) | C++         | Hard       |
 |      34       | [在排序数组中查找元素的第一个和最后一个位置](https://leetcode.cn/problems/find-first-and-last-position-of-element-in-sorted-array/) | C++         | Medium     |
 |      35       | [搜索插入位置](https://leetcode.cn/problems/search-insert-position/) | C++         | Easy       |
+|      36       | [有效的数独](https://leetcode.cn/problems/valid-sudoku/)     | C++         | Medium     |
+|      37       | [解数独](https://leetcode.cn/problems/sudoku-solver/)        | C++         | Hard       |
 |      38       | [外观数列](https://leetcode.cn/problems/count-and-say/)      | C++         | Medium     |
 |      39       | [组合总和](https://leetcode.cn/problems/combination-sum/)    | C++         | Medium     |
 |      44       | [通配符匹配](https://leetcode.cn/problems/wildcard-matching/) | C++, Python | Hard       |
@@ -32,6 +34,7 @@
 |      76       | [ 最小覆盖子串](https://leetcode.cn/problems/minimum-window-substring/) | C++         | Hard       |
 |      77       | [组合](https://leetcode.cn/problems/combinations/)           | C++         | Medium     |
 |      78       | [子集](https://leetcode.cn/problems/subsets/)                | C++         | Medium     |
+|      79       | [单词搜索](https://leetcode.cn/problems/word-search/)        | C++         | Medium     |
 |      91       | [解码方法](https://leetcode.cn/problems/decode-ways/)        | C++, Python | Medium     |
 |      96       | [不同的二叉搜索树](https://leetcode.cn/problems/unique-binary-search-trees/) | C++         | Medium     |
 |      97       | [交错字符串](https://leetcode.cn/problems/interleaving-string/) | C++, Python | Medium     |
@@ -109,6 +112,7 @@
 |      931      | [下降路径最小和](https://leetcode.cn/problems/minimum-falling-path-sum/) | C++, Python | Medium     |
 |      974      | [和可被 K 整除的子数组](https://leetcode.cn/problems/subarray-sums-divisible-by-k/) | C++         | Medium     |
 |      978      | [最长湍流子数组](https://leetcode.cn/problems/longest-turbulent-subarray/) | C++, Python | Medium     |
+|      980      | [不同路径 III](https://leetcode.cn/problems/unique-paths-iii/) | C++         | Hard       |
 |     1004      | [最大连续1的个数 III](https://leetcode.cn/problems/max-consecutive-ones-iii/) | C++         | Medium     |
 |     1027      | [最长等差数列](https://leetcode.cn/problems/longest-arithmetic-subsequence/) | C++, Python | Medium     |
 |     1035      | [不相交的线](https://leetcode.cn/problems/uncrossed-lines/)  | C++, Python | Medium     |
@@ -117,6 +121,7 @@
 |     1137      | [第N个泰波那契数](https://leetcode.cn/problems/n-th-tribonacci-number/) | C++, Python | Easy       |
 |     1143      | [最长公共子序列](https://leetcode.cn/problems/longest-common-subsequence/) | C++, Python | Medium     |
 |     1218      | [最长定差子序列](https://leetcode.cn/problems/longest-arithmetic-subsequence-of-given-difference/) | C++, Python | Medium     |
+|     1219      | [黄金矿工](https://leetcode.cn/problems/path-with-maximum-gold/) | C++         | Medium     |
 |     1312      | [让字符串成为回文串的最少插入次数](https://leetcode.cn/problems/minimum-insertion-steps-to-make-a-string-palindrome/) | C++, Python | Hard       |
 |     1314      | [矩阵区域和](https://leetcode.cn/problems/matrix-block-sum/) | C++         | Medium     |
 |     1419      | [数青蛙](https://leetcode.cn/problems/minimum-number-of-frogs-croaking/) | C++         | Medium     |
@@ -126,11 +131,6 @@
 |     1745      | [回文串分割 IV](https://leetcode.cn/problems/palindrome-partitioning-iv/) | C++, Python | Hard       |
 |     1863      | [找出所有子集的异或总和再求和](https://leetcode.cn/problems/sum-of-all-subset-xor-totals/) | C++         | Easy       |
 |     2331      | [计算布尔二叉树的值](https://leetcode.cn/problems/evaluate-boolean-binary-tree/) | C++         | Easy       |
-|      36       | [有效的数独](https://leetcode.cn/problems/valid-sudoku/)     | C++         | Medium     |
-|      37       | [解数独](https://leetcode.cn/problems/sudoku-solver/)        | C++         | Hard       |
-|      79       | [单词搜索](https://leetcode.cn/problems/word-search/)        | C++         | Medium     |
-|     1219      | [黄金矿工](https://leetcode.cn/problems/path-with-maximum-gold/) | C++         | Medium     |
-|      980      | [不同路径 III](https://leetcode.cn/problems/unique-paths-iii/) | C++         | Hard       |
 |      733      | [图像渲染](https://leetcode.cn/problems/flood-fill/)         | C++         | Easy       |
 |      200      | [岛屿数量](https://leetcode.cn/problems/number-of-islands/)  | C++         | Medium     |
 |      695      | [岛屿的最大面积](https://leetcode.cn/problems/max-area-of-island/) | C++         | Medium     |
