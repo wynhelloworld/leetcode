@@ -2,6 +2,7 @@
 
 |      #       | Title                                                        | Solutions   | Difficulty |
 | :----------: | :----------------------------------------------------------- | :---------- | :--------- |
+|      2       | [两数相加](https://leetcode.cn/problems/add-two-numbers/)    | C++         | Medium     |
 |      3       | [ 无重复字符的最长子串](https://leetcode.cn/problems/longest-substring-without-repeating-characters/) | C++         | Medium     |
 |      5       | [最长回文子串](https://leetcode.cn/problems/longest-palindromic-substring/) | C++, Python | Medium     |
 |      6       | [N 字形变换](https://leetcode.cn/problems/zigzag-conversion/) | C++         | Medium     |
@@ -12,7 +13,9 @@
 |      18      | [四数之和](https://leetcode.cn/problems/4sum/)               | C++         | Medium     |
 |      21      | [合并两个有序链表](https://leetcode.cn/problems/merge-two-sorted-lists/) | C++         | Easy       |
 |      22      | [括号生成](https://leetcode.cn/problems/generate-parentheses/) | C++         | Medium     |
+|      23      | [合并 K 个升序链表](https://leetcode.cn/problems/merge-k-sorted-lists/) | C++         | Hard       |
 |      24      | [两两交换链表中的节点](https://leetcode.cn/problems/swap-nodes-in-pairs/) | C++         | Medium     |
+|      25      | [K 个一组翻转链表](https://leetcode.cn/problems/reverse-nodes-in-k-group/) | C++         | Hard       |
 |      30      | [串联所有单词的子串](https://leetcode.cn/problems/substring-with-concatenation-of-all-words/) | C++         | Hard       |
 |      34      | [在排序数组中查找元素的第一个和最后一个位置](https://leetcode.cn/problems/find-first-and-last-position-of-element-in-sorted-array/) | C++         | Medium     |
 |      35      | [搜索插入位置](https://leetcode.cn/problems/search-insert-position/) | C++         | Easy       |
@@ -50,6 +53,7 @@
 |     136      | [只出现一次的数字](https://leetcode.cn/problems/single-number/) | C++         | Easy       |
 |     137      | [只出现一次的数字 II](https://leetcode.cn/problems/single-number-ii/) | C++         | Medium     |
 |     139      | [单词拆分](https://leetcode.cn/problems/word-break/)         | C++, Python | Medium     |
+|     143      | [重排链表](https://leetcode.cn/problems/reorder-list/)       | C++         | Medium     |
 |     152      | [乘积最大子数组](https://leetcode.cn/problems/maximum-product-subarray/) | C++, Python | Medium     |
 |     153      | [寻找旋转排序数组中的最小值](https://leetcode.cn/problems/find-minimum-in-rotated-sorted-array/) | C++         | Medium     |
 |     162      | [寻找峰值](https://leetcode.cn/problems/find-peak-element/)  | C++         | Medium     |
@@ -149,10 +153,6 @@
 |     1745     | [回文串分割 IV](https://leetcode.cn/problems/palindrome-partitioning-iv/) | C++, Python | Hard       |
 |     1863     | [找出所有子集的异或总和再求和](https://leetcode.cn/problems/sum-of-all-subset-xor-totals/) | C++         | Easy       |
 |     2331     | [计算布尔二叉树的值](https://leetcode.cn/problems/evaluate-boolean-binary-tree/) | C++         | Easy       |
-|      2       | [两数相加](https://leetcode.cn/problems/add-two-numbers/)    | C++         | Medium     |
-|     143      | [重排链表](https://leetcode.cn/problems/reorder-list/)       | C++         | Medium     |
-|      23      | [合并 K 个升序链表](https://leetcode.cn/problems/merge-k-sorted-lists/) | C++         | Hard       |
-|      25      | [K 个一组翻转链表](https://leetcode.cn/problems/reverse-nodes-in-k-group/) | C++         | Hard       |
 |      1       | [两数之和](https://leetcode.cn/problems/two-sum/)            | C++         | Easy       |
 | 面试题 01.02 | [判定是否互为字符重排](https://leetcode.cn/problems/check-permutation-lcci/) | C++         | Easy       |
 |     217      | [存在重复元素](https://leetcode.cn/problems/contains-duplicate/) | C++         | Easy       |
