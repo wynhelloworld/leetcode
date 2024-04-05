@@ -52,6 +52,7 @@
 |     121      | [买卖股票的最佳时机](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock/) | C++, Python | Easy       |
 |     122      | [买卖股票的最佳时机 II](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-ii/) | C++, Python | Medium     |
 |     123      | [买卖股票的最佳时机 III](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-iii/) | C++, Python | Hard       |
+|     127      | [单词接龙](https://leetcode.cn/problems/word-ladder/)        | C++         | Hard       |
 |     129      | [求根节点到叶节点数字之和](https://leetcode.cn/problems/sum-root-to-leaf-numbers/) | C++         | Medium     |
 |     130      | [被围绕的区域](https://leetcode.cn/problems/surrounded-regions/) | C++         | Medium     |
 |     132      | [分割回文串 II](https://leetcode.cn/problems/palindrome-partitioning-ii/) | C++, Python | Hard       |
@@ -98,6 +99,7 @@
 |     416      | [分割等和子集](https://leetcode.cn/problems/partition-equal-subset-sum/) | C++, Python | Medium     |
 |     417      | [太平洋大西洋水流问题](https://leetcode.cn/problems/pacific-atlantic-water-flow/) | C++         | Medium     |
 |     429      | [N 叉树的层序遍历](https://leetcode.cn/problems/n-ary-tree-level-order-traversal/) | C++         | Medium     |
+|     433      | [最小基因变化](https://leetcode.cn/problems/minimum-genetic-mutation/) | C++         | Medium     |
 |     438      | [找到字符串中所有字母异位词](https://leetcode.cn/problems/find-all-anagrams-in-a-string/) | C++         | Medium     |
 |     446      | [等差数列划分 II - 子序列](https://leetcode.cn/problems/arithmetic-slices-ii-subsequence/) | C++, Python | Hard       |
 |     461      | [汉明距离](https://leetcode.cn/problems/hamming-distance/)   | C++         | Easy       |
@@ -119,6 +121,7 @@
 |     647      | [回文子串](https://leetcode.cn/problems/palindromic-substrings/) | C++, Python | Medium     |
 |     662      | [二叉树最大宽度](https://leetcode.cn/problems/maximum-width-of-binary-tree/) | C++         | Medium     |
 |     673      | [最长递增子序列的个数](https://leetcode.cn/problems/number-of-longest-increasing-subsequence/) | C++, Python | Medium     |
+|     675      | [为高尔夫比赛砍树](https://leetcode.cn/problems/cut-off-trees-for-golf-event/) | C++         | Hard       |
 |     692      | [前K个高频单词](https://leetcode.cn/problems/top-k-frequent-words/) | C++         | Medium     |
 |     695      | [岛屿的最大面积](https://leetcode.cn/problems/max-area-of-island/) | C++         | Medium     |
 |     703      | [数据流中的第 K 大元素](https://leetcode.cn/problems/kth-largest-element-in-a-stream/) | C++         | Easy       |
@@ -163,6 +166,7 @@
 |     1658     | [将 x 减到 0 的最小操作数](https://leetcode.cn/problems/minimum-operations-to-reduce-x-to-zero/) | C++         | Medium     |
 |     1745     | [回文串分割 IV](https://leetcode.cn/problems/palindrome-partitioning-iv/) | C++, Python | Hard       |
 |     1863     | [找出所有子集的异或总和再求和](https://leetcode.cn/problems/sum-of-all-subset-xor-totals/) | C++         | Easy       |
+|     1926     | [迷宫中离入口最近的出口](https://leetcode.cn/problems/nearest-exit-from-entrance-in-maze/) | C++         | Medium     |
 |     2331     | [计算布尔二叉树的值](https://leetcode.cn/problems/evaluate-boolean-binary-tree/) | C++         | Easy       |
 |     860      | [柠檬水找零](https://leetcode.cn/problems/lemonade-change/)  | C++         | Easy       |
 |     2208     | [将数组和减半的最少操作次数](https://leetcode.cn/problems/minimum-operations-to-halve-array-sum/) | C++         | Medium     |
@@ -189,10 +193,6 @@
 |     1262     | [可被三整除的最大和](https://leetcode.cn/problems/greatest-sum-divisible-by-three/) | C++         | Medium     |
 |     1054     | [距离相等的条形码](https://leetcode.cn/problems/distant-barcodes/) | C++         | Medium     |
 |     767      | [重构字符串](https://leetcode.cn/problems/reorganize-string/) | C++         | Medium     |
-|     1926     | [迷宫中离入口最近的出口](https://leetcode.cn/problems/nearest-exit-from-entrance-in-maze/) | C++         | Medium     |
-|     433      | [最小基因变化](https://leetcode.cn/problems/minimum-genetic-mutation/) | C++         | Medium     |
-|     127      | [单词接龙](https://leetcode.cn/problems/word-ladder/)        | C++         | Hard       |
-|     675      | [为高尔夫比赛砍树](https://leetcode.cn/problems/cut-off-trees-for-golf-event/) | C++         | Hard       |
 |     542      | [01 矩阵](https://leetcode.cn/problems/01-matrix/)           | C++         | Medium     |
 |     1020     | [飞地的数量](https://leetcode.cn/problems/number-of-enclaves/) | C++         | Medium     |
 |     1765     | [地图中的最高点](https://leetcode.cn/problems/map-of-highest-peak/) | C++         | Medium     |
