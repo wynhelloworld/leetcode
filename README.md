@@ -115,6 +115,7 @@
 |     525      | [连续数组](https://leetcode.cn/problems/contiguous-array/)   | C++         | Medium     |
 |     526      | [优美的排列](https://leetcode.cn/problems/beautiful-arrangement/) | C++         | Medium     |
 |     529      | [扫雷游戏](https://leetcode.cn/problems/minesweeper/)        | C++         | Medium     |
+|     542      | [01 矩阵](https://leetcode.cn/problems/01-matrix/)           | C++         | Medium     |
 |     560      | [和为 K 的子数组](https://leetcode.cn/problems/subarray-sum-equals-k/) | C++         | Medium     |
 |     611      | [有效三角形的个数](https://leetcode.cn/problems/valid-triangle-number/) | C++         | Medium     |
 |     646      | [最长数对链](https://leetcode.cn/problems/maximum-length-of-pair-chain/) | C++, Python | Medium     |
@@ -148,6 +149,7 @@
 |     978      | [最长湍流子数组](https://leetcode.cn/problems/longest-turbulent-subarray/) | C++, Python | Medium     |
 |     980      | [不同路径 III](https://leetcode.cn/problems/unique-paths-iii/) | C++         | Hard       |
 |     1004     | [最大连续1的个数 III](https://leetcode.cn/problems/max-consecutive-ones-iii/) | C++         | Medium     |
+|     1020     | [飞地的数量](https://leetcode.cn/problems/number-of-enclaves/) | C++         | Medium     |
 |     1027     | [最长等差数列](https://leetcode.cn/problems/longest-arithmetic-subsequence/) | C++, Python | Medium     |
 |     1035     | [不相交的线](https://leetcode.cn/problems/uncrossed-lines/)  | C++, Python | Medium     |
 |     1046     | [最后一块石头的重量](https://leetcode.cn/problems/last-stone-weight/) | C++         | Easy       |
@@ -156,6 +158,7 @@
 |     1089     | [复写零](https://leetcode.cn/problems/duplicate-zeros/)      | C++         | Easy       |
 |     1137     | [第N个泰波那契数](https://leetcode.cn/problems/n-th-tribonacci-number/) | C++, Python | Easy       |
 |     1143     | [最长公共子序列](https://leetcode.cn/problems/longest-common-subsequence/) | C++, Python | Medium     |
+|     1162     | [地图分析](https://leetcode.cn/problems/as-far-from-land-as-possible/) | C++         | Medium     |
 |     1218     | [最长定差子序列](https://leetcode.cn/problems/longest-arithmetic-subsequence-of-given-difference/) | C++, Python | Medium     |
 |     1219     | [黄金矿工](https://leetcode.cn/problems/path-with-maximum-gold/) | C++         | Medium     |
 |     1312     | [让字符串成为回文串的最少插入次数](https://leetcode.cn/problems/minimum-insertion-steps-to-make-a-string-palindrome/) | C++, Python | Hard       |
@@ -165,6 +168,7 @@
 |     1576     | [替换所有的问号](https://leetcode.cn/problems/replace-all-s-to-avoid-consecutive-repeating-characters/) | C++         | Easy       |
 |     1658     | [将 x 减到 0 的最小操作数](https://leetcode.cn/problems/minimum-operations-to-reduce-x-to-zero/) | C++         | Medium     |
 |     1745     | [回文串分割 IV](https://leetcode.cn/problems/palindrome-partitioning-iv/) | C++, Python | Hard       |
+|     1765     | [地图中的最高点](https://leetcode.cn/problems/map-of-highest-peak/) | C++         | Medium     |
 |     1863     | [找出所有子集的异或总和再求和](https://leetcode.cn/problems/sum-of-all-subset-xor-totals/) | C++         | Easy       |
 |     1926     | [迷宫中离入口最近的出口](https://leetcode.cn/problems/nearest-exit-from-entrance-in-maze/) | C++         | Medium     |
 |     2331     | [计算布尔二叉树的值](https://leetcode.cn/problems/evaluate-boolean-binary-tree/) | C++         | Easy       |
@@ -193,10 +197,6 @@
 |     1262     | [可被三整除的最大和](https://leetcode.cn/problems/greatest-sum-divisible-by-three/) | C++         | Medium     |
 |     1054     | [距离相等的条形码](https://leetcode.cn/problems/distant-barcodes/) | C++         | Medium     |
 |     767      | [重构字符串](https://leetcode.cn/problems/reorganize-string/) | C++         | Medium     |
-|     542      | [01 矩阵](https://leetcode.cn/problems/01-matrix/)           | C++         | Medium     |
-|     1020     | [飞地的数量](https://leetcode.cn/problems/number-of-enclaves/) | C++         | Medium     |
-|     1765     | [地图中的最高点](https://leetcode.cn/problems/map-of-highest-peak/) | C++         | Medium     |
-|     1162     | [地图分析](https://leetcode.cn/problems/as-far-from-land-as-possible/) | C++         | Medium     |
 |     207      | [课程表](https://leetcode.cn/problems/course-schedule/)      | C++         | Medium     |
 |     210      | [课程表 II](https://leetcode.cn/problems/course-schedule-ii/) | C++         | Medium     |
 |     141      | [环形链表](https://leetcode.cn/problems/linked-list-cycle/)  | Python      | Easy       |
