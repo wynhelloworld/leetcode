@@ -70,7 +70,9 @@
 |     200      | [岛屿数量](https://leetcode.cn/problems/number-of-islands/)  | C++         | Medium     |
 |     202      | [快乐数](https://leetcode.cn/problems/happy-number/)         | C++         | Easy       |
 |     206      | [反转链表](https://leetcode.cn/problems/reverse-linked-list/) | C++         | Easy       |
+|     207      | [课程表](https://leetcode.cn/problems/course-schedule/)      | C++         | Medium     |
 |     209      | [长度最小的子数组](https://leetcode.cn/problems/minimum-size-subarray-sum/) | C++         | Medium     |
+|     210      | [课程表 II](https://leetcode.cn/problems/course-schedule-ii/) | C++         | Medium     |
 |     213      | [打家劫舍 II](https://leetcode.cn/problems/house-robber-ii/) | C++, Python | Medium     |
 |     215      | [数组中的第K个最大元素](https://leetcode.cn/problems/kth-largest-element-in-an-array/) | C++         | Medium     |
 |     217      | [存在重复元素](https://leetcode.cn/problems/contains-duplicate/) | C++         | Easy       |
@@ -197,8 +199,6 @@
 |     1262     | [可被三整除的最大和](https://leetcode.cn/problems/greatest-sum-divisible-by-three/) | C++         | Medium     |
 |     1054     | [距离相等的条形码](https://leetcode.cn/problems/distant-barcodes/) | C++         | Medium     |
 |     767      | [重构字符串](https://leetcode.cn/problems/reorganize-string/) | C++         | Medium     |
-|     207      | [课程表](https://leetcode.cn/problems/course-schedule/)      | C++         | Medium     |
-|     210      | [课程表 II](https://leetcode.cn/problems/course-schedule-ii/) | C++         | Medium     |
 |     141      | [环形链表](https://leetcode.cn/problems/linked-list-cycle/)  | Python      | Easy       |
 |     142      | [环形链表 II](https://leetcode.cn/problems/linked-list-cycle-ii/) | Python      | Medium     |
 |     160      | [相交链表](https://leetcode.cn/problems/intersection-of-two-linked-lists/) | Python      | Easy       |
