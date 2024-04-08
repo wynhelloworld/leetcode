@@ -64,6 +64,7 @@
 |     153      | [寻找旋转排序数组中的最小值](https://leetcode.cn/problems/find-minimum-in-rotated-sorted-array/) | C++         | Medium     |
 |     162      | [寻找峰值](https://leetcode.cn/problems/find-peak-element/)  | C++         | Medium     |
 |     174      | [地下城游戏](https://leetcode.cn/problems/dungeon-game/)     | C++, Python | Hard       |
+|     179      | [最大数](https://leetcode.cn/problems/largest-number/)       | C++         | Medium     |
 |     188      | [买卖股票的最佳时机 IV](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-iv/) | C++, Python | Hard       |
 |     191      | [位1的个数](https://leetcode.cn/problems/number-of-1-bits/)  | C++         | Easy       |
 |     198      | [打家劫舍](https://leetcode.cn/problems/house-robber/)       | C++, Python | Medium     |
@@ -91,6 +92,7 @@
 |     315      | [计算右侧小于当前元素的个数](https://leetcode.cn/problems/count-of-smaller-numbers-after-self/) | C++         | Hard       |
 |     322      | [零钱兑换](https://leetcode.cn/problems/coin-change/)        | C++, Python | Medium     |
 |     329      | [矩阵中的最长递增路径](https://leetcode.cn/problems/longest-increasing-path-in-a-matrix/) | C++         | Hard       |
+|     334      | [递增的三元子序列](https://leetcode.cn/problems/increasing-triplet-subsequence/) | C++         | Medium     |
 |     338      | [比特位计数](https://leetcode.cn/problems/counting-bits/)    | C++         | Easy       |
 |     371      | [两整数之和](https://leetcode.cn/problems/sum-of-two-integers/) | C++         | Medium     |
 |     375      | [猜数字大小 II](https://leetcode.cn/problems/guess-number-higher-or-lower-ii/) | C++         | Medium     |
@@ -124,6 +126,7 @@
 |     647      | [回文子串](https://leetcode.cn/problems/palindromic-substrings/) | C++, Python | Medium     |
 |     662      | [二叉树最大宽度](https://leetcode.cn/problems/maximum-width-of-binary-tree/) | C++         | Medium     |
 |     673      | [最长递增子序列的个数](https://leetcode.cn/problems/number-of-longest-increasing-subsequence/) | C++, Python | Medium     |
+|     674      | [最长连续递增序列](https://leetcode.cn/problems/longest-continuous-increasing-subsequence/) | C++         | Easy       |
 |     675      | [为高尔夫比赛砍树](https://leetcode.cn/problems/cut-off-trees-for-golf-event/) | C++         | Hard       |
 |     692      | [前K个高频单词](https://leetcode.cn/problems/top-k-frequent-words/) | C++         | Medium     |
 |     695      | [岛屿的最大面积](https://leetcode.cn/problems/max-area-of-island/) | C++         | Medium     |
@@ -140,6 +143,7 @@
 |     814      | [二叉树剪枝](https://leetcode.cn/problems/binary-tree-pruning/) | C++         | Medium     |
 |     844      | [比较含退格的字符串](https://leetcode.cn/problems/backspace-string-compare/) | C++         | Easy       |
 |     852      | [山脉数组的峰顶索引](https://leetcode.cn/problems/peak-index-in-a-mountain-array/) | C++         | Medium     |
+|     860      | [柠檬水找零](https://leetcode.cn/problems/lemonade-change/)  | C++         | Easy       |
 |     873      | [最长的斐波那契子序列的长度](https://leetcode.cn/problems/length-of-longest-fibonacci-subsequence/) | C++, Python | Medium     |
 |     879      | [盈利计划](https://leetcode.cn/problems/profitable-schemes/) | C++         | Hard       |
 |     904      | [水果成篮](https://leetcode.cn/problems/fruit-into-baskets/) | C++         | Medium     |
@@ -173,12 +177,8 @@
 |     1765     | [地图中的最高点](https://leetcode.cn/problems/map-of-highest-peak/) | C++         | Medium     |
 |     1863     | [找出所有子集的异或总和再求和](https://leetcode.cn/problems/sum-of-all-subset-xor-totals/) | C++         | Easy       |
 |     1926     | [迷宫中离入口最近的出口](https://leetcode.cn/problems/nearest-exit-from-entrance-in-maze/) | C++         | Medium     |
-|     2331     | [计算布尔二叉树的值](https://leetcode.cn/problems/evaluate-boolean-binary-tree/) | C++         | Easy       |
-|     860      | [柠檬水找零](https://leetcode.cn/problems/lemonade-change/)  | C++         | Easy       |
 |     2208     | [将数组和减半的最少操作次数](https://leetcode.cn/problems/minimum-operations-to-halve-array-sum/) | C++         | Medium     |
-|     179      | [最大数](https://leetcode.cn/problems/largest-number/)       | C++         | Medium     |
-|     334      | [递增的三元子序列](https://leetcode.cn/problems/increasing-triplet-subsequence/) | C++         | Medium     |
-|     674      | [最长连续递增序列](https://leetcode.cn/problems/longest-continuous-increasing-subsequence/) | C++         | Easy       |
+|     2331     | [计算布尔二叉树的值](https://leetcode.cn/problems/evaluate-boolean-binary-tree/) | C++         | Easy       |
 |     1005     | [K 次取反后最大化的数组和](https://leetcode.cn/problems/maximize-sum-of-array-after-k-negations/) | C++         | Easy       |
 |     2418     | [按身高排序](https://leetcode.cn/problems/sort-the-people/)  | C++         | Easy       |
 |     870      | [优势洗牌](https://leetcode.cn/problems/advantage-shuffle/)  | C++         | Medium     |
