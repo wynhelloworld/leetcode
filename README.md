@@ -99,6 +99,7 @@
 |     376      | [摆动序列](https://leetcode.cn/problems/wiggle-subsequence/) | C++, Python | Medium     |
 |     377      | [组合总和 Ⅳ](https://leetcode.cn/problems/combination-sum-iv/) | C++         | Medium     |
 |     394      | [字符串解码](https://leetcode.cn/problems/decode-string/)    | C++         | Medium     |
+|     409      | [最长回文串](https://leetcode.cn/problems/longest-palindrome/) | C++         | Easy       |
 |     413      | [等差数列划分](https://leetcode.cn/problems/arithmetic-slices/) | C++, Python | Medium     |
 |     416      | [分割等和子集](https://leetcode.cn/problems/partition-equal-subset-sum/) | C++, Python | Medium     |
 |     417      | [太平洋大西洋水流问题](https://leetcode.cn/problems/pacific-atlantic-water-flow/) | C++         | Medium     |
@@ -144,17 +145,20 @@
 |     844      | [比较含退格的字符串](https://leetcode.cn/problems/backspace-string-compare/) | C++         | Easy       |
 |     852      | [山脉数组的峰顶索引](https://leetcode.cn/problems/peak-index-in-a-mountain-array/) | C++         | Medium     |
 |     860      | [柠檬水找零](https://leetcode.cn/problems/lemonade-change/)  | C++         | Easy       |
+|     870      | [优势洗牌](https://leetcode.cn/problems/advantage-shuffle/)  | C++         | Medium     |
 |     873      | [最长的斐波那契子序列的长度](https://leetcode.cn/problems/length-of-longest-fibonacci-subsequence/) | C++, Python | Medium     |
 |     879      | [盈利计划](https://leetcode.cn/problems/profitable-schemes/) | C++         | Hard       |
 |     904      | [水果成篮](https://leetcode.cn/problems/fruit-into-baskets/) | C++         | Medium     |
 |     912      | [排序数组](https://leetcode.cn/problems/sort-an-array/)      | C++         | Medium     |
 |     918      | [环形子数组的最大和](https://leetcode.cn/problems/maximum-sum-circular-subarray/) | C++, Python | Medium     |
 |     931      | [下降路径最小和](https://leetcode.cn/problems/minimum-falling-path-sum/) | C++, Python | Medium     |
+|     942      | [增减字符串匹配](https://leetcode.cn/problems/di-string-match/) | C++         | Easy       |
 |     946      | [验证栈序列](https://leetcode.cn/problems/validate-stack-sequences/) | C++         | Medium     |
 |     974      | [和可被 K 整除的子数组](https://leetcode.cn/problems/subarray-sums-divisible-by-k/) | C++         | Medium     |
 |     978      | [最长湍流子数组](https://leetcode.cn/problems/longest-turbulent-subarray/) | C++, Python | Medium     |
 |     980      | [不同路径 III](https://leetcode.cn/problems/unique-paths-iii/) | C++         | Hard       |
 |     1004     | [最大连续1的个数 III](https://leetcode.cn/problems/max-consecutive-ones-iii/) | C++         | Medium     |
+|     1005     | [K 次取反后最大化的数组和](https://leetcode.cn/problems/maximize-sum-of-array-after-k-negations/) | C++         | Easy       |
 |     1020     | [飞地的数量](https://leetcode.cn/problems/number-of-enclaves/) | C++         | Medium     |
 |     1027     | [最长等差数列](https://leetcode.cn/problems/longest-arithmetic-subsequence/) | C++, Python | Medium     |
 |     1035     | [不相交的线](https://leetcode.cn/problems/uncrossed-lines/)  | C++, Python | Medium     |
@@ -179,11 +183,7 @@
 |     1926     | [迷宫中离入口最近的出口](https://leetcode.cn/problems/nearest-exit-from-entrance-in-maze/) | C++         | Medium     |
 |     2208     | [将数组和减半的最少操作次数](https://leetcode.cn/problems/minimum-operations-to-halve-array-sum/) | C++         | Medium     |
 |     2331     | [计算布尔二叉树的值](https://leetcode.cn/problems/evaluate-boolean-binary-tree/) | C++         | Easy       |
-|     1005     | [K 次取反后最大化的数组和](https://leetcode.cn/problems/maximize-sum-of-array-after-k-negations/) | C++         | Easy       |
 |     2418     | [按身高排序](https://leetcode.cn/problems/sort-the-people/)  | C++         | Easy       |
-|     870      | [优势洗牌](https://leetcode.cn/problems/advantage-shuffle/)  | C++         | Medium     |
-|     409      | [最长回文串](https://leetcode.cn/problems/longest-palindrome/) | C++         | Easy       |
-|     942      | [增减字符串匹配](https://leetcode.cn/problems/di-string-match/) | C++         | Easy       |
 |     455      | [分发饼干](https://leetcode.cn/problems/assign-cookies/)     | C++         | Easy       |
 |     553      | [最优除法](https://leetcode.cn/problems/optimal-division/)   | C++         | Medium     |
 |      45      | [跳跃游戏 II](https://leetcode.cn/problems/jump-game-ii/)    | C++         | Medium     |
