@@ -27,12 +27,14 @@
 |      39      | [组合总和](https://leetcode.cn/problems/combination-sum/)    | C++         | Medium     |
 |      43      | [字符串相乘](https://leetcode.cn/problems/multiply-strings/) | C++         | Medium     |
 |      44      | [通配符匹配](https://leetcode.cn/problems/wildcard-matching/) | C++, Python | Hard       |
+|      45      | [跳跃游戏 II](https://leetcode.cn/problems/jump-game-ii/)    | C++         | Medium     |
 |      46      | [全排列](https://leetcode.cn/problems/permutations/)         | C++         | Medium     |
 |      47      | [全排列 II](https://leetcode.cn/problems/permutations-ii/)   | C++         | Medium     |
 |      49      | [字母异位词分组](https://leetcode.cn/problems/group-anagrams/) | C++         | Medium     |
 |      50      | [Pow(x, n)](https://leetcode.cn/problems/powx-n/)            | C++         | Medium     |
 |      51      | [N 皇后](https://leetcode.cn/problems/n-queens/)             | C++         | Medium     |
 |      53      | [最大子数组和](https://leetcode.cn/problems/maximum-subarray/) | C++, Python | Medium     |
+|      55      | [跳跃游戏](https://leetcode.cn/problems/jump-game/)          | C++         | Medium     |
 |      62      | [不同路径](https://leetcode.cn/problems/unique-paths/)       | C++, Python | Medium     |
 |      63      | [不同路径 ll](https://leetcode.cn/problems/unique-paths-ii/) | C++, Python | Medium     |
 |      64      | [最小路径和](https://leetcode.cn/problems/minimum-path-sum/) | C++, Python | Medium     |
@@ -56,6 +58,7 @@
 |     129      | [求根节点到叶节点数字之和](https://leetcode.cn/problems/sum-root-to-leaf-numbers/) | C++         | Medium     |
 |     130      | [被围绕的区域](https://leetcode.cn/problems/surrounded-regions/) | C++         | Medium     |
 |     132      | [分割回文串 II](https://leetcode.cn/problems/palindrome-partitioning-ii/) | C++, Python | Hard       |
+|     134      | [加油站](https://leetcode.cn/problems/gas-station/)          | C++         | Medium     |
 |     136      | [只出现一次的数字](https://leetcode.cn/problems/single-number/) | C++         | Easy       |
 |     137      | [只出现一次的数字 II](https://leetcode.cn/problems/single-number-ii/) | C++         | Medium     |
 |     139      | [单词拆分](https://leetcode.cn/problems/word-break/)         | C++, Python | Medium     |
@@ -107,6 +110,7 @@
 |     433      | [最小基因变化](https://leetcode.cn/problems/minimum-genetic-mutation/) | C++         | Medium     |
 |     438      | [找到字符串中所有字母异位词](https://leetcode.cn/problems/find-all-anagrams-in-a-string/) | C++         | Medium     |
 |     446      | [等差数列划分 II - 子序列](https://leetcode.cn/problems/arithmetic-slices-ii-subsequence/) | C++, Python | Hard       |
+|     455      | [分发饼干](https://leetcode.cn/problems/assign-cookies/)     | C++         | Easy       |
 |     461      | [汉明距离](https://leetcode.cn/problems/hamming-distance/)   | C++         | Easy       |
 |     467      | [环绕字符串中唯一的子字符串](https://leetcode.cn/problems/unique-substrings-in-wraparound-string/) | C++, Python | Medium     |
 |     474      | [一和零](https://leetcode.cn/problems/ones-and-zeroes/)      | C++         | Medium     |
@@ -121,6 +125,7 @@
 |     526      | [优美的排列](https://leetcode.cn/problems/beautiful-arrangement/) | C++         | Medium     |
 |     529      | [扫雷游戏](https://leetcode.cn/problems/minesweeper/)        | C++         | Medium     |
 |     542      | [01 矩阵](https://leetcode.cn/problems/01-matrix/)           | C++         | Medium     |
+|     553      | [最优除法](https://leetcode.cn/problems/optimal-division/)   | C++         | Medium     |
 |     560      | [和为 K 的子数组](https://leetcode.cn/problems/subarray-sum-equals-k/) | C++         | Medium     |
 |     611      | [有效三角形的个数](https://leetcode.cn/problems/valid-triangle-number/) | C++         | Medium     |
 |     646      | [最长数对链](https://leetcode.cn/problems/maximum-length-of-pair-chain/) | C++, Python | Medium     |
@@ -184,11 +189,6 @@
 |     2208     | [将数组和减半的最少操作次数](https://leetcode.cn/problems/minimum-operations-to-halve-array-sum/) | C++         | Medium     |
 |     2331     | [计算布尔二叉树的值](https://leetcode.cn/problems/evaluate-boolean-binary-tree/) | C++         | Easy       |
 |     2418     | [按身高排序](https://leetcode.cn/problems/sort-the-people/)  | C++         | Easy       |
-|     455      | [分发饼干](https://leetcode.cn/problems/assign-cookies/)     | C++         | Easy       |
-|     553      | [最优除法](https://leetcode.cn/problems/optimal-division/)   | C++         | Medium     |
-|      45      | [跳跃游戏 II](https://leetcode.cn/problems/jump-game-ii/)    | C++         | Medium     |
-|      55      | [跳跃游戏](https://leetcode.cn/problems/jump-game/)          | C++         | Medium     |
-|     134      | [加油站](https://leetcode.cn/problems/gas-station/)          | C++         | Medium     |
 |     738      | [单调递增的数字](https://leetcode.cn/problems/monotone-increasing-digits/) | C++         | Medium     |
 |     991      | [坏了的计算器](https://leetcode.cn/problems/broken-calculator/) | C++         | Medium     |
 |      56      | [合并区间](https://leetcode.cn/problems/merge-intervals/)    | C++         | Medium     |
