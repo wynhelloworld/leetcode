@@ -98,11 +98,13 @@
 |     329      | [矩阵中的最长递增路径](https://leetcode.cn/problems/longest-increasing-path-in-a-matrix/) | C++         | Hard       |
 |     334      | [递增的三元子序列](https://leetcode.cn/problems/increasing-triplet-subsequence/) | C++         | Medium     |
 |     338      | [比特位计数](https://leetcode.cn/problems/counting-bits/)    | C++         | Easy       |
+|     354      | [俄罗斯套娃信封问题](https://leetcode.cn/problems/russian-doll-envelopes/) | C++         | Hard       |
 |     371      | [两整数之和](https://leetcode.cn/problems/sum-of-two-integers/) | C++         | Medium     |
 |     375      | [猜数字大小 II](https://leetcode.cn/problems/guess-number-higher-or-lower-ii/) | C++         | Medium     |
 |     376      | [摆动序列](https://leetcode.cn/problems/wiggle-subsequence/) | C++, Python | Medium     |
 |     377      | [组合总和 Ⅳ](https://leetcode.cn/problems/combination-sum-iv/) | C++         | Medium     |
 |     394      | [字符串解码](https://leetcode.cn/problems/decode-string/)    | C++         | Medium     |
+|     397      | [整数替换](https://leetcode.cn/problems/integer-replacement/) | C++         | Medium     |
 |     409      | [最长回文串](https://leetcode.cn/problems/longest-palindrome/) | C++         | Easy       |
 |     413      | [等差数列划分](https://leetcode.cn/problems/arithmetic-slices/) | C++, Python | Medium     |
 |     416      | [分割等和子集](https://leetcode.cn/problems/partition-equal-subset-sum/) | C++, Python | Medium     |
@@ -149,6 +151,7 @@
 |     738      | [单调递增的数字](https://leetcode.cn/problems/monotone-increasing-digits/) | C++         | Medium     |
 |     740      | [删除并获得点数](https://leetcode.cn/problems/delete-and-earn/) | C++, Python | Medium     |
 |     746      | [使用最小花费爬楼梯](https://leetcode.cn/problems/min-cost-climbing-stairs/) | C++, Python | Easy       |
+|     767      | [重构字符串](https://leetcode.cn/problems/reorganize-string/) | C++         | Medium     |
 |     784      | [字母大小写全排列](https://leetcode.cn/problems/letter-case-permutation/) | C++         | Medium     |
 |     814      | [二叉树剪枝](https://leetcode.cn/problems/binary-tree-pruning/) | C++         | Medium     |
 |     844      | [比较含退格的字符串](https://leetcode.cn/problems/backspace-string-compare/) | C++         | Easy       |
@@ -175,12 +178,14 @@
 |     1046     | [最后一块石头的重量](https://leetcode.cn/problems/last-stone-weight/) | C++         | Easy       |
 |     1047     | [删除字符串中的所有相邻重复项](https://leetcode.cn/problems/remove-all-adjacent-duplicates-in-string/) | C++         | Easy       |
 |     1049     | [最后一块石头的重量 II](https://leetcode.cn/problems/last-stone-weight-ii/) | C++, Python | Medium     |
+|     1054     | [距离相等的条形码](https://leetcode.cn/problems/distant-barcodes/) | C++         | Medium     |
 |     1089     | [复写零](https://leetcode.cn/problems/duplicate-zeros/)      | C++         | Easy       |
 |     1137     | [第N个泰波那契数](https://leetcode.cn/problems/n-th-tribonacci-number/) | C++, Python | Easy       |
 |     1143     | [最长公共子序列](https://leetcode.cn/problems/longest-common-subsequence/) | C++, Python | Medium     |
 |     1162     | [地图分析](https://leetcode.cn/problems/as-far-from-land-as-possible/) | C++         | Medium     |
 |     1218     | [最长定差子序列](https://leetcode.cn/problems/longest-arithmetic-subsequence-of-given-difference/) | C++, Python | Medium     |
 |     1219     | [黄金矿工](https://leetcode.cn/problems/path-with-maximum-gold/) | C++         | Medium     |
+|     1262     | [可被三整除的最大和](https://leetcode.cn/problems/greatest-sum-divisible-by-three/) | C++         | Medium     |
 |     1312     | [让字符串成为回文串的最少插入次数](https://leetcode.cn/problems/minimum-insertion-steps-to-make-a-string-palindrome/) | C++, Python | Hard       |
 |     1314     | [矩阵区域和](https://leetcode.cn/problems/matrix-block-sum/) | C++         | Medium     |
 |     1419     | [数青蛙](https://leetcode.cn/problems/minimum-number-of-frogs-croaking/) | C++         | Medium     |
@@ -194,11 +199,6 @@
 |     2208     | [将数组和减半的最少操作次数](https://leetcode.cn/problems/minimum-operations-to-halve-array-sum/) | C++         | Medium     |
 |     2331     | [计算布尔二叉树的值](https://leetcode.cn/problems/evaluate-boolean-binary-tree/) | C++         | Easy       |
 |     2418     | [按身高排序](https://leetcode.cn/problems/sort-the-people/)  | C++         | Easy       |
-|     397      | [整数替换](https://leetcode.cn/problems/integer-replacement/) | C++         | Medium     |
-|     354      | [俄罗斯套娃信封问题](https://leetcode.cn/problems/russian-doll-envelopes/) | C++         | Hard       |
-|     1262     | [可被三整除的最大和](https://leetcode.cn/problems/greatest-sum-divisible-by-three/) | C++         | Medium     |
-|     1054     | [距离相等的条形码](https://leetcode.cn/problems/distant-barcodes/) | C++         | Medium     |
-|     767      | [重构字符串](https://leetcode.cn/problems/reorganize-string/) | C++         | Medium     |
 |     141      | [环形链表](https://leetcode.cn/problems/linked-list-cycle/)  | Python      | Easy       |
 |     142      | [环形链表 II](https://leetcode.cn/problems/linked-list-cycle-ii/) | Python      | Medium     |
 |     160      | [相交链表](https://leetcode.cn/problems/intersection-of-two-linked-lists/) | Python      | Easy       |
