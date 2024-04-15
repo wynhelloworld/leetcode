@@ -13,6 +13,7 @@
 |      15      | [三数之和](https://leetcode.cn/problems/3sum/)               | C++         | Medium     |
 |      17      | [电话号码的字母组合](https://leetcode.cn/problems/letter-combinations-of-a-phone-number/description/) | C++         | Medium     |
 |      18      | [四数之和](https://leetcode.cn/problems/4sum/)               | C++         | Medium     |
+|      19      | [删除链表的倒数第 N 个结点](https://leetcode.cn/problems/remove-nth-node-from-end-of-list/) | C++, Python | Medium     |
 |      21      | [合并两个有序链表](https://leetcode.cn/problems/merge-two-sorted-lists/) | C++         | Easy       |
 |      22      | [括号生成](https://leetcode.cn/problems/generate-parentheses/) | C++         | Medium     |
 |      23      | [合并 K 个升序链表](https://leetcode.cn/problems/merge-k-sorted-lists/) | C++         | Hard       |
@@ -46,6 +47,7 @@
 |      77      | [组合](https://leetcode.cn/problems/combinations/)           | C++         | Medium     |
 |      78      | [子集](https://leetcode.cn/problems/subsets/)                | C++         | Medium     |
 |      79      | [单词搜索](https://leetcode.cn/problems/word-search/)        | C++         | Medium     |
+|      86      | [分隔链表](https://leetcode.cn/problems/partition-list/)     | C++, Python | Medium     |
 |      91      | [解码方法](https://leetcode.cn/problems/decode-ways/)        | C++, Python | Medium     |
 |      96      | [不同的二叉搜索树](https://leetcode.cn/problems/unique-binary-search-trees/) | C++         | Medium     |
 |      97      | [交错字符串](https://leetcode.cn/problems/interleaving-string/) | C++, Python | Medium     |
@@ -63,9 +65,12 @@
 |     136      | [只出现一次的数字](https://leetcode.cn/problems/single-number/) | C++         | Easy       |
 |     137      | [只出现一次的数字 II](https://leetcode.cn/problems/single-number-ii/) | C++         | Medium     |
 |     139      | [单词拆分](https://leetcode.cn/problems/word-break/)         | C++, Python | Medium     |
+|     141      | [环形链表](https://leetcode.cn/problems/linked-list-cycle/)  | C++, Python | Easy       |
+|     142      | [环形链表 II](https://leetcode.cn/problems/linked-list-cycle-ii/) | C++, Python | Medium     |
 |     143      | [重排链表](https://leetcode.cn/problems/reorder-list/)       | C++         | Medium     |
 |     152      | [乘积最大子数组](https://leetcode.cn/problems/maximum-product-subarray/) | C++, Python | Medium     |
 |     153      | [寻找旋转排序数组中的最小值](https://leetcode.cn/problems/find-minimum-in-rotated-sorted-array/) | C++         | Medium     |
+|     160      | [相交链表](https://leetcode.cn/problems/intersection-of-two-linked-lists/) | C++, Python | Easy       |
 |     162      | [寻找峰值](https://leetcode.cn/problems/find-peak-element/)  | C++         | Medium     |
 |     174      | [地下城游戏](https://leetcode.cn/problems/dungeon-game/)     | C++, Python | Hard       |
 |     179      | [最大数](https://leetcode.cn/problems/largest-number/)       | C++         | Medium     |
@@ -199,11 +204,6 @@
 |     2208     | [将数组和减半的最少操作次数](https://leetcode.cn/problems/minimum-operations-to-halve-array-sum/) | C++         | Medium     |
 |     2331     | [计算布尔二叉树的值](https://leetcode.cn/problems/evaluate-boolean-binary-tree/) | C++         | Easy       |
 |     2418     | [按身高排序](https://leetcode.cn/problems/sort-the-people/)  | C++         | Easy       |
-|     141      | [环形链表](https://leetcode.cn/problems/linked-list-cycle/)  | Python      | Easy       |
-|     142      | [环形链表 II](https://leetcode.cn/problems/linked-list-cycle-ii/) | Python      | Medium     |
-|     160      | [相交链表](https://leetcode.cn/problems/intersection-of-two-linked-lists/) | Python      | Easy       |
-|      19      | [删除链表的倒数第 N 个结点](https://leetcode.cn/problems/remove-nth-node-from-end-of-list/) | Python      | Medium     |
-|      86      | [分隔链表](https://leetcode.cn/problems/partition-list/)     | Python      | Medium     |
 |     876      | [链表的中间结点](https://leetcode.cn/problems/middle-of-the-linked-list/) | Python      | Easy       |
 |      92      | [反转链表 II](https://leetcode.cn/problems/reverse-linked-list-ii/) | Python      | Medium     |
 |     234      | [回文链表](https://leetcode.cn/problems/palindrome-linked-list/) | Python      | Easy       |
